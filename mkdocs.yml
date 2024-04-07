@@ -1,3 +1,13 @@
 site_name: My Docs
+
 theme:
   name: material
+
+extra:                                              # Language Selection
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: Indonesian
+      link: /id/
+      lang: id

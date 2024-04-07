@@ -1,6 +1,6 @@
 # The Commander
 
-## _Liderando o Squad_ {#leading-the-troops}
+## Liderando o Squad
 
 A principal tarefa do comandante é **coordenar** a equipe e dar orientação e direção àqueles que operam sob seu comando. Sua função é monitorar situações e missões e a visão geral do campo de batalha para determinar efetivamente uma estratégia. Ele também pode conceder ou negar pedidos enviados pelos líderes do esquadrão. Estes incluem relatórios de contato e ataques de artilharia.
 
@@ -44,7 +44,7 @@ Se os Líderes do Esquadrão acreditam que o Comandante não é eficiente em seu
 
 O **Commander Rally Point** pode ser usado por toda a equipe. Para estabelecer este RP o Comandante precisa de pelo menos 6 jogadores perto dele \(um deles deve ser um líder de esquadrão \) para colocar o RP. Este RP não está disponível no modo skirmish e pelo menos 12 jogadores devem estar no time do comandante. O RP permanecerá ativo enquanto o comandante estiver dentro do raio de 100m do ponto de encontro. Todas as outras regras descritas no capítulo Líder de Esquadrão sobre pontos de rally também se aplicam ao ponto de encontro do comandante.
 
-## _UAV_ {#uav}
+## UAV
 
 O Comandante das Forças Convencionais e a milícia são capazes de controlar um **Veículo Aéreo Não Tripulado \(UAV\) o famoso Drone** do posto de comando de sua equipe ou veículo de comando blindado \(ACV \). O UAV em PR:BF2 não revela automaticamente as posições inimigas, mas dá ao comandante os meios para observar visualmente o campo de batalha do ponto de vista de uma visão aérea. O comandante pode controlar a câmera do UAV enquanto ele navega a uma altitude alta o bastante.
 

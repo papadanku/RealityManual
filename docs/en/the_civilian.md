@@ -1,3 +1,4 @@
+
 # The Civilian
 
 When playing on the Iraqi insurgent, Hamas or Taliban faction, players can choose to play as the Civilian. This role’s primary focus is to gather intelligence on Coalition forces and to run interference for the insurgent Cell Leaders. This kit does not come equipped with any weapons but has a wide variety of equipment and tools. Civilians can use their cellphones to spot enemy troops for their team by placing a marker on the map.

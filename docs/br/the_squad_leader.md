@@ -1,6 +1,6 @@
 # O Líder de Esquadrão
 
-## _Guiando Esquadrão_ {#guiding-squad}
+## Guiando Esquadrão
 
 Como explicado na seção [Navegação no Campo de Batalha](the_basics.md#Battlefield Navigation), o Líder do Esquadrão pode colocar marcas no mapa para os membros de seu esquadrão seguirem. Eles encontrarão uma marca em sua bússola para seguir, bem como um ícone no mapa. O Líder do Esquadrão deve usá-los sempre que possível e também pode usar isso para obter facilmente a distância em direção ao alvo. Ele pode fazer isso a partir do minimapa clicando com o botão direito do mouse e colocando a marca ou pressionando a tecla de rádio secundária **\(T \)** e apontando para o alvo e usando um dos botões para colocar o marcador.
 
@@ -13,7 +13,7 @@ Como explicado na seção [Navegação no Campo de Batalha](the_basics.md#Battle
 
 O comandante também pode comandar você. Se você aceitar o pedido \(**PAGE UP** \), sua marca será substituído pelo pedido do comandante.
 
-## _Marcando Inimigos_ {#spotting-enemies}
+## Marcando Inimigos
 
 O **Lider de Esquadrão** em PR:BF2 tem muitas habilidades funcionais. Ele é capaz de marcar unidades inimigas no mapa e encaminhar relatos de contato para o comandante da equipe com a habilidade de marcar um alvo no mapa da equipe. Para executar essas funções, siga estas etapas:
 
@@ -27,7 +27,7 @@ O **Lider de Esquadrão** em PR:BF2 tem muitas habilidades funcionais. Ele é ca
 [Video Tutorial - Marcando](https://www.youtube.com/watch?v=XNDb2yMuoho "Video Tutorial - Marking")
 
 
-## _O GTL Designador \(GTLD\)_ {#gtld}
+## O GTL Designador \(GTLD\)
 
 O kit de Líder de Esquadrão e o kit Spotter usado pelas forças convencionais são equipados com **GTLD \(Ground Target Laser Designator\)**. Este equipamento tem melhor zoom do que os binóculos comuns, inclui um visor de faixa e permite que você marque alvos inimigos que podem ser alvo de bombas ou mísseis da unidade aérea aliada \(e inimiga\).
 
@@ -40,7 +40,7 @@ Além disso, ao observar com o GTLD, você pode acessar o menu de rádio princip
 [Video Tutorial - Lazing](https://www.youtube.com/watch?v=d7pntNDjSvM "Video Tutorial - Lazing")
 
 
-## _Rally Points_ {#rally-points}
+## Rally Points
 
 Um Líder de Esquadrão tem a capacidade de definir **Rally Points \(RP \)**. Isso permite que membros do esquadrão mortos se reagrupem em uma área segura com o resto de seu esquadrão. Para colocar um RP, você precisa pressionar **a tecla de rádio secundária \(T \)** e selecionar **COLOCAR RALLY POINT.**
 
@@ -59,7 +59,7 @@ Um inimigo que esteja a menos de 50m em mapas de 1x1km ou mapas de 125m ou 2x2km
 
 Um ponto de rally rearma a cada 1 minuto. A menos que tenha sido destruido. Nesse caso, você precisa esperar 5 minutos.
 
-## _Solicitando Suporte_ {#requesting-support}
+## Solicitando Suporte
 
 O líder do esquadrão também pode usar seu rádio para solicitar apoio de outros esquadrões. Para isso, ele deve ativar o rádio e depois pressionar **a tecla de rádio secundária \(T\).** Isso abrirá o menu para solicitar suporte, usar recursos e contruir estruturas da equipe. Os cinco comandos inferiores começando com **“Preciso ...”** colocarão um marcador de mapa na sua posição. Eles também transmitem uma mensagem de rádio para sua equipe para alertá-los sobre sua solicitação. O pedido **Preciso de Area Attack**  comporta-se um pouco diferente do resto. Em alguns mapas, forças convencionais podem usar este comando para solicitar uma **salva de artilharia**. Se o seu pedido for aprovado pelo comandante da equipe, o ataque ocorrerá após um minuto. Depois de carregar um novo mapa ou executar um area attack, leva 30 minutos até que ele esteja disponível novamente. Facções igualmente não convencionais têm acesso a uma salva de morteiros a cada 20 minutos na maioria dos mapas.
 
@@ -67,7 +67,7 @@ O líder do esquadrão também pode usar seu rádio para solicitar apoio de outr
 >
 > Solicitando suporte pelo de rádio
 
-## _Trabalho de Construção_ {#construction-work}
+## Trabalho de Construção
 
 A construção de estruturas / assets é uma funcionalidade essencial do Líder de Esquadrão que o Comandante da equipe também possui. Ao implantar e construir um Forward Outpost \(FOB\), um Líder de Esquadrão precisa ter um kit officer e uma caixa de suprimento pesada dentro de um raio de 50m de sua posição. 2 caixas de suprimentos leves oferecem as mesmas capacidades que uma caixa de suprimento pesado para atingir o mesmo objetivo. Os  Insurgents, Taliban e o Hamas só podem implantar hidouts, morteiros e armas antitanque para sua equipe, que não precisam de suprimentos para construir essas estruturas. Para executar esta função, é necessário um líder de squad ou kit de colaborador.
 
@@ -99,7 +99,7 @@ As armas de estruturas podem ser rearmadas largando bolsas de munição ao lado 
 >
 > Removendo e Construindo um exemplo de uma foxhole
 
-## _Estruturas Implementáveis_ {#deployable-structures}
+## Estruturas Implementáveis
 
 Aqui está uma lista das estruturas Implementáveis e os requisitos para construí-las. As estruturas Implementáveis podem ser desmontadas com uma pá ou, alternativamente, destruídos com C4, IEDs, disparos de tanques, alguns disparos de APC ou qualquer outra forma de material pesado. as estruturas também podem ser completamente destruídas, continuando a danificar a base do local. FOBs e Hidouts podem ser destruídos também por morteiros ou explosivos C4 e TNT. Os líderes da esquadrão podem remover estruturas não compiladas com o rádio de forma semelhante à forma como foram implantados, usando alternativamente o clique direito para remover a base da estrutura. O modo de disparo alternativo para a Pá também tem a capacidade de desmontar estruturas não construidas. Uma observação importante sobre os requisitos e limitações listados abaixo é que todos os valores sobre a distância para um FOB e a quantidade máxima de assets por FOB são dobrados no modo de jogo CNC \(exceto a quantidade de morteiros \). Lembre-se também que 2 grandes caixas de suprimentos também podem ser substituídas por 4 pequenas caixas de suprimentos ou 1 grande e 2 pequenas caixas. Para saber mais sobre logística e caixas veja [o canal de logística.](the_basics.md#logistics).
 

@@ -1,6 +1,6 @@
 # Commander
 
-## _Führen der Truppen_ {#führen-der-truppen}
+## Führen der Truppen
 
 Die Hauptaufgabe des Kommandanten ist es, das Team zu koordinieren und den Einsatzkräften unter seinem Kommando Anweisungen und Richtung zu geben. Seine Rolle besteht darin, Situationen und Verhalten zu überwachen und den gesamten Spielraum auf dem Schlachtfeld zu überblicken, um seine Strategie effektiv zu bestimmen. Er kann auch Anfragen von Squad-Anführern erteilen oder ablehnen. Dazu gehören Kontaktberichte und Bereichsangriffe.
 
@@ -41,7 +41,7 @@ Wenn die Squad Leader glauben, dass der Commander nicht effizient genug ist, hab
 
 Der  **Commander Rally Point**  kann vom gesamten Team genutzt werden. Um diesen RP zu errichten, benötigt der Kommandant mindestens 6 Spieler in der Nähe von ihm \(einer davon muss ein Gruppenführer sein\), um die RP zu platzieren. Dieser RP ist im Gefechtsmodus nicht verfügbar und mindestens 12 Spieler müssen im Team des Kommandanten sein. Der RP bleibt aktiv, solange sich der Kommandant innerhalb eines Radius von 100m vom Sammelpunkt befindet. Alle anderen Regeln, die im Kapitel "Squad Leader" beschrieben sind, gelten auch für den Kommandanten-Sammelpunkt.
 
-## _UAV_ {#uav}
+## UAV
 
 Der Kommandant der konventionellen Streitkräfte und die Miliz sind in der Lage, ein  **unbemanntes Luftfahrzeug  \(UAV \)**  vom Kommandoposten oder dem gepanzerten Kommandofahrzeug \(ACV \) des Teams aus zu steuern. Das UAV in PR: BF2 deckt die feindlichen Positionen nicht automatisch auf, sondern gibt dem Kommandanten die Möglichkeit, das Schlachtfeld visuell aus der Vogelperspektive zu beobachten. Der Kommandant kann die Kamera des UAV steuern, während er in konstanter Höhe kreuzt.
 

@@ -1,6 +1,6 @@
 # README
 
-## _System Requirements_ {#systemreq}
+## System Requirements
 
 * **Operating System:** Windows 7, 8 or 10
 * **Processor:** 2.4 Ghz Dual-Core minimum. 3.2 Ghz Recommended
@@ -13,7 +13,7 @@
 * **Input:** Mouse, Keyboard
 * **Optional:** Joystick, Headset, microphone \(strongly recommended for voice communication\)
 
-## _Spiel Installation_ {#spiel-installation}
+## Spiel Installation
 
 Mit PR: BF2 ist es nicht mehr erforderlich, dass Battlefield 2  **installiert ist. PR: BF2 v1.3 und höher funktioniert als eigenständiges Spiel. Wenn Sie eine Version von PR: BF2 installiert haben, müssen Sie diese deinstallieren, bevor Sie PR: BF2 v1.6 installieren.**  Es gibt keinen Patch von und ältere Version zu v1.3 \*\*!
 
@@ -34,7 +34,7 @@ Noch ein paar Punkte:
 * PR: BF2 v1.3 und darüber hinaus enthält PR Mumble in seiner Installation. Es besteht also keine Notwendigkeit, dies separat herunterzuladen.
 * Wenn Sie Torrents nicht verwenden möchten, finden Sie in unseren Foren Spiegel für direkte HTTP-Downloads.
 
-## _Creating a PR Account_ {#creating-a-pr-account}
+## Creating a PR Account
 
 Since DICE and EA removed support for BF2 in May 2014 we now use our own account-service for PR:BF2. All your old BF2 accounts (before PR:BF2 v1.2) are no longer retrievable. Before using the PR Launcher you will need to create a PR Account in order to play online. This account is unique to you. Offline play does not require a PR Account. We use third-party services to connect and verify a PR Account with. Currently we only support Steam. You will need to have an existing Steam account or [create a new one](https://steamcommunity.com/) in order to link to your PR Account. 
 When you launch Project Reality:BF2 for the first time you will shown the following window:
@@ -60,7 +60,7 @@ Your PR Account Level will be higher by gathering XP for a few indicators. These
 
 If you do not wish to create a PR Account to play online, you can choose to play offline only on the initial login screen. 
 
-## _Creating a Profile_ {#creating-a-profile}
+## Creating a Profile
 
 You have one PR Account that is unique. However, you can create multiple profiles under this PR Account. Each profile has a unique in-game name as well as separate settings and controls saved on your computer. You can retrieve previously created profiles as well. Older profiles created after PR:BF2 v1.2 and before v1.6 can be retrieved as well by providing the profile name and password. 
 
@@ -70,7 +70,7 @@ You can access the profile settings by hovering over the PLAY button in the PR L
 
 ![](../assets/creating_profile_6.png)
 
-## _Der PR-Launcher_ {#der-pr-launcher}
+## Der PR-Launcher
 
 Nach der Installation wird eine Verknüpfung für Project Reality: BF2 v1.6 auf dem Desktop bereitgestellt, doppelklicken Sie auf dieses Symbol, um den Launcher zu öffnen. Wenn der Launcher erscheint, werden Sie mit einem Spielerprofil-Setup begrüßt, hier können Sie entweder ein neues Konto erstellen, ein bereits vorhandenes PR-Spielerprofil abrufen oder importieren. Um Ihr Profil zu importieren, wählen Sie das gewünschte Profil aus der Liste und klicken Sie dann auf Importieren. Seit DICE und EA den Support für BF2 im Mai 2014 eingestellt haben, nutzen wir nun unseren eigenen Account-Service für PR: BF2. Alle Ihre alten BF2-Konten  \(vor PR: BF2 v1.2 \) sind nicht mehr abrufbar. Wir teilen unseren Account-Service mit der Forgotten Hope 2-Modifikation für BF2.
 
@@ -89,7 +89,7 @@ Nachdem Sie ein Profil erstellt und sich angemeldet haben, wird Ihnen das Hauptm
 
 > \_Das Hauptmenü des Launchers enthält auch einen Nachrichten-Ticker, der unten in blau hervorgehoben ist, mit Ankündigungen zu bevorstehenden Ereignissen, Entwicklungsfortschritten und Entwickler-Blogs der PR: BF2-Community.
 
-## _Spielmenü Navigation_ {#spielmenü-navigation}
+## Spielmenü Navigation
 
 *  **Kooperativ:**  Erlaubt Ihnen, PR: BF2 mit computergesteuerten KI-Soldaten in den Teams zu spielen. Dieser Modus ist sehr nützlich, um die Spielmechanik und -ausrüstung kennenzulernen, bevor Sie an Online-Kämpfen teilnehmen.
 *  **Bereitstellung:**  Der Hauptmodus in Project Reality. Hier finden Sie intensive Kämpfe mit bis zu 100 menschlichen Spielern.
@@ -97,7 +97,7 @@ Nachdem Sie ein Profil erstellt und sich angemeldet haben, wird Ihnen das Hauptm
 *  **Optionen:**  Hier können Sie die Audiooptionen sowie das Tastaturlayout konfigurieren. Video-Optionen müssen im PR Launcher geändert werden.
 *  **Beenden:**  Verwenden Sie diese Schaltfläche, um das Spiel zu beenden und zu Windows zurückzukehren.
 
-## _PR Mumble_ {#pr-mumble}
+## PR Mumble
 
 Im Spiel ist Mumble das Programm, mit dem wir uns in PR miteinander kommunizieren: BF2, das das Voice-Over-IP-System \(VOIP\) von BF2-Vanille ersetzt. Die Haupteigenschaft von PR Mumble ist, dass seine primäre Kommunikationsmethode im 3D-Raum übertragen wird, der direktional und näherungsbasiert ist. Dies nennt man Lokal. Das bedeutet, dass alle Spieler in deinem Team miteinander sprechen können, wenn sie in der Nähe sind, und du kannst hören, in welche Richtung Du sprichst. Ähnlich kannst du beurteilen, wie weit weg sie sind, genau wie im richtigen Leben.
 
@@ -123,7 +123,7 @@ PR Mumble integriert sich auch in das HUD-Display von BF2. Während des Spiels s
 
 Übertragendes Mikrofon / Stummgeschaltete Lautsprecher / Stummgeschaltet / Getrennt
 
-## _Troubleshooting_ {#troubleshooting}
+## Troubleshooting
 
 * PR: BF2 hat eine eigene Dateiprüfung, bevor Sie das Spiel starten. Sie können mit geänderten Dateien nicht online spielen. Sie können sie weiterhin offline verwenden.
 * PR: BF2 muss mit dem PR Launcher gestartet werden. Das Starten von BF2.EXE oder PRBF2.EXE wird nicht funktionieren.
@@ -143,7 +143,7 @@ Hier sind ein paar Forum-Links von realitymod.com, die aus verschiedenen Gründe
 * [Allgemeiner technischer Support](http://www.realitymod.com/forum/f360-general-technical-support) für alle Ihre technischen Fragen.
 * [PR In-Game Taktiken und Strategien](http://www.realitymod.com/forum/f137-pr-game-tactics-strategies) wird dir weiter helfen als dieses Handbuch, um alle Elemente von PR zu meistern: BF2 mit der Community schriftliche Anleitungen und Tutorials.
 
-## _Default Game Controls_ {#default-game-controls}
+## Default Game Controls
 
  **Allgemeine Kontrollen** 
 

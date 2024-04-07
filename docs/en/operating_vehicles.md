@@ -1,6 +1,6 @@
 # Operating Vehicles
 
-## _General Vehicle Information_ {#general-vehicle-information}
+## General Vehicle Information
 
 * Light vehicles, trucks and boats & most jeeps \(except light armored ones\) can be operated by any soldier. Armored vehicles, helicopters and aircraft need specified vehicle kits to operate. Players not using the correct kit will not be able to steer the vehicle or use the weapons. You can't enter or use enemy vehicles. For ground vehicles you then require a **Crewman** kit. For aircraft & helicopters it’s the **Pilot** kit. These are either requestable by the vehicle or by a supply crate.
 * External views for vehicles have been removed. But for certain vehicles there are custom cameras like the trucks can watch behind them \(**C**\).
@@ -16,7 +16,8 @@
 * You can use **Left CTRL+Mouse movement** to freelook when operating most vehicles such as helicopters, jets, jeeps, boats and trucks. APCs and IFVs do not have this feature as they use dedicated cameras.
 * On public servers (not in local gamemodes) you can quickly switch to the next available free seat in a vehicle by pressing **F8**.
 * When in a vehicle, you can see the information on the occupied seats in the bottom left of the the HUD. It shows only important crew seats as squared markers. This includes driver and gunner positions. Passenger seats do not have such markers and are shown as a seperate counter.
-## _Armored Vehicles_ {#armored-vehicles}
+
+## Armored Vehicles
 
 * Tanks and IFVs have separate driver & gunner seats. To use the gunner's position a driver or cupola gunner must be present. After switching to the gunner seat you must wait 30 seconds before you can aim the cannon.
 * The driver and gunner in a vehicle must be in the same squad.
@@ -45,7 +46,7 @@ Tank & IFV gunners deploy it by selecting its weapon slot \(usually 3\) and pres
 Vehicle deployed smoke.
 {% endfigure %}
 
-## _Helicopters_ {#helicopters}
+## Helicopters
 
 * Helicopters have a **warm-up time** of around 30 seconds. If too much thrust is generated while the rotor blades spin up, the pilot will lose control and crash. To start the helicopter you have to leave the throttle at idle for at least 30 seconds before trying to lift off.
 * Helicopter pilots can look in other directions while flying by pressing the 6, 7, 8 and 9 keys which you can map to a joystick POV HAT Switch. To look forwards again press 1 or select any other weapon your aircraft has.
@@ -63,7 +64,7 @@ Vehicle deployed smoke.
 * To successfully **drop supplies** from a transport helicopters the pilot needs to conduct the drop from an altitude under 5m / 15 feet by pressing the alternate fire key.
 * **Countermeasure flares** are limited and need to be rearmed when expended. Every time you deploy flare\(**X**\) one flare will be deployed.
 
-## _Fixed Wing Aircraft_ {#fixed-wing-aircraft}
+## Fixed Wing Aircraft
 
 * Aircraft have a **warm-up time** of 30 seconds before they can take off from the ground.
 * Jet pilots can look in other directions while flying by pressing the 7, 8 and 9 keys which you can map to a joystick POV HAT Switch. To look forwards again press 1 or select any other weapon your aircraft has.
@@ -91,7 +92,7 @@ Vehicle deployed smoke.
 * When you are about 200m from the runway cut your throttle.
 * Once you have touched the ground pull back on the stick to slow down, the planes all handle individually.
 
-## _Fire Control Systems_ {#fire-control-systems}
+## Fire Control Systems
 Vehicles in Project Reality use an authentic ballistic system for vehicle projectiles. Depending on the vehicle several variations of Fire Control Systems (FCS) computers can be used by the gunner. In principle, the FCS can calculate required adjustments to fire at the target exactly where you want to. Not only does the firing solution consider the drop of the projectile due to gravity, it also includes friction slowing down projectiles. Further it can account for the offset between the operator camera and barrel, the height difference to the target, banking of the vehicle as well as speed of the vehicle. Just as their real life counterparts, not every vehicle will have the same capabilities for their FCS. This section will delve deeper into some of the use-cases of our FCS implementations. 
 
 ### Ground Vehicles

@@ -2,7 +2,7 @@
 
 Am wichtigsten ist, dass du  **einem Squad**  beitreten solltest. Einige Server erzwingen das sogar, indem sie Solospieler nach einer Warnperiode treten. Das Spiel macht bei weitem den meisten Spaß in einem funktionierenden Kader. Wenn Sie Hilfe brauchen, fragen Sie einfach die Spieler in Ihrem Squad \*\*, was zu tun ist. Wenn möglich, benutze Mumble. Es wird häufig in PR verwendet. Playing PR: BF2 ohne Mikrofon bietet nicht die volle Erfahrung, also ist es eine kluge Investition. Wenn niemand antwortet, versuche einem anderen Team beizutreten oder nutze den allgemeinen Chat. Es gibt viele helfende Gemeindemitglieder, die neue Spieler willkommen heißen und sie unterstützen. Wir erwarten von Ihnen, dass Sie ein grundlegendes Verständnis von BF2 haben, wenn es um das Navigieren im Spiel geht, wie Anzeigetafel, Karte und Kit-Auswahl. Sie können BF2 immer starten und das Tutorial dort machen, um sich mit seiner Oberfläche vertraut zu machen. Dieses Handbuch konzentriert sich auf die Unterschiede zu BF2.
 
-## _Kit Auswahl & spawning_ {#kit-auswahl-und-spawning}
+## Kit Auswahl & spawning
 
 * Wenn du anfängst zu spielen, wird empfohlen, dass du nur als Schütze mit einem Visier deiner Wahl spawnst. Auf diese Weise kanst Du die grundlegenden Grundlagen des Gameplays besser erlernen.
 * Nachdem du die Grundlagen der Infanterie gelernt hast, kannst du deinen SL bitten, dir ein spezielles Kit zuzuweisen, wenn du der Aufgabe gewachsen bist. Wenn Sie neue Ausrüstung oder ein Fahrzeug ausprobieren möchten, können Sie dies einfach im Koop-Modus tun, ohne die Mitglieder Ihres Teams zu belästigen oder das Vermögen Ihres Teams zu gefährden.
@@ -34,7 +34,7 @@ In PR: BF2 kannst du nicht an jedem Kontrollpunkt, den dein Team kontrolliert, s
 
 * Einige Karten verfügen über  **Fallschirm-Spawns** , in denen ein Luftangriff simuliert wird. Diese werden sichtbar gemacht, indem Spawn-Marker auf der Minikarte bewegt werden. Wählen Sie einen und vergessen Sie nicht,  **drücken Sie 9, um den Fallschirm zu entfalten** !
 
-## _In-game interface  \(HUD \)_  {#hud}
+## In-game interface  \(HUD \)
 
 * In der PR: BF2-HUD im Spiel werden die Spieler durch  **Spieler-spezifische Nachrichten**  benachrichtigt, die nur von diesem Spieler gesehen werden können. Sie werden verwendet, um Spielern Feedback zu verschiedenen Ereignissen im Spiel zu geben, zum Beispiel:
 * Der Grund, warum der Spieler das Kit nicht angefordert hat, wurde angefordert.
@@ -75,7 +75,7 @@ In PR: BF2 kannst du nicht an jedem Kontrollpunkt, den dein Team kontrolliert, s
 >
 > Commo-Rose beim Drücken von Q.
 
-## _Gesundheitsmanagement_ {#Gesundheitsmanagement}
+## Gesundheitsmanagement
 
 Waffen in Project Reality sind sehr tödlich und es ist nur eine Frage der Zeit, bis du angeschossen wirst und zu bluten anfängst. Obwohl das HUD in PR keinen Gesundheitsbalken enthält, wird es, sobald Ihr Gesundheitszustand unter 75% fällt, akustische und visuelle Hinweise geben, die Dich warnen, wie zum Beispiel eine blutige Vision beim Husten oder Schreien.
 
@@ -116,11 +116,11 @@ Eine vorübergehende Spawn-Zeit-Strafe, die nur das nächste Mal betroffen ist  
 
 Um einen Spawn-Punkt auszuwählen, rufen Sie die Spawn-Map auf und wählen Sie einen geeigneten Ort. Sobald Sie mit diesem Spawn-Ort zufrieden sind, müssen Sie auf die  **Fertig**  -Schaltfläche in der unteren rechten Ecke des Kartenbildschirms klicken, um in das Spiel zurückzukehren. Nur zu warten bis der Timer ablaufen ist und die Enter Taste zu drücken, bringt Sie nicht zurück ins Spiel. Wenn auf dem Timer eine sehr große Zahl angezeigt wird, z. B. 5999, haben Sie nicht auf Fertig geklickt.
 
-## _Logistik_ {#Logistik}
+## Logistik
 
 Egal, ob Sie nur wenig Munition haben und sich neu bewaffnen müssen, ein neues Kit benötigen oder einfach nur Bereitstellungen erstellen möchten, die Logistik hält Ihr Team am Leben.
 
-### _Munition_ {#munition}
+### Munition
 
 Um sich wieder auffüllen zu können, müssen Sie sich einer Munitionsquelle nähern, die Ihre Waffen automatisch wieder füllt. Diese Quellen sind:
 
@@ -140,7 +140,7 @@ Beachten Sie, dass mit Ausnahme von  **Waffencaches**  und  **Fahrzeugdepot**  a
 
 Eine andere Sache zu beachten ist, dass die Nachlieferung ist  **nicht sofort** , sondern dauert ein paar Sekunden, abhängig von der Munitionsquelle sowie mit der Menge an Munition, die Sie brauchen, um sich zu versorgen. Auch wenn du nicht aufrüstst, verifiziere außerdem, dass die Light / Heavy-Versorgungskisten in deinem Teambesitz sind. Eine Wiederbewaffnung von \*\* gegnerischen Vorratskisten ist nicht möglich.
 
-### _Vorrats-Kisten_ {#Kisten}
+### Vorrats-Kisten
 
 Es gibt zwei Arten von Versorgungskisten in PR: BF2 - Light Supply Crate und Heave Supply Crate. Während beide es erlauben, Spieler zu versorgen und Stellungen zu bauen, entspricht eine leichte Kiste der Hälfte der schweren Vorratskiste, was bedeutet, dass du 2x leichte Vorratskisten brauchst, wo nur 1x schwere Vorratskiste benötigt wird. Weitere Informationen zu Aufbauen von Stellungen finden Sie im Kapitel. [Deployable Structures](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/de/the_basics/Aufbaubare-Strukturen_squad_leader/README.md)
 
@@ -173,7 +173,7 @@ Logistik-LKWs haben auch die Möglichkeit, eine Reparaturstation abzusetzen. Sie
 >
 > Reparatur absetzen.
 
-## ­_score_ {#Punkten}
+## ­_score_
 
 Die Punktzahl eines Spielers wird in Teamarbeitspunkte und einzelne Punkte geteilt. Es spricht für sich selbst, dass Team-bezogene Aktivitäten \(Bauen, Fahren von Fahrzeugen, Verteidigen / Angreifen von Flaggen\) zu den ersten und individuellen Aktionen beitragen, die zu Ihrem persönlichen Ergebnis beitragen.
 
@@ -184,7 +184,7 @@ Die Gesamtpunktzahl eines Spielers darf nie unter 0 fallen, aber die Teamarbeit 
 * Zerstöre dein eigenes Ziel:  **- 100** 
 * Zerstörendes feindliches Ziel:  **+ 150** 
 
-## _Mörser_ {#mörser}
+## Mörser
 
 Eine feste Mörserposition, die eine indirekte Feuerunterstützung über große Entfernungen bieten kann. Alle Fraktionen können hochexplosive Munition abfeuern. Konventionelle Streitkräfte und die Miliz können auch Airburst- und Rauchgranaten einsetzen. Mörser können nicht auf Karten kleiner als 2km gebaut werden.
 
@@ -198,7 +198,7 @@ Sobald Mörser benötigt werden, können Sie den Mörserrechner verwenden \(drü
 >
 > Die Mörserrechner-Schnittstelle.\_
 
-## _Ponton Brücken \(CSB\)_ {#ponton-brücken}
+## Ponton Brücken \(CSB\)
 
 Wenn konventionelle Streitkräfte kleine Flüsse oder beschädigte Brücken überqueren müssen, können sie CSBs mit ihren Logistikfahrzeugen einsetzen, von denen zwei transportiert werden. In Project Reality können CSBs nur dazu verwendet werden, die Lücken zerstörter Brücken und an vorbestimmten Orten zu füllen, die durch \(offensichtliche\) kleine Sandhaufen identifiziert werden, die über ein natürliches Hindernis, wie einen Fluss, positioniert sind.
 
@@ -220,7 +220,7 @@ In einigen Fällen müssen mehrere CSBs die gesamte Entfernung überspannen. In 
 >
 > CSB vom LKW wird eingesetzt.
 
-## _Schlachtfeld Navigation_ {#Schlachtfeld-Navigation}
+## Schlachtfeld Navigation
 
 Es ist ziemlich einfach, sich auf den großen Karten von PR: BF2 zu verlieren. Die langsame Taktung und Teamkoordination erfordert auch, dass die Spieler Orte klar und prägnant kommunizieren. PR: BF2 bietet 4 Tools, um Spielern dabei zu helfen.
 
@@ -244,7 +244,7 @@ Es ist ziemlich einfach, sich auf den großen Karten von PR: BF2 zu verlieren. D
 
 ![](../assets/grid.png)
 
-## _Basis Fahrzeuginformationen_ {#Basis-Fahrzeuginformationen}
+## Basis Fahrzeuginformationen
 
 Viele Fahrzeuge verhalten sich im Vergleich zu BF2 sehr unterschiedlich und erfordern fortgeschrittenere Kenntnisse. Da sie auch sehr lange Spawnzeiten haben \(bis zu 20 Minuten\), ist es wichtig zu wissen, wie man sie von problematischen Situationen fernhält. Dieser Teil wird sich darauf konzentrieren, Fahrzeugtypen zu erklären und wie sie das Team beeinflussen. Weitere Informationen zum Betrieb von Fahrzeugen finden Sie in diesem Handbuch im Abschnitt Betriebsfahrzeuge.
 

@@ -1,6 +1,6 @@
 # Il Caposquadra
 
-## _Guidare la Squadra_ {#guiding-squad}
+## Guidare la Squadra
 
 Come spiegato nella sezione Orientamento sul Campo, il Capo Squadra può posizionare dei marker sulla mappa per i membri della sua squadra per guidarli. Troveranno un marker sulla loro bussola da seguire, così come un'icona sulla mappa. Il Capo Squadra dovrebbe usarli il più spesso possibile e può anche utilizzarli per calcolare facilmente la distanza verso un obiettivo. Può farlo dalla mini-mappa facendo clic destro su di essa e posizionando il marker o premendo il **tasto radio secondario \(T\)** e puntando all'obiettivo e utilizzando uno dei pulsanti per posizionare il marker.
 
@@ -13,7 +13,7 @@ Come spiegato nella sezione Orientamento sul Campo, il Capo Squadra può posizio
 
 Anche il comandante può dare ordini. Se accetti l'ordine \(**PAG SU**\), il tuo marker verrà sostituito con l'ordine del comandante.
 
-## _Avvistare il Nemico_ {#spotting-enemies}
+## Avvistare il Nemico
 
 Il **Capo Squadra** in PR:BF2 ha molte abilità funzionali. È in grado di marcare unità nemiche sulla mappa e inviare rapporti di contatto al comandante della fazione con la possibilità di marcare un bersaglio sulla mappa della fazione. Per eseguire queste funzioni, segui questi passaggi:
 
@@ -30,7 +30,7 @@ Menu radiale di ricognizione.
 
 {{ "Video Tutorial - Posizionare i Marker" | youtube("XNDb2yMuoho") }}
 
-## _Il Designatore GTL \(GTLD\)_ {#gtld}
+## Il Designatore GTL \(GTLD\)
 
 Il kit del Capo Squadra e il kit del Ricognitore utilizzati dalle forze convenzionali sono equipaggiati con il **GTLD \(Designatore Laser per Bersagli Terrestri\)**. Questo dispositivo ha uno zoom migliore rispetto ai binocoli regolari, include un telemetro e ti permette di designare bersagli nemici che possono essere colpiti da bombe o missili da unità aeree alleate \(e nemiche\).
 
@@ -38,7 +38,7 @@ Con il GTLD equipaggiato, puoi fare clic destro per aumentare il livello di zoom
 
 Inoltre, mentre il raggio laser è ATTIVO, puoi accedere al menu della radio principale \(Q\) per richiedere supporto aereo ravvicinato \(CAS\) o richiedere missioni di fuoco di mortaio. Farlo trasmetterà automaticamente un messaggio di testo alla tua fazione con i dettagli della richiesta e aggiungerà un marker di bersaglio sulla mappa.
 
-## _Punti di Raduno_ {#rally-points}
+## Punti di Raduno
 
 Un Capo Squadra ha la possibilità di posizionare i **Punti di Raduno o Rally Point \(RP\)**. Ciò consente ai membri della squadra caduti in battaglia di riunirsi in un'area sicura con il resto della loro squadra. Per piazzare un RP, è necessario premere **il tasto della radio secondaria \(T\)** e selezionare **PIAZZA PUNTO DI RADUNO**.
 
@@ -57,7 +57,7 @@ Un nemico che si avvicina entro 50 metri nelle mappe di 1x1 km o 125 metri nelle
 
 Un punto di raduno si ricarica ogni 1 minuto, a meno che non sia stato conquistato dal nemico. In tal caso, è necessario attendere 5 minuti.
 
-## _Richiedere Supporto_ {#requesting-support}
+## Richiedere Supporto
 
 Il capo squadra può anche utilizzare la sua radio per richiedere supporto da altre squadre. Per farlo, deve attivare la sua radio e quindi premere **il tasto della radio secondaria \(T\)**. Questo aprirà il menu per richiedere supporto e per posizionare risorse della fazione. Le cinque opzioni inferiori che iniziano con **"NEED... \(NECESSITO\)"** posizioneranno un marker sulla mappa nella tua posizione. Trasmettono anche un messaggio radio alla tua squadra per avvisarli della tua richiesta. La richiesta **"NEED AREA ATTACK \(NECESSITO DI ATTACCO AD AREA\)"** si comporta in modo leggermente diverso rispetto alle altre. In alcune mappe, le forze convenzionali possono utilizzare questo comando per richiedere un **bombardamento d'artiglieria**. Se la tua richiesta viene approvata dal comandante della squadra, l'attacco colpirà dopo circa un minuto. Dopo aver caricato una nuova mappa o aver eseguito un attacco in area, ci vogliono 30 minuti prima che sia nuovamente disponibile. Allo stesso modo, le fazioni non convenzionali hanno accesso a un bombardamento di mortai ogni 20 minuti sulla maggior parte delle mappe.
 
@@ -66,7 +66,7 @@ Il capo squadra può anche utilizzare la sua radio per richiedere supporto da al
 Richiesta di supporto via radio.
 {% endfigure %}
 
-## _Costruzioni_ {#construction-work}
+## Costruzioni
 
 La costruzione di postazioni è una funzionalità essenziale del Capo Squadra, che anche il Comandante della fazione possiede. Quando si dispiega e si costruisce un Avamposto Avanzato \(FOB\), il Capo Squadra deve avere un kit da ufficiale e una cassa di rifornimenti pesante entro un raggio di 50 metri dalla sua posizione. 2 casse di rifornimenti leggere offrono le stesse capacità di 1 cassa di rifornimenti pesante per raggiungere lo stesso scopo. Insorti, Talebani e Hamas possono solo dispiegare nascondigli, mortai e postazioni anticarro per la loro squadra, che non richiedono rifornimenti per costruire queste strutture. Per eseguire questa funzione, è necessario un kit da capo della cellula o collaboratore.
 
@@ -106,7 +106,7 @@ Le armi dele Postazioni Fisse possono essere rifornite lasciando sacche di muniz
 Esempi di smantellamento e cotruzione di una trincea.
 {% endfigure %}
 
-## _Strutture Posizionabili_ {#deployable-structures}
+## Strutture Posizionabili
 
 Ecco una lista delle strutture posizionabili e i requisiti per costruirle. Le risorse posizionabili possono essere smantellate con una pala o, in alternativa, distrutte con C4, IED, proiettili di carri armati, proiettili di APC o qualsiasi altra forma di munizioni pesanti. Le postazioni possono anche essere completamente distrutte continuando a danneggiare le fondamenta della struttura. Gli avamposti e i nascondigli possono essere distrutti anche da esplosivi generici o esplosivi al plastico C4 e TNT. I capi squadra possono rimuovere le strutture posizionabili non completate tramite la radio in modo simile a come sono state piazzate, utilizzando il clic destro in alternativa per rimuovere le fondamenta della struttura. La modalità di fuoco alternativa della pala ha anche la capacità di smantellare le strutture posizionabili non completate. Un'importante nota sui requisiti e le limitazioni elencate di seguito è che tutti i valori riguardanti la distanza da una FOB e la quantità massima di risorse per FOB sono raddoppiati nella modalità di gioco CNC \(ad eccezione della quantità di mortai\). Ricorda anche che 2 casse di rifornimenti grandi possono essere sostituite anche da 4 casse di rifornimenti piccole o 1 cassa grande e 2 casse piccole. Per saperne di più sulla logistica e le casse, consulta [il capitolo sulla logistica.](the_basics.md#logistics).
 

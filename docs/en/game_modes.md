@@ -11,7 +11,7 @@ Most game modes feature 4 layer variations to it with different assets and suppo
 * **Standard \(64\):** This layer usually involves the entire map and all assets, as applicable to the map. This is the standard layer that can be played at all times. 
 * **Large \(128\):** This layer is designed for longer 2 hour rounds and usually contains all of the assets from the standard layer with small variations and higher ticket counts.
 
-## _Advance and Secure \(AAS\)_ {#advance-and-secure}
+## Advance and Secure \(AAS\)
 
 The AAS game mode is the closest to the original BF2 Conquest mode. The objective is to capture all of the control points \(CPs\) while maintaining more tickets than the enemy. CPs can only be captured in a linear order to simulate a shifting front line and focus engagements. CPs that are in play to be captured are indicated by an orange attack marker while those that need to be defended against enemy attacks are highlighted with a purple defend marker. If the enemy manages to capture a flag with a blue marker - usually reserved for the final flag near your main base – your team will start to bleed tickets at either a set or increasing rate of depletion. In contrast to regular Battlefield 2, the ticket bleed penalty is much harsher, and it is absolutely required to retake the flag. The bleed stops once your team manages to control the flag to the extend of the capture procedure starting for your team. Finally, a red marker next to a CP indicates an enemy flag which causes the enemy to bleed. 
 
@@ -29,24 +29,24 @@ The map-markers for AAS are:
 
 Vehicle Warfare, Skirmish & COOP use similar map markers for attack and defend.
 
-## _Vehicle Warfare \(VW\)_ {#vehicle-warfare}
+## Vehicle Warfare \(VW\)
 
 Many heavy vehicles battle for control of the map in this game mode. Players are limited to spawning with crewman kits. Only officer and pilot kits can be requested. Tickets are only influenced by how many CPs a team controls. Vehicles that are already destroyed respawn after 5 minutes. It takes at least 6 players \(inside vehicles\) to take control of a CP. Capturing works much faster than in AAS.
 
-## _Skirmish_ {#skirmish}
+## Skirmish
 
 This game mode operates on smaller scale map versions of the Advance and Secure game mode, intended for around 12-16 players. It is perfect for clan matches and small infantry engagements. Skirmish has the same rules as AAS but with smaller combat zones, usually no vehicles or deployable assets as well as fewer tickets. If a team loses a CP to the enemy they will be penalized by 10 tickets.
 
-## _Command & Control \(CNC\)_ {#command-and-control}
+## Command & Control \(CNC\)
 
 This game mode features large freeform battles. There are no capturable CPs, but instead each team must place a single forward operating base \(FOB\) [\(see Deployable Structures\)](the_squad_leader.md#deployable-structures)  
 somewhere on the map. The objective is to defend the team's FOB while trying to find and destroy the enemy FOB. When a team loses their FOB they will suffer a huge ticket penalty and continue to lose tickets until they build a new one. The FOB must be placed at least 200m from the map's borders. Building your team’s FOB closer to the map's center increases the ticket loss that the enemy will suffer while their FOB is down. Both teams can build more defenses in a bigger radius near their FOB than in other game modes.
 
-## _Co-Operative \(COOP\)_ {#co-operative}
+## Co-Operative \(COOP\)
 
 In this mode it is possible for one or more human players to march into battle alongside and against AI-controlled bots. This mode is ideal for practicing with equipment and vehicles before using them in full-scale battles with human players. To accommodate the use of bots some rules and items have been modified in this mode. Most of our maps have dedicated COOP layers.
 
-## _Insurgency \(INS\)_ {#insurgency}
+## Insurgency \(INS\)
 
 This mode is very unique in comparison to others within PR. The objective of the coalition forces (also called BluFor) is to find and the weapons caches of the opposing Insurgency faction(Also called RedFor) hidden throughout the map. The amount of caches destroyed required for the coalition forces to win varies on map and layer, most often the Insurgency has a total of 6 caches with 5 needing to be destroyed. The Insurgents win if they can protect at least 2 caches from destruction until the coalition force depletes their final ticket. For coalition forces the ticket loss rules of the AAS game mode apply, the Insurgency on the other hand has no tickets and can respawn infinitely.
 

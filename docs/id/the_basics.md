@@ -2,7 +2,7 @@
 
 Anda wajib untuk masuk kedalam **_Squad_/Regu**. Beberapa server malah dapat mengeluarkan beberapa pemain sendiri/_solo_ \(tidak masuk squad\) setelah diberikan beberapa peringatan. Permainan ini akan lebih seru bila dimainkan bersama Squad yang terorganisir. Bila anda membutuhkan bantuan, Anda bisa menanyakan tugas dan peran anda kepada sesama pemain di dalam Squad. Jika memungkinkan gunakan Mumble, metode komunikasi yang sangat umum digunakan di PR. Bermain PR:BF2 tanpa mikrofon yang aktif, anda tidak dapat merasakan pengalaman yang sepenuhnya ketika bermain. Jadi, mempunyai mikrofon adalah sebuah alat yang berharga ketika bermain PR. Bila tidak ada yang menjawab/berbicara dalam sebuah squad,  anda bisa masuk ke squad lain atau menggunakan _General Chat._ Ada banyak Anggota Komunitas PR:BF2 yang siap membantu Pemain baru. Kita mengharapkan anda untuk memiliki Pengetahuan Dasar mengenai Battlefield 2 Untuk menavigasikan Menu di dalam game, seperti _Scoreboard_, _Map_ dan Memilih _Kit_/Peran. Anda juga bisa bermain Battlefield 2 dan melakukan beberapa latihan disana untuk membiasakan dengan tampilannya. Manual ini akan berfokus dalam perbedaan BF2 dan PR:BF2.
 
-## _Seleksi Kit & spawn_ {#kit-selection-and-spawning}
+## Seleksi Kit & spawn
 
 * Ketika anda sudah mulai bermain, Direkomendasikan untuk spawn menjadi Rifleman pilihanmu. Dengan ini, anda dapat lebih tau tentang dasar-dasar gameplay PR:BF2.
 * Setelah anda paham dengan Dasar bermain Infanteri, anda dapat bertanya kepada _Squad Leader_/Pemimpin Squad untuk memberikan anda sebuah Peran Spesialis bila anda ingin mengisi peran tersebut. Bila anda ingin mencoba _Equipment_/Peralatan atau Kendaraan yang baru anda kenal, Anda dapat melakukannya dengan mudah di mode coop tanpa  membebani Squadmu atau Mempertaruhkan Asset Tim anda.
@@ -37,7 +37,7 @@ Biasanya akan menghilang dalam 5 menit setelah ronde dimulai dan bisa digunakan 
 
 * Beberapa peta terdapat fitur **_parachute spawn_** dimana mensimulasikan serangan lewat udara. Ini akan memvisualisasikan penanda _spawn_ yang bergerak di _minimap_. Pilih salah satu dan anda akan _spawn_ dengan parasut yang terbuka secara otomatis.
 
-## _Tampilan Dalam Game \(HUD\)_ {#hud}
+## Tampilan Dalam Game \(HUD\)
 
 * Dalam Tampilan in-game HUD PR:BF2, Pemain mendapatkan notifikasi dengan beberapa **player-specific messages** (Pesan Khusus Player) yang hanya bisa dilihat oleh player tersebut. Pesan tersebut digunakan untuk memberikan peringatan kepada player terkait dengan beberapa hal yang yang terjadi di game, contohnya :
   * Alasan kenapa player tidak diberikan kit yang diminta
@@ -78,7 +78,7 @@ Biasanya akan menghilang dalam 5 menit setelah ronde dimulai dan bisa digunakan 
 >
 > Commo-rose ketika menahan tombol Q
 
-## _Sistem Darah_ {#health-management}
+## Sistem Darah
 
 Senjata di Project Reality sangat berbahaya dan hanya masalah waktu saja dimana anda tertembak dan mulai berdarah. Meskipun PR tidak mempunyai tampilan yang berisi jumlah darah, akan ada suara kesakitan, batuk-batuk dan layar yang penuh darah ketika Darah anda turun dibawah 75%.
 
@@ -121,11 +121,11 @@ Penalty Sementara yang hanya berefek ketika nanti anda mati ( Bisa sampai 5 meni
 
 Untuk memilih tempat spawn, buka spawn map dan pilih tempat yang sesuai. Ketika anda sudah yakin untuk memilih tempat tersebut, anda harus mengklik tombol **Done** di pojok kanan bawah Map Screen untuk respawn kembali kedalam permainan. Dengan hanya menunggu Waktu respawn habis atau menekan Tombol Enter tidak akan membuatmu otomatis spawn. Bila anda melihat nomor yang sangat besar di respawn timer, seperti 5999 detik, itu artinya anda belum mengklik done.
 
-## _Logistik_ {#logistics}
+## Logistik
 
 Dimana anda kehabisan amunisi dan perlu mengisi ulang, ingin kit baru atau hanya ingin membuat _deployable emplacement_, logistik merupakan teman terbaik anda.
 
-### _Amunisi_ {#ammunition}
+### Amunisi
 
 Untuk bisa mengisi ulang perlengkapan dan amunisi, anda harus mendekat ke salah satu sumber amunisi, yang nanti akan mengisi ulang otomatis senjata dan peralatan anda. Sumber amunisinya antara lain:
 
@@ -222,7 +222,7 @@ Mengisi ulang senjata apapun itu akan membutuhkan 100 supply points. Meminta kit
 
 Hal lainnya yang perlu diingat bahwa mengisi ulang itu **tidak instan** dan memerlukan beberapa detik, semua itu tergantung dari sumber amunisi yang dibutuhkan untuk mengisi ulang supply anda. Sebagai tambahan jika anda tidak mengisi ulang, anda harus konfirmasi bahwa light/heavy supply crates adalah milik tim anda, karena anda tidak bisa mengisi ulang dari supply crate musuh.
 
-### _Supply Crates_ {#crates}
+### Supply Crates
 
 Ada 2 macam tipe supply crates di PR:BF2 - Light Supply Crate dan Heavy Supply Crate. Dimana keduanya bisa dapat digunakan untuk mengisi ulang dan membuat _deployable emplacement_. Light crate sama dengan setengah dari Heavy Supply Crate, dalam artian anda butuh 2x light supply crates dimana hanya dibutuhkan 1x heavy supply crate. Untuk mempelajari lebih lanjut tentang _deployable emplacement_, [\(bisa dilihat di bab Bangunan.\)](the_squad_leader.md#deployable-structures)
 
@@ -255,7 +255,7 @@ Logistic truck juga memiliki kemampuan untuk menaruh repair station. Barang ters
 >
 > Repair drop.
 
-## _Score_ {#score}
+## Score
 
 Skor pemain terbagi dari point kerjasama dan poin individu. Terbilang bahwa melakukan aktivitas kerjasama tim \(membangun, mengendarai kendaraan, menjaga/menyerang CP\) kontribusi utama dan tindakan individu \(membunuh pemain\) kontribusi ke skor pribadi.
 
@@ -266,7 +266,7 @@ Dari keseluruhan skor pemain tidak pernah bisa mencapai dibawah 0 tapi skor kerj
 * Menghancurkan objektif diri sendiri: **-100**
 * Menghancurkan objektif musuh: +**150**
 
-## _Mortar_ {#mortars}
+## Mortar
 
 Mortar yang telah dibuat dapat memberikan bantuan dengan tembakan secara tidak langsung dari jarak jauh. Semua faksi bisa menembakan peluru _high-explosive._ Pasukan konvensional dan militia bisa juga menggunakan peluru _airburst_ dan _smoke_. Mortar tidak bisa dibuat di peta berukuran dibawah dari 2km.
 
@@ -279,7 +279,7 @@ Ketika mortar sedang dibutuhkan anda bisa menggunakan kalkulator yang terdapat d
 >
 > _Tampilan calculator mortar_
 
-## _Close Support Bridges \(CSB\)_ {#close-support-bridges}
+## Close Support Bridges \(CSB\)
 
 Dibutuhkan untuk menyeberang sungai kecil atau jembatan yang rusak, pasukan konvensional bisa menaruh _CSB_ menggunakan logistik truk  yang membawa 2 jembatan. Di Project Reality _CSB_ hanya bisa digunakan untuk menutupi kerusakan jembatan yang hancur dan ada lokasi yang sudah ditentukan dimana ada gundukan tanah berukuran kecil.
 
@@ -295,7 +295,7 @@ Untuk proses penaruhannya untuk _CSB_ sangat simpel: 1. Kendarai truk logistik k
 
 Dalam beberapa kasus diperlukan lebih dari satu _CSB_ untuk menjangkau jarak yang lebih jauh. Dalam situasi seperti ini, anda perlu mengemudi ke ujung jembatan yang belum selesai dan menaruh jembatan yang baru dan ulangi  langkah tersebut sampai selesai.
 
-## _Navigasi Area Bertempur_ {#battlefield-navigation}
+## Navigasi Area Bertempur
 
 Sangatlah mudah untuk tersesat di peta yang besar di PR:BF2. Bergerak (secara) perlahan dan mengkoordinasikan tim juga membutuhkan pemain untuk berkomunikasi tentang lokasi dengan jelas dan ringkas. PR:BF2 menawarkan 4 alat untuk membantu pemain dengan ini.
 
@@ -318,7 +318,7 @@ Sangatlah mudah untuk tersesat di peta yang besar di PR:BF2. Bergerak (secara) p
 
 ![](../assets/grid.png)
 
-## _Informasi Dasar Kendaraan_ {#basic-vehicle-information}
+## Informasi Dasar Kendaraan
 
 Banyak kendaraan bersifat sangat berbeda dibandingkan dengan BF2 dan membutuhkan pengetahuan lebih banyak untuk mengoperasikannya. Karena kendaraan ini juga memiliki _respawn_ waktu yang sangat lama \(hingga 20 menit\) sangatlah penting untuk tahu bagaimana caranya untuk menghindar dari masalah. Bagian ini fokus untuk menjelaskan jenis kendaraan dan bagaimana kendaraan ini berpengaruh bagi tim. Untuk lebih detail dalam mengoperasikan kendaraan ini, baca lebih dalam di manual ini di sesi tentang Mengoperasikan Kendaraan.
 

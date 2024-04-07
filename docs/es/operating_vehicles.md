@@ -1,6 +1,6 @@
 # Operando Vehículos
 
-## _Informaciones Generales Sobre Vehículos_ {#general-vehicle-information}
+## Informaciones Generales Sobre Vehículos
 
 * Los vehículos ligeros, camiones, lanchas y Jeeps \(Excepto los blindados ligeros\) pueden ser operados por cualquier Soldado. Vehículos Blindados, Helicópteros y Aeronaves necesitan un Kit específico para operarlos. Jugadores no usando el kit correcto no podrán usar el vehículo y armamento. No puedes entrar o usar Vehículos enemigos. Para vehículos Terrestres necesitaras el kit de **Conductor**. Para los Aviones y Helicópteros necesitaras el Kit de **Piloto**. Estos son solicitados desde un vehículo
 o	de los suministros.
@@ -18,7 +18,7 @@ o	de los suministros.
 * En los servidores públicos \(no en los modos de juego locales\), puede cambiar rápidamente al siguiente asiento libre disponible en un vehículo presionando **F8**.
 * Cuando esté en un vehículo, puede ver la información sobre los asientos ocupados en la parte inferior izquierda del HUD. Muestra solo los asientos importantes de la tripulación como marcadores cuadrados. Esto incluye las posiciones de conductor y artillero. Los asientos de los pasajeros no tienen dichos marcadores y se muestran como un contador separado.
 
-## _Vehículos Blindados_ {#armored-vehicles}
+## Vehículos Blindados
 
 * Los tanques y los IFV tienen asientos separados para el conductor y el artillero. Para utilizar el puesto de artillero debe estar presente un conductor o un artillero de la torreta. Después de cambiar al asiento del artillero, debes esperar 30 segundos antes de poder apuntar el cañón..
 * El conductor y el artillero de un vehículo deben estar en el mismo escuadrón.
@@ -47,7 +47,7 @@ En los tanques y APC/IFV los artilleros despliegan el humo seleccionando el espa
 Humo Del Vehículo.
 {% endfigure %}
 
-## _Helicopteros_ {#helicopters}
+## Helicopteros
 
 * Los Helicópteros tienen un ***proceso de encendido** que dura 30 segundos. Si mucha potencia se genera cuando las aspas giran al iniciar la rotación, el piloto podría perder el control y chocar. Para encender el Helicóptero, no debes tocar el acelerador por al menos 30 segundos antes de intentar en levantarlo.
 * El piloto del Helicóptero puede mirar otras direcciones mientras vuela apretando los números 6, 7, 8 y 9, lo cual también se lo puede modificar para un Joystick. Para mirar adelante nuevamente, se debe presionar el numero 1 o seleccionar cualquier otra arma que tu aeronave tenga.
@@ -73,7 +73,7 @@ elegir:
 * **Las Bengalas** están limitadas y necesitan ser rearmadas una vez usadas. Cada vez que presiones
 \(X\)	un par de bengalas serán lanzadas. Mantén X para tirar muchas a la vez.
 
-## _Aviones de Combate_ {#fixed-wing-aircraft}
+## Aviones de Combate
 
 * Las aeronaves tienen un **proceso de calentamiento** de 30
 segundos antes de que puedan despegar.
@@ -106,7 +106,7 @@ tu aeronave tiene.
   5. Cuando estés a 200 metros de la pista, corta la potencia planeando hacia la pista.
   6. Una vez que haya tocado el suelo, tire hacia atrás de la palanca para reducir la velocidad, todos los aviones se comportan diferentes.
 
-## _Sistema de Control de Tiro_ {#fire-control-systems}
+## Sistema de Control de Tiro
 Los vehículos en Project Reality usan un auténtico sistema balístico para proyectiles de vehículos. Dependiendo del vehículo, el artillero puede usar varias variaciones de computadoras de sistemas de control de incendios \(FCS\). En principio, el FCS puede calcular los ajustes necesarios para disparar al objetivo exactamente donde lo desea. La solución de disparo no solo considera la caída del proyectil debido a la gravedad, sino que también incluye la fricción que ralentiza los proyectiles. Además, puede tener en cuenta el desplazamiento entre la cámara del operador y el cañón, la diferencia de altura con respecto al objetivo, la inclinación del vehículo y la velocidad del vehículo. Al igual que sus contrapartes de la vida real, no todos los vehículos tendrán las mismas capacidades para su FCS. Esta sección profundizará en algunos de los casos de uso de nuestras implementaciones de FCS. 
 
 ### Vehículos Terrestres

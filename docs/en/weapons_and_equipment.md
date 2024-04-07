@@ -1,6 +1,6 @@
 # Weapons & equipment
 
-## _General Weapons & Equipment_ {#general-weapons-equipment}
+## General Weapons & Equipment
 
 Weapons after prolonged movement sometimes take a moment to gain precision and accurately fire at long range targets. Engagements at short distances will be unaffected by movement based deviation. This allows players to make small positional corrections without suffering weapon inaccuracy. Going prone greatly reduces the player's accuracy for a few moments but provides the highest accuracy for engaging long distance targets once the player's aim has recovered. Going prone greatly reduces the player's accuracy for a few moments but provides the highest accuracy for engaging long distance targets once the player's aim has recovered.
 
@@ -114,13 +114,13 @@ For reasons of gameplay they are NOT Fire-and-Forget with homing ability like th
 
 > _Kits: Pilot, any spawnable kit used by a team with a paradrop spawn point_
 
-## _Back Up Iron Sights \(BUIS\)_ {#buis}
+## Back Up Iron Sights \(BUIS\)
 
 **Back up iron sights \(BUIS\)** are designed to provide the operator with an alternative method to acquisition a target depending on situation. Provided the weapon has BUIS equipped, a player will able to switch between backup sights and optics using **the pre-existing Cycle Camera key \(C**\). On the lower right hand corner is a small icon (S for scope, B for BUIS) displaying the currently selected view method. It is possible to change which method you’re using when aiming down sights, increasing your ability to either locate hostiles or precisely aim quickly. 
 
 {% figure "../assets/buis.png" %}
 {% endfigure %}
 
-## _Altering Sighting Range_ {#altering-sighting-range}
+## Altering Sighting Range
 
 {{ "Video Tutorial - Sighting Range" | youtube("cLfdH1EHWPA") }}

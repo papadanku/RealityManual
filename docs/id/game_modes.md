@@ -11,7 +11,7 @@ Kebanyakan mode permainan menyediakan 4 variasi dasar dengan aset dan bantuan te
 * **Standard (64)**: Varian ini biasanya melibatkan seluruh peta dan aset, sebagaimana berlaku untuk peta. Ini adalah varian _Standard_ yang dapat dimainkan setiap saat.
 * **Large (128)**: Varian ini didesain untuk ronde 2 jam atau lebih dan biasanya melibatkan semua aset dari varian _Standar_ dengan variasi lebih sedikit dan tiket lebih banyak.
 
-## _Advance and Secure \(AAS\)_ {#advance-and-secure}
+## Advance and Secure \(AAS\)
 
 Mode permainan AAS hampir sama dengan mode _Conquest_ di BF2. Objektifnya adalah untuk merebut semua _control points_ \(CP\) sambil mempertahankan lebih banyak tiket daripada musuh. CP hanya bisa direbut dalam perintah secara berurutan untuk mensimulasikan garis depan dan memfokuskan penyerangan. CP yang akan direbut ditandai oleh ikon serang berwarna jingga, sedangkan CP yang perlu dipertahankan ditandai dengan ikon tahan berwarna ungu.
 
@@ -30,23 +30,23 @@ Penanda peta untuk AAS antara lain:
 
 Vehicle Warfare, Skirmish & COOP menggunakan ikon peta yang serupa untuk serang dan bertahan.
 
-## _Vehicle Warfare \(VW\)_ {#vehicle-warfare}
+## Vehicle Warfare \(VW\)
 
 Berbagai kendaraan berat berperang untuk mengendalikan arus pertempuran di game mode ini. Pemain dibatasi dengan _crewman kit_ saat spawn. Hanya kit _officer_ dan _pilot_ yang bisa diminta. Tiket hanya bisa dipengaruhi oleh berapa banyak CP yang telah diambil. Kendaraan yang telah hancur akan respawn setelah 5 menit. Butuh setidaknya 6 pemain \(di dalam kendaraan\) untuk bisa merebut sebuah CP. Proses merebut CP juga lebih cepat dibandingkan dengan AAS.
 
-## _Skirmish_ {#skirmish}
+## Skirmish
 
 Mode permainan ini beroperasikan pada peta yang lebih kecil dari mode permainan _Advance and Secure_, ditujukan untuk pemain sekitar 12- 16 orang. Mode ini sangat cocok untuk pertandingan antar klan dan pertempuran infanteri kecil. Mode skirmish memiliki peraturan yang sama dengan AAS tapi dengan zona bertempur yang lebih kecil, biasanya tanpa kendaraan atau aset yang dapat dibangun dan juga tiket yang lebih sedikit. Jika tim kehilangan CP oleh musuh mereka akan kehilangan 10 tiket.
 
-## _Command & Control \(CNC\)_ {#command-and-control}
+## Command & Control \(CNC\)
 
 Mode permainan ini menyediakan pertempuran berskala besar yang lebih bebas. Tidak ada CP yang bisa direbut, melainkan setiap tim harus meletakkan sebuah _forward operating base_ \(FOB\) [\(lihat Deployable Structures\)](the_squad_leader.md#deployable-structures) di suatu tempat di peta.Objektif dari mode ini adalah mempertahankan FOB tim saat mencoba untuk mencari FOB musuh. Ketika salah satu tim kehilangan FOB mereka, tiket mereka akan terkuras sampai mereka membuat FOB yang baru. FOB harus diletakkan setidaknya 200m dari perbatasan peta. Membangun FOB tim anda dekat ke tengah peta akan lebih mengurangi tiket yang akan dialami oleh musuh saat FOB mereka hancur. Kedua tim dapat membangun lebih banyak pertahanan dalam radius yang lebih besar di dekat FOB mereka daripada mode permainan lainnya.
 
-## _Co-Operative \(COOP\)_ {#co-operative}
+## Co-Operative \(COOP\)
 
 Mode ini memungkinkan 1 atau lebih pemain manusia untuk bertempur bersama atau melawan bot yang dikontrol AI. Mode ini cocok untuk berlatih dengan alutsista dan kendaraan sebelum anda menggunakannya di pertempuran berskala besar dalam mode _deployment_ \(PvP\). Untuk menyesuaikan penggunaan bot, beberapa peraturan dan item telah dimodifikasi di mode ini. Kebanyakan dari peta kami memiliki varian COOP-nya.
 
-## _Insurgency \(INS\)_ {#insurgency}
+## Insurgency \(INS\)
 
 Mode ini sangatlah unik dibanding mode lainnya di PR. Koalisi Tim memiliki objektif yaitu mencari dan menghancurkan lima _weapon cache_ _insurgent_ yang tersembunyi di seluruh peta sebelum kehabisan tiket. Koalisi Tim akan kehilangan tiket untuk setiap pemain mati atau aset hancur. Sementara tim_ insurgent_ hanya dapat kehilangan tiket ketika _weapon cache_ hancur.
 

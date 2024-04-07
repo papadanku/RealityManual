@@ -2,7 +2,7 @@
 
 Primeramente deberás  **unirte a un escuadron.**. Algunos servers te pueden forzar a hacerlo al expulsarte después de un periodo de advertencia. El juego es de lejos mucho más jugándolo con una patrulla funcional. Si necesitas ayuda, **solo pregunta a los jugadores de tu escuadron** que hacer. En la medida de lo posible, usa Mumble. Es comúnmente usado en PR. Al jugar PR: BF2 sin un micrófono no vivirás la máxima experiencia, así que es una inversión sabia. Si nadie responde, trata de unirte a otra patrulla o usar el chat general. Hay muchos miembros de la comunidad que están dispuestos a echarles una mano a los nuevos jugadores. Puedes jugar primero BF2 a modo de tutorial para familiarizarte con la interfaz. Este manual se centrará en las diferencias con BF2.
 
-## _Selección de Kits y Re-spawn_ {#kit-selection-and-spawning}
+## Selección de Kits y Re-spawn
 
 *	Cuando empieces a jugar, se recomienda que solo aparezcas como fusilero con la mira de tu elección. De esta manera podrás aprender mejor los fundamentos básicos del juego.
 *	Después de aprender las bases de la infantería, podrás pedirle a tu SL que te asigne un kit especializado cuando te sientas preparado para la tarea. Si quieres probar nuevo equipamiento o vehículos, podrás hacerlo en el modo coop sin causarle percances a tu patrulla arriesgando los assets del equipo..
@@ -37,7 +37,7 @@ Armored Command Vehicle \(ACV\) se encuentra en las bases principales solamente.
 
 * Algunos mapas cuentan con **spawns de paracaídas** donde se simula un asalto aéreo. Estos se visualizarán moviendo los marcadores de spawns en el minimapa. Elige uno y aparecerás con un paracaídas desplegado automáticamente.
 
-## _Interfaz del Juego \(HUD\)_ {#hud}
+## Interfaz del Juego \(HUD\)
 
 * En el HUD de PR: BF2 los jugadores son notificados por  **mensajes específicos para el jugador** que solo pueden ser vistos por ese jugador. Son usados para darle al jugador una respuesta sobre diferentes eventos dentro del juego. Por ejemplo:
   * La razón por la cual al jugador no se le da el kit que solicitó.
@@ -78,7 +78,7 @@ Normal view of the game \(left\) and suppresion effect in action \(right\).
 Commo-rose when pressing Q.
 {% endfigure %}
 
-## _Control de Daño y Salud_ {#health-management}
+## Control de Daño y Salud
 
 Las armas en Project Reality son sumamente letales y sólo es cuestión de tiempo hasta que te disparen y empieces a sangrar. Aunque la interfaz en PR no contenga una barra de salud, una vez tu vida baje del 75% habrá señales visuales y audibles para avisarte, como visión roja acompañada de tos o gritos.
 
@@ -122,11 +122,11 @@ Un penalizador temporal al tiempo de reaparición que afecta sólo a la próxima
 
 Para elegir un punto de regeneración, abre el mapa de spawns y selecciona una localización pertinente. Cuando estés satisfecho con ese punto de regeneración, deberás hacer click en **Done \(listo\)** en la esquina inferior derecha de la pantalla del mapa para reaparecer en la partida. Simplemente esperar a que el temporizador llegue a “0” o dándole a la tecla &lt;enter&gt; no te hará reaparecer automáticamente. Si ves un número muy grande en el temporizador, como 5999, es que no le has dado al botón listo.
 
-## _Logística_ {#logistics}
+## Logística
 
 Ya sea que te quedes sin municiones y necesites rearmarte, quieras un kit nuevo o simplemente quieras construir estructuras, la logística mantiene vivo a tu equipo.
 
-### _Munición_ {#ammunition}
+### Munición
 
 Para poder rearmarte, deberás acercarte a una de varias fuentes de munición, que luego recargará automáticamente tus armas. Estas fuentes son:
 
@@ -232,7 +232,7 @@ Además, si no te estás rearmando, confirma que las cajas de suministros ligero
 
 
 
-### _Cajas de Suministros_ {#crates}
+### Cajas de Suministros
 
 Hay dos tipos de cajas de suministro en PR: BF2: caja de suministro ligera y caja de suministro pesada. Si bien ambos permiten reabastecer a los jugadores y construir implementables, una caja ligera es el equivalente a la mitad de la caja de suministros pesadas, lo que significa que necesitará 2 cajas de suministros ligeros donde solo se necesita 1 caja de suministros pesadas. Para obtener más información sobre emplazamientos desplegables, [Ver Estruturas Desplegables.\)](the_squad_leader.md#deployable-structures)
 
@@ -267,7 +267,7 @@ Los camiones logísticos también tienen la capacidad de dejar una estación de 
 Repair drop.
 {% endfigure %}
 
-## _Puntuación_ {#score}
+## Puntuación
 
 La puntuación de un jugador se divide en puntos de trabajo en equipo y puntos individuales. Logicamente que las actividades relacionadas con el equipo \(construir, conducir vehículos, defender/atacar banderas\) contribuyen a la primera y las acciones individuales \(matar jugadores\) contribuyen a tu puntuación personal.
 
@@ -278,7 +278,7 @@ La puntuación total de un jugador nunca puede bajar de 0, pero la puntuación d
 * 	Destruir un objetivo aliado: **-100**
 * Destruir un objetivo enemigo: **+150**
 
-## _Morteros_ {#mortars}
+## Morteros
 
 Una posición fija de mortero puede proveer apoyo con fuego indirecto a largas distancias. Todas las facciones pueden usar proyectiles de explosivos de alto poder \(HE\). Las fuerzas convencionales y la milicia pueden usar proyectiles de explosión aérea \(air-burst\) y proyectiles de humo. Los morteros no pueden ser construidos en mapas más pequeños de 2km.
 
@@ -291,7 +291,7 @@ Cuando los morteros hagan falta puedes usar la calculadora del mortero \(presion
 Interfaz de la calculadora del mortero.
 {% endfigure %}
 
-## _Puentes de Soporte \(CSB\)_ {#close-support-bridges}
+## Puentes de Soporte \(CSB\)
 
 Cuando es necesario cruzar ríos pequeños o puentes dañados, las fuerzas convencionales pueden desplegar CSB utilizando sus camiones logísticos, que transportan dos de ellos. En Project Reality, los CSB solo se pueden usar para llenar los huecos de los puentes destruidos y en ubicaciones predeterminadas identificadas por \(obvios\) pequeños montones de arena colocados a través de un obstáculo natural, como un río.
 
@@ -313,7 +313,7 @@ CSB del camión que se está desplegando.
 
 En algunos casos, se requieren varios CSB para abarcar la distancia completa. En tales situaciones, debe conducir hasta el final del puente incompleto e implementar un nuevo CSB y repetir hasta el final.
 
-## _Navegación en el campo de Batalla_ {#battlefield-navigation}
+## Navegación en el campo de Batalla
 
 Es muy fácil perderse en los grandes mapas de PR: BF2. El ritmo y la coordinación del equipo requiere que los jugadores comuniquen lugares de una manera clara y concisa, PR: BF2 ofrece 4 herramientas para ayudar a los jugadores con esto.
 
@@ -334,7 +334,7 @@ Atacar7Objetivo, Construir, Observar, Defender, Demoler y Marca de Movimiento , 
 {% figure "../assets/grid.png" %}
 {% endfigure %}
 
-## _Informaciones Basicas de Vehículos_ {#basic-vehicle-information}
+## Informaciones Basicas de Vehículos
 
 Muchos vehículos suelen comportarse bastante diferente en comparación a BF2 y requieren un conocimiento más avanzado para operarlos. Ya que ellos tienen un tiempo de reaparición bastante largos  \(cerca de 20 minutos\) y es vital saber cómo mantenerlos lejos de las situaciones problemáticas, esta parte se enfocara en los tipos de vehículos y cómo influyen en el equipo. Para más detalles de cómo operar los vehículos ver la parte adicional de este manual en la Sección de Operación de Vehículos.
 

@@ -1,6 +1,6 @@
 # Ausrüstung
 
-## _Generell Waffen & Ausrüstung_ {#Generelle-Waffen-Ausrüstung}
+## Generell Waffen & Ausrüstung
 
 Waffen brauchen nach längerer Bewegung manchmal einen Moment, um Präzision zu erreichen und zielgenau zu feuern. Engagements auf kurzen Distanzen sind von bewegungsbasierten Abweichungen nicht betroffen. Dies ermöglicht es Spielern, kleine Positionskorrekturen durchzuführen, ohne Waffenungenauigkeit zu erleiden. Hinlegen verringert die Genauigkeit des Spielers für einige Momente, bietet aber die höchste Genauigkeit für Fernziele, sobald das Ziel des Spielers wiederhergestellt ist.
 
@@ -114,11 +114,11 @@ Waffen müssen manuell neu geladen werden \(Standard:  **R**  \). Die Waffenabwe
 
 > _Kits: Pilot, ein beliebiges Spawn-Kit, das von einem Team mit einem Paradop-Spawnpunkt verwendet wird_
 
-## _Kimme & Korn / Nahbereichsvisier_  \(BUIS \) {#buis}
+## Kimme & Korn / Nahbereichsvisier  \(BUIS \)
 
  **Nahbereichsvisier  \(BUIS \)**  wurde entwickelt, um dem Bediener eine alternative Methode zur Erfassung eines Ziels in Abhängigkeit von der Situation zu bieten. Sofern die Waffe über BUIS verfügt, kann ein Spieler mit dem bereits vorhandenen wechsel Kamera-Taste  \(C \*\* \) zwischen dem Zielfernrohr und dem Visier wechseln. Der Spieler kann zwischen den Sichtmodi umschalten, was durch den BUIS-Buchstaben in der unteren rechten Ecke angezeigt wird. S für Ziehlfernrohr, B für Visier. Der BUIS-Modus kann jederzeit umgeschaltet werden, egal ob Sie auf das Ziel zielen oder nicht, aber Sie müssen erneut zielen, um zwischen den Modi zu wechseln.
 
 ![](../assets/buis.png)
 
-## _Zielbereich einstellen_ {#zielbereich-einstellen}
+## Zielbereich einstellen
 

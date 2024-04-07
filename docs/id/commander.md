@@ -1,6 +1,6 @@
 # Komandan
 
-## _Memimpin Pasukan_ {#leading-the-troops}
+## Memimpin Pasukan
 
 Tugas utama seorang komandan adalah **mengkoordinasikan** tim dan memberi panduan serta arahan pada para pemain yang beroperasi dibawah perintahnya. Peran seorang komandan adalah mengawasi situasi dan pertempuran serta seluruh jangkauan medan perang untuk menentukan strategi yang efektif. Komandan juga dapat mengizinkan atau menolak permintaan yang diberikan pemimpin Squad, yang termasuk laporan keberadaan musuh dan area yang akan dibombardir (area attack).
 
@@ -44,7 +44,7 @@ Jika para pemimpin Squad yakin kalau Komandannya tidak efisien dalam melaksanaka
 
 **Titik Temu Komandan (Commander Rally Point)** bisa digunakan seluruh tim. Untuk mendirikan/membuat titik temu, Komandan butuh setidaknya 6 player di dekatnya (salah satunya harus ada pemimpin squad) untuk menempatkan titik temu. Rally Point tersebut tidak tersedia di mode _skirmish_ dan setidaknya 12 player harus ada di dalam timnya Komandan. Titik temu ini akan bertahan selama Komandan berada dalam radius 100 m dari Rally Point. Seluruh aturan lain dijelaskan di bab Pemimpin squad (Squad Leader) mengenai Rally Point juga bisa digunakan di titik temu komandan.
 
-## _UAV (Kendaraan Tanpa Awak)_ {#uav}
+## UAV (Kendaraan Tanpa Awak)
 
 Komandan dari pasukan konvensional dan tim militia/insurgents mampu mengendalikan **Unmanned Aerial Vehicle (UAV)** atau kendaraan tanpa awak dari pos komando atau **Armored Command Vehicle (ACV)** atau Kendaraan Komando. UAV di PR:BF2 tidak memperlihatkan posisi musuh secara otomatis, tetapi akan memberikan Komandan sarana observasi  medan perang secara langsung dari sudut pandang langit (bird’s eye POV). Komandan dapat mengendalikan kamera UAV pada saat bergerak di ketinggian yang tetap.
 

@@ -1,6 +1,6 @@
 # El Líder de Escuadrón
 
-## _Guiando el Escuadrón_ {#guiding-squad}
+## Guiando el Escuadrón
 
 Como se explica en la sección Navegación del campo de batalla, el líder de escuadrón puede colocar marcadores en el mapa para que los sigan los miembros de su escuadrón. Encontrarán un marcador en su brújula para seguir, así como un icono en el mapa. El líder de escuadrón debe usarlos con la mayor frecuencia posible y también puede usarlos para obtener fácilmente la distancia hacia un objetivo. Puede hacer esto desde el minimapa haciendo clic con el botón derecho y colocando el marcador o presionando la **tecla de radio secundaria \(T\)** y apuntando al objetivo y usando uno de los botones para colocar el marcador.
 
@@ -13,7 +13,7 @@ Como se explica en la sección Navegación del campo de batalla, el líder de es
 
 El comandante también puede ordenarte. Si aceptas la orden \(**PAGE UP**\) su marcador será reemplazado con la orden del comandante.
 
-## _Marcando Enemigos_ {#spotting-enemies}
+## Marcando Enemigos
 
 El **Squad Leader** en PR:BF2 tiene muchas habilidades funcionales. Puede marcar unidades enemigas en el mapa y enviar informes de contacto al comandante del equipo con la capacidad de marcar un objetivo en el mapa del equipo. Para realizar estas funciones siga estos pasos:
 
@@ -27,7 +27,7 @@ El **Squad Leader** en PR:BF2 tiene muchas habilidades funcionales. Puede marcar
 
 {{ "Video Tutorial - Marking" | youtube("XNDb2yMuoho") }}
 
-## _Designador Laser \(GTLD\)_ {#gtld}
+## Designador Laser \(GTLD\)
 
 El kit de líder de escuadrón y el kit de observador utilizados por las fuerzas convencionales están equipados con **GTLD \(Designador láser de objetivo terrestre\).** Este equipo tiene un mejor zoom que los binoculares normales, incluye un telémetro y te permite marcar objetivos enemigos que pueden ser atacados por bombas o misiles de unidades aéreas amigas \(y enemigas\).
 
@@ -35,7 +35,7 @@ Con el GTLD equipado, puede hacer clic con el botón derecho para aumentar el ni
 
 Además, mientras el láser está ENCENDIDO, puede acceder al menú principal de radio \(Q\) para solicitar apoyo aéreo cercano \(CAS\) o llamar a misiones de fuego de mortero. Al hacerlo, se transmitirá automáticamente un mensaje de texto a su equipo detallando la solicitud y se agregará un marcador de objetivo al mapa..
 
-## _Rally Points_ {#rally-points}
+## Rally Points
 
 Un líder de escuadrón tiene la capacidad de establecer **Puntos de reunión \(RP\)**. Esto permite a los miembros caídos del escuadrón reagruparse en un área segura con el resto de su escuadrón. Para colocar un RP, debe presionar **la tecla de radio secundaria \(T\)** y seleccionar **COLOCAR RALLY POINTS**.
 
@@ -54,7 +54,7 @@ Un enemigo que se acerque a 50 m en mapas de 1x1km o 12m o 2x2km y mapas de 4x4 
 
 Un punto de reunión se rearma cada 1 minuto. A menos que se haya invadido. En cuyo caso deberá esperar 5 minutos.
 
-## _Solicitar Apoyo_ {#requesting-support}
+## Solicitar Apoyo
 
 El líder de patrulla también puede usar su radio para solicitar apoyo de otras patrullas. Para esto debe activar su radio y presionar la  **tecla secundaria de radio \(T\).** Esto abrirá el menú para solicitar apoyo y desplegar assets de equipo. Los cinco comandos inferiores que comienzan con **“NEED .../NECESITO...”** pondrán una marca de mapa sobre tu posición.  Ellos transmitirán un mensaje de radio a tu equipo alertándolos de tu pedido. El pedido de  **“NEED AREA ATTACK/NECESITO ATAQUE DE AREA”** se comporta un poco diferente al resto.  En algunos mapas las fuerzas convencionales pueden usar este comando para solicitar un **bombardeo de artillería**. Si tu pedido es aprobado por el comandante del equipo, el ataque caerá después de un minuto. Después de cargar un nuevo mapa o ejecutar un ataque de área toma 30 minutos hasta que vuelve a estar disponible. Similarmente las facciones no convencionales tienen acceso a una descarga de morteros cada 20 minutos en la mayoría de los mapas.
 
@@ -63,7 +63,7 @@ El líder de patrulla también puede usar su radio para solicitar apoyo de otras
 Solicitando apoyo a través de la radio.
 {% endfigure %}
 
-## _Trabajos de Constuccion_ {#construction-work}
+## Trabajos de Constuccion
 
 onstruir equipamiento militar es una función básica del líder del escuadrón, la cual también posee el comandante del equipo. Para desplegar y construir un Puesto de Avanzada  \(FOB\) , el líder de escuadrón necesitará tener un kit de oficial y una caja de suministros pesada a menos de 50m de distancia. 2 cajas de suministro ligeras equivalen a una caja de suministros pesada, permitiendo conseguir el mismo resultado. Los insurgentes, talibanes y Hamas sólo pueden desplegar escondites, morteros y posiciones anti-tanque, éstos no necesitan cajas de suministros para construir estas estructuras. Para llevar a cabo esta función, es necesario un kit de líder de célula o de colaborador.
 
@@ -95,7 +95,7 @@ Las armas de emplazamientos desplegables pueden ser rearmadas dejando bolsas de 
 Desconstruir y construir ejemplos de una trinchera.
 {% endfigure %}
 
-## _Estruturas Desplegables_ {#deployable-structures}
+## Estruturas Desplegables
 
 Aquí encontraras una lista de las estructuras desplegables y requisitos para construirlas. El equipamiento desplegable puede ser desmantelado con una pala o, alternativamente, destruido con C4, IEDs, proyectiles de tanque o APC, o cualquier forma de artillería pesada. Los desplegables pueden ser completamente destruidos si se le sigue infligiendo daño a la base del emplazamiento. Los puestos avanzados y los escondites pueden ser destruidos también por artillería, explosivos plásticos C4 o TNT. Los líderes de escuadrón pueden quitar un emplazamientos desplegables sin construir con la radio de manera similar a como fueron desplegados, haciendo click derecho para eliminar la base desplegable. El modo de fuego alternativo de la pala tiene también la habilidad de desmantelar emplazamientos desplegables sin construir. Una nota importante sobre los requisitos y limitaciones listados más abajo, es que todos los valores de distancia entre FOB y la cantidad máxima de equipamiento por FOB se doblan en el modo de juego CNC  \(a excepción del número de morteros\). También hay que recordar que 2 cajas pesadas de suministro pueden ser reemplazadas por 4 cajas ligeras de suministro o por 1 pesada y 2 ligeras.. Para obtener más información sobre logística y cajas, consulte [Logística](the_basics.md#logistics).
 

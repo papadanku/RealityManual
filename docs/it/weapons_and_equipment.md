@@ -1,6 +1,6 @@
 # Armi ed Equipaggiamento
 
-## _Armi Generiche ed Equipaggiamento_ {#general-weapons-equipment}
+## Armi Generiche ed Equipaggiamento
 
 Le armi, dopo un movimento prolungato, talvolta impiegano un momento per acquisire precisione e colpire con precisione bersagli a lunga distanza. Gli scontri a distanze brevi non sono influenzati dalla deviazione dovuta al movimento. Ciò consente ai giocatori di apportare piccole correzioni di posizione senza subire l'errore di precisione dell'arma. Mettersi prono riduce notevolmente la precisione del giocatore per alcuni istanti, ma fornisce la massima precisione per impegnare bersagli a lunga distanza una volta che la mira del giocatore si è ripresa.
 
@@ -111,13 +111,13 @@ Per motivi di gameplay, non sono "spara e dimentica" con sistema di tracciamento
 
 > _Kit: Pilota, qualsiasi kit selezionabile utilizzato da una fazione che dispone di un punto di spawn con inserzione dei paracadutisti_
 
-## _Mirini d'Emergenza \(BUIS\)_ {#buis}
+## Mirini d'Emergenza \(BUIS\)
 
 **Mire metalliche di backup \(BUIS\)** sono progettate per fornire all'operatore un metodo alternativo per acquisire un bersaglio a seconda della situazione. Quando viene fornita un'arma con BUIS installato, un giocatore potrà passare tra i mirini di backup e l'ottica usando **il tasto preesistente per il cambio della visuale \(C**\). Nell'angolo in basso a destra si trova una piccola icona (Croce per l'ottica, Mire metalliche per BUIS) che mostra il metodo di mira attualmente selezionato. È possibile cambiare il sistema che si sta utilizzando mentre si mira, aumentando la capacità di individuare velocemente gli ostili o di mirare con precisione.
 
 {% figure "../assets/buis.png" %}
 {% endfigure %}
 
-## _Modificare la Regolazione della Distanza_ {#altering-sighting-range}
+## Modificare la Regolazione della Distanza
 
 {{ "Video Tutorial - Regolazione della Distanza" | youtube("cLfdH1EHWPA") }}

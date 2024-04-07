@@ -5,13 +5,13 @@ Kits no Project Reality definem sua classe, equipamento e sua função na equipe
 * **Kits Padrão**, que são os papéis do esquadrão de infantaria padrão e podem ser selecionados diretamente a partir da tela de spawn
 * **Kits Especializados**, que são funções mais especializadas e só podem ser obtidas por meio de um [procedimento de solicitação](kits.md#kit-request) especial
 
-## _Como Iniciar_ {#where-to-start}
+## Como Iniciar
 
 Como um novo jogador, você deve sempre se juntar a um esquadrão de infantaria e pegar o kit **Rifleman**. O Rifleman representa a infantaria básica e pode ser usado sem restrições por tantas pessoas quanto desejado em um esquadrão / time. Todos os outros kits estão associados a papéis mais especializados e têm restrições rígidas em relação ao número deles que podem ser usados simultaneamente em um esquadrão / equipe.
 
 Devido a essas restrições, e para evitar afetar negativamente o desempenho da sua equipe ao usar um kit limitado, é altamente recomendável que você comece a jogar com o kit Rifleman. **À medida que você se torna mais experiente e aprende os fundamentos do jogo de infantaria, se você se sentir à altura da tarefa, pode pedir ao seu Líder de Esquadrão que lhe atribua um papel diferente. Em qualquer caso, você deve SEMPRE perguntar ao seu Líder de Esquadrão antes de trocar de kit.**
 
-## _Kits Padrão_ {#standard_kits}
+## Kits Padrão
 
 Os **kits padrão** são os 7 kits mostrados na tela de spawn e representam os papéis que normalmente fazem um esquadrão de infantaria. Na tabela a seguir você pode ver uma visão geral dos 7 kits padrão, bem como informações sobre quantos kits desse tipo podem estar em um único esquadrão e quantas pessoas precisam estar no esquadrão para poder gerar spawn com eles. .
 
@@ -46,7 +46,7 @@ Aqui segue uma explicação mais detalhada de cada kit:
 * ![](../assets/at.png)**Light Anti-Tank \(LAT\)**. Limitado a 1 por esquadrão e a **8 por equipe**. O LAT é um rifleman equipado com um fuzil de assalto e um sistema de armas anti-tanque leve portátil. Seu papel principal é atuar como um elemento anti-tanque ultra-leve, com capacidade de deter e neutralizar veículos leves e veículos com blindagem leve. **No entanto, NÃO é eficaz contra veículos blindados pesados ou tanques.**
 * ![](../assets/grenadier.png)**Grenadier**. Limitado a 1 por esquadrão e a **8 por equipe**. Geralmente equipado com um lançador de granadas ao seu rifle de assalto. Seu trabalho principal é o de atacar áreas de baixa visibilidade, onde a presença do inimigo é suspeita, bem como para danificar veículos leves. É especialmente útil para combates de longa distância e para combater inimigos dentro de edifícios.
 
-## _Kits Especializados_ {#specialist_kits}
+## Kits Especializados
 
 Além dos Kits Padrões descritos acima, no PR existe uma ampla seleção de **Kits especializados** com capacidade para tarefas altamente especializadas. Alguns destes kits incluem o Heavy Anti-Tank, o Combat Engineer, o Marksman, o Sniper ou o Rifleman antiaéreo, entre outros.
 
@@ -76,7 +76,7 @@ Aqui segue uma descrição mais detalhada de cada kit especializado:
 * ![](../assets/aa.png)**Anti-Air Rifleman \(AA\)**.Ele vem equipado com um sistema de armas de mão antiaéreas, fazendo dele a pessoa para deter e derrubar elementos aéreos inimigos. Sua restrição a 2 por equipe faz dele um ativo altamente crítico. Não desperdice este kit!
 * ![](../assets/hay.png)**Heavy Anti-Tank \(HAT\)**. O HAT é uma ameaça altamente eficaz contra blindados e pode destruir veículos com extremo prejuizo, mesmo em longas distâncias. A alta limitação deste kit \(**1 por equipe** \) faz deste um kit absolutamente crítico. Perder ou desperdiçar pode mudar o curso de uma batalha. Por esta razão, os jogadores sem a experiência necessária **são enfaticamente convidados a ficaram longe disso.**
 
-## _Outros Kits_ {#other-kits}
+## Outros Kits
 
 Além dos kits já descritos, existem alguns kits especiais que possuem regras especiais. Estes são os kits Crewman, o piloto, o civil e todos os insurgentes. Os kits Civil e Insurgentes pertencem ao **Modo Insurgency Game** e, portanto, são descritos na seção correspondente do manual \{\#Insurgency}.
 
@@ -85,7 +85,7 @@ Em relação ao **Pilot** \(Veículos Aéreos \) e ao **Crewman** \(Veículos Bl
 * ![](../assets/pilot.png)**Pilot**. O piloto é o único kit capaz de operar helicópteros e aeronaves de asa fixa. Ele vem equipado com uma pistola, um pára-quedas e uma granada de fumaça de sinalização. Não tente operar aeronaves sem a devida experiência.
 * ![](../assets/crewman.png)**Crewman**. É o único kit capaz de operar veículos blindados. O tripulante está equipado com uma arma compacta de autodefesa e com binóculos para estudar o campo de batalha. Normalmente, tanto o motorista quanto o artilheiro de um veículo blindado precisam do kit de Crewman.
 
-## _Procedimento de solicitação de kit_ {#kit-request}
+## Procedimento de solicitação de kit
 
 Uma vez spawnado, e se certas condições forem respeitadas, é possível solicitar um novo kit (Padrão ou Especial de uma caixa aliada de suprimentos ou veículo blindado. Normalmente, para solicitar um kit, essas três condições precisam ser atendidas:
 
@@ -133,7 +133,7 @@ Se você solicitou o kit no local errado:
 * **“Voce nao pode obter outro kit limitado logo apos seu ultimo”** 
 * **“Voce e novo neste esquadrão, solicite novamente em um minuto”** 
 
-## _Procedimento para dropar kit_ {#drop-kit}
+## Procedimento para dropar kit
 
 Em certas situações, você pode querer largar o seu kit. Mais tipicamente:
 

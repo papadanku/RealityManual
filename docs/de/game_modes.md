@@ -9,7 +9,7 @@ Die meisten Spielmodi verfügen über 4-Layer-Varianten mit unterschiedlichen Re
 
 *  **Infanterie\(16\):**  Diese Schicht besteht normalerweise nur aus Transport- und leichten bewaffneten Fahrzeugen, mit einem Fokus auf Infanteriegefechte.  _**Alternative\(32\):**  Dies ist die alternative Ebene, die einen großen oder kleinen Unterschied zum Standard aufweist._  **Standard\(64\):**  Diese Ebene umfasst normalerweise die gesamte Karte und alle Assets, die für die Karte gelten. Dies ist die Standard-Ebene, die jederzeit gespielt werden kann. _\* Large\(128\):_  Diese Ebene ist für längere 2-stündige Runden ausgelegt und enthält normalerweise alle Assets aus der Standard-Ebene mit kleinen Variationen und höheren Ticket-Zählungen.
 
-## _Advance and Secure \(AAS\)_ {#advance-and-secure}
+## Advance and Secure \(AAS\)
 
 Der AAS-Spielmodus ist dem ursprünglichen BF2-Eroberungsmodus am nächsten. Ziel ist es, alle Kontrollpunkte \(CPs \) zu erfassen und dabei mehr Tickets als der Gegner zu behalten. CPs können nur in einer linearen Reihenfolge erfasst werden, um eine Verschiebung der Frontlinie und Fokuseingriffe zu simulieren. CPs, die im Spiel sind, um gefangen zu werden, werden durch einen orangefarbenen Angriffsmarker angezeigt, während diejenigen, die gegen gegnerische Angriffe verteidigt werden müssen, mit einem violetten Verteidigungsmarker markiert sind. Wenn Ihr Team seine letzte blaue Verteidigungsflagge erreicht und diese von der gegnerischen Streitmacht gefangen wird, werden Sie anfangen, Tickets zu bluten, bis Sie Ihre Flagge gewaltsam zurückerobern. In ähnlicher Weise wird der CP der gegnerischen Streitkräfte durch einen roten Angriffsmarker angezeigt und verursacht das Ausbluten von Tickets, wenn Ihr Team es auf die gleiche Weise erfasst.
 
@@ -26,25 +26,25 @@ Die Kartenmarker für AAS sind:
 
 Vehicle Warfare, Skirmish & COOP verwenden ähnliche Kartenmarker für Angriff und Verteidigung.
 
-## _Fahrzeug Gefechte \(VW\)_  {#fahrzeug-gefechte}
+## Fahrzeug Gefechte \(VW\)
 
 Viele schwere Fahrzeuge kämpfen in diesem Spielmodus um die Kontrolle der Karte. Spieler können nur mit Crewman-Kits spawnen. Nur Offiziere und Pilot-Kits können angefordert werden. Tickets werden nur von der Anzahl der CPs beeinflusst, die ein Team kontrolliert. Fahrzeuge, die bereits zerstört sind, erscheinen nach 5 Minuten respawnen. Es dauert mindestens 6 Spieler \(in Fahrzeugen \), um die Kontrolle über einen CP zu übernehmen. Capturing funktioniert viel schneller als in AAS.
 
-## _Skirmish_ {#skirmish}
+## Skirmish
 
 Dieser Spielmodus funktioniert auf kleineren Kartenversionen des Advance- und Secure-Spielmodus, die für etwa 12-16 Spieler gedacht sind. Es ist perfekt für Clan-Spiele und kleine Infanterie-Einsätze. Scharmützel hat die gleichen Regeln wie AAS, aber mit kleineren Kampfzonen, in der Regel keine Fahrzeuge oder einsetzbare Vermögenswerte sowie weniger Tickets. Wenn ein Team einen CP an den Gegner verliert, wird es mit 10 Tickets bestraft.
 
-## _Command & Control \(CNC\)_ {#command-and-control}
+## Command & Control \(CNC\)
 
 Dieser Spielmodus bietet große Freiformkämpfe. Es gibt keine Capturable-CPs, aber stattdessen muss jedes Team eine einzelne Vorgeschobene-Operationsbasis \(FOB\)[\(siehe Deployable Structures\)](the_squad_leader.md#deployable-structures) platzieren.
 
 Ziel ist es, den FOB des Teams zu verteidigen, während er versucht, den gegnerischen FOB zu finden und zu zerstören. Wenn eine Mannschaft ihren FOB verliert, erleidet sie eine große Ticketstrafe und verliert weiterhin Tickets, bis sie eine neue bauen. Der FOB muss mindestens 200 m von der Kartengrenze entfernt sein. Wenn Sie Ihre Teamkameraden FOB näher an der Kartenmitte aufbauen, erhöht sich der Ticketverlust, den der Gegner erleiden wird, wenn sein FOB nicht aktiv ist. Beide Teams können mehr Verteidigung in einem größeren Radius in der Nähe ihres FOBs aufbauen als in anderen Spielmodi.
 
-## _Co-Operative \(COOP\)_ {#co-operative}
+## Co-Operative \(COOP\)
 
 In diesem Modus können ein oder mehrere menschliche Spieler neben und gegen KI-gesteuerte Bots in die Schlacht marschieren. Dieser Modus ist ideal für das Üben mit Ausrüstung und Fahrzeugen, bevor Sie sie in realen Gefechten mit menschlichen Spielern einsetzen. Um die Verwendung von Bots zu ermöglichen, wurden einige Regeln und Elemente in diesem Modus geändert. Die meisten unserer Karten haben COOP-Schichten.
 
-## _Insurgency \(INS\)_ {#insurgency}
+## Insurgency \(INS\)
 
 Dieser Modus ist einzigartig im Vergleich zu anderen in der PR. Das Ziel der Koalitionstruppe ist es, fünf auf der Karte versteckte Aufstands-Caches zu finden und zu zerstören, bevor ihnen die Tickets ausgehen. Die Koalitionskräfte verlieren Tickets für jeden zerstörten Spieler oder Tod, während das Aufstandsteam nur Tickets verliert, wenn ein Waffen-Cache zerstört wird.
 

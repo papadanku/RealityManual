@@ -1,6 +1,6 @@
 # Operando Veículos
 
-## _Informações Gerais Sobre Veículos_ {#general-vehicle-information}
+## Informações Gerais Sobre Veículos
 
 * Veículos leves, caminhões e barcos e a maioria dos jipes (exceto blindados leves) podem ser operados por qualquer soldado. Veículos blindados, helicópteros e aeronaves precisam de kits específicos de veículos para operar. Os jogadores que não estiverem usando o kit correto não poderão dirigir o veículo ou usar as suas armas. Você não pode entrar ou usar veículos inimigos. Para veículos terrestres, você precisa de um kit **Crewman**. Para aeronaves e helicópteros, é o kit **Pilot**. Estes são solicitados pelo veículo ou por uma caixa de suprimentos.
 * Visualizações externas \(câmera em terceira pessoa) para veículos foram removidas. Mas, para certos veículos, há câmeras personalizadas, como os caminhões, que podem olhar para trás \(**C** \).
@@ -15,7 +15,7 @@
 * Trocar armas de veículos \(tipo de munição\) normalmente causará um atraso antes que você possa disparar.
 * Você pode usar **CTRL esquerdo + movimentar o mouse** para olhar livremente ao operar a maioria dos veículos, como helicópteros, jatos, jipes, barcos e caminhões. APCs e IFVs não possuem esse recurso, pois usam câmeras dedicadas.
 
-## _Veículos Blindados_ {#armored-vehicles}
+## Veículos Blindados
 
 * Tanques e IFVs têm assentos separados para Piloto e artilheiro. Para usar a posição do artilheiro, um piloto ou artilheiro da cúpula deve estar presente. Depois de mudar para o assento do artilheiro, você deve esperar 30 segundos antes de poder mirar o canhão.
 * O Piloto e artilheiro em um veículo deve estar no mesmo esquadrão.
@@ -44,7 +44,7 @@ Os artilheiros de Tanques e IFVs usam o slot de arma \(geralmente 3 \) e apertam
 >
 > Veiculo lançando Fumaça
 
-## _Helicópteros_ {#helicopters}
+## Helicópteros
 
 * Os helicópteros têm um **tempo de aquecimento** de cerca de 30 segundos. Se muito torque for gerado enquanto as pás do rotor girarem, o piloto perderá o controle e colidirá. Para iniciar o helicóptero, você deve deixar o acelerador em marcha lenta \(Sem potência\) por pelo menos 30 segundos antes de tentar decolar.
 * Pilotos de helicóptero podem olhar em outras direções enquanto voam pressionando as teclas 6, 7, 8 e 9 que você pode mapear para um joystick POV HAT Switch. Para olhar para frente, pressione 1 ou selecione qualquer outra arma que sua aeronave tenha.
@@ -62,7 +62,7 @@ Os artilheiros de Tanques e IFVs usam o slot de arma \(geralmente 3 \) e apertam
 * Para obter êxito em **soltar suprimentos** de um helicóptero de transporte, o piloto precisa conduzir a queda a partir de uma altitude inferior a 5m / 15 pés, pressionando o botão direito do mouse.
 * **Flares de contramedidas** são limitados e precisam ser rearmados quando gastos. Toda vez que você utilizar flare \(**X** \), um sinalizador será implantado. Você pode segurar para implantar múltiplos.
 
-## _Aeronaves de Asa Fixa_ {#fixed-wing-aircraft}
+## Aeronaves de Asa Fixa
 
 * Aeronaves têm um **tempo de aquecimento** de 30 segundos antes de poderem decolar do solo.
 * Pilotos de jato podem olhar em outras direções enquanto voam pressionando as teclas 7, 8 e 9 que você pode mapear para um joystick POV HAT Switch. Para olhar para frente, pressione 1 ou selecione qualquer outra arma que sua aeronave tenha.
@@ -91,7 +91,7 @@ Os artilheiros de Tanques e IFVs usam o slot de arma \(geralmente 3 \) e apertam
 * Uma vez que você tenha tocado o chão, puxe o freio para desacelerar a aeronave.
 
 
-## _Sistema de Controle de Tiro_ {#fire-control-systems}
+## Sistema de Controle de Tiro
 Os veículos no Project Reality usam um autêntico sistema balístico para projéteis de veículos. Dependendo do veículo, várias variações de Sistemas de Controle de Fogo (FCS) podem ser usados pelo atirador. Em princípio, o FCS pode calcular os ajustes necessários para disparar no alvo exatamente onde você deseja. O cálculo do disparo não considera apenas a queda do projétil devido à gravidade, mas também inclui o atrito que reduz a velocidade dos projéteis. Além disso, ele pode contabilizar o desalinhamento entre a câmera do operador (mira) e o cano, a diferença de altura em relação ao alvo, inclinação do veículo e também a velocidade do veículo. Assim como seus equivalentes na vida real, nem todos os veículos terão os mesmos recursos para seus FCS. Esta seção se aprofundará em alguns dos casos de uso do FCS e suas implementações. 
 
 ### Veículos Terrestres

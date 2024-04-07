@@ -1,8 +1,9 @@
+
 # O Básico
 
 O  mais importante, você deve **juntar-se a um esquadrão**. Alguns servidores até reforçam, kickando jogadores sem squad após um período de aviso. O jogo é de longe mais divertido de se jogar em um esquadrão funcional. Se você precisar de ajuda, apenas **pergunte aos jogadores do seu esquadrão** o que fazer. Se possível, use o Mumble. É comumente usado em partidas online. Jogar PR:BF2 sem microfone não lhe dará a experiência completa, por isso é um investimento inteligente. Se ninguém responder, tente entrar em outro esquadrão ou use o chat geral. Há muitos membros da comunidade em atividade que recebem novos jogadores e dão uma ajuda. Esperamos que você tenha uma compreensão básica do BF2 quando se trata de navegar pelo menu do jogo, como placar, mapa e kit. Você sempre pode inicializar o BF2 e fazer o tutorial para se familiarizar com sua interface. Este manual irá focar nas diferenças com o BF2.
 
-## _Seleção de Kits e como Spawnar_ {#kit-selection-and-spawning}
+## Seleção de Kits e como Spawnar
 
 * Quando você começar a jogar, é recomendável que você só spawne como um rifleman com uma mira de sua escolha. Desta forma, você pode aprender melhor os fundamentos básicos do jogo.
 * Depois de aprender os fundamentos da infantaria, você pode pedir ao seu SL \(Squad Leader\) para lhe atribuir um kit especializado quando se sentir à altura da tarefa. Se você quiser experimentar um novo equipamento ou um veículo, pode fazê-lo facilmente no modo cooperativo sem incomodar seus membros do esquadrão ou arriscar os asssets  \(Veiculos\) e construções especializados \(citados no texto abaixo\) de sua equipe.
@@ -14,7 +15,7 @@ Em PR:BF2 você não pode spawnar em todos os pontos de controle que sua equipe 
 * **Rally Point ou RP** é um círculo verde em torno de um ponto de spawn com o número do seu esquadrão ao lado. Dependendo da localização do Rally do seu esquadrão em relação a FOB de uma equipe, ele determinará seu tempo de duração. Nota: Se você aparecer no ponto de rally de outro esquadrão, você irá automaticamente aparecer no seu próprio ponto de rally, ou em qualquer FOB próxima. Se não houver nenhum disponível, você será transferido para a base principal de sua equipe. Se for invadido pelo inimigo, o Rally do seu esquadrão desaparecerá. Rallys só estão disponíveis para forças convencionais. [\(veja estruturas implementáveis\)](the_squad_leader.md#deployable-structures)
 
 > ![](../assets/rally.png)
->Um rallypoint.
+> Um rallypoint.
 
 * **Rallypoints de Equipe especificos do mapa**. Estes geralmente expiram 5 minutos após o início da rodada e podem ser usados por toda a equipe. Estes também só permitem que o máximo de 12 pessoas spawnem até que desapareça.
 * **O Rallypoint do Comandante**. Esse Rally só pode ser colocado pelo comandante, desde que os líderes de vários esquadrões estejam nas proximidades do Comandante. No mapa, esse será um ponto de reunião com um "C" ao lado dele.
@@ -33,7 +34,7 @@ Em PR:BF2 você não pode spawnar em todos os pontos de controle que sua equipe 
 
 * Alguns mapas apresentam **parachute spawns**, spawns de pára-quedas onde um ataque aéreo é simulado. Estes serão visualizados como pontos de Spawns se movendo no minimapa. Escolha um e você vai abrir um pára-quedas automaticamente
 
-## _Interface do Jogo \(HUD\)_ {#hud}
+## Interface do Jogo \(HUD\)
 
 * No HUD do PR:BF2, os jogadores são notificados por mensagens **específicas do jogador** que só podem ser vistas por esse jogador. Eles são usados para dar feedback aos jogadores sobre diferentes eventos no jogo, por exemplo:
    * A razão pela qual o jogador não recebe o kit solicitado.
@@ -74,7 +75,7 @@ Em PR:BF2 você não pode spawnar em todos os pontos de controle que sua equipe 
 >
 > Menu de Comunicação ao pressionar Q.
 
-## _Gestão dos Pontos de Vida_ {#health-management}
+## Gestão dos Pontos de Vida
 
 Armas no Project Reality são altamente letais e é apenas uma questão de tempo até você ser baleado e começar a sangrar. Embora o HUD no PR não contenha uma barra de saúde, uma vez que sua saúde fica abaixo de 75%, haverá sinais sonoros e visuais para avisá-lo, como uma visão sangrenta ao tossir ou gritar.
 
@@ -117,11 +118,11 @@ Uma penalidade temporária de spawn que afeta somente a próxima vez que você m
 
 Para selecionar um ponto de spawn, abra o mapa de spawn e selecione um local aplicável. Quando estiver satisfeito com esse local de spawn, você deverá clicar no botão **Pronto** no canto inferior direito da tela do mapa para voltar ao jogo. Apenas esperando o cronômetro expirar ou clicando no botão &lt; Enter &gt; não vai automaticamente reaparecer. Se você vir um número muito grande no timer, como 5999, você não clicou em Pronto.
 
-## _Logística_ {#logistics}
+## Logística
 
 Não importa se você está com pouca munição e precisa se rearmar, quer um novo kit ou simplesmente quer construir algumas Estruturas, a logística mantém sua equipe viva.
 
-### _Munições_ {#ammunition}
+### Munições
 
 Para ser capaz de se rearmar, você precisará se aproximar de uma das várias fontes de munição, que então automaticamente recarregará suas armas. Essas fontes são:
 
@@ -221,7 +222,7 @@ A quantidade de pontos de abastecimento para as fontes de abastecimento são:
 
 Outra coisa a notar é que o reabastecimento não é instantâneo, mas leva alguns segundos, dependendo da fonte de munição e também da quantidade de munição que você precisa para ressuprimir. Além disso, se você não estiver rearmando, confirme se as caixas de suprimentos Leves / Pesadas são realmente suas, o rearmamento das caixas de suprimentos inimigas não é possível.
 
-### _Caixas de Suprimentos \(Supply Crates\)_ {#crates}
+### Caixas de Suprimentos \(Supply Crates\)
 
 Existem dois tipos de caixas de suprimento \(Supply crates\) em PR:BF2 - Caixa de Suprimento leve \(light supply\) e Caixa de Suprimento pesada \(Heavy supply\). Enquanto ambos permitem remuniciar os jogadores e construir implementáveis, uma caixa leve é o equivalente a metade da Caixa de Suprimentos Pesada, o que significa que você precisará de duas caixas de suprimento leve onde apenas uma caixa de suprimento pesada é necessária. Para saber mais sobre construções, consulte o capítulo [construiveis.\)](the_squad_leader.md#deployable-structures)
 
@@ -254,7 +255,7 @@ Os caminhões de logística também têm a capacidade de soltar uma estação de
 >
 > Reparo móvel.
 
-## _Pontuação_ {#score}
+## Pontuação
 
 A pontuação de um jogador é dividida em pontos de trabalho em equipe e pontos individuais. Ele fala por si mesmo que fazer atividades relacionadas à equipe \(construir, dirigir veículos, defender / atacar bandeiras \) contribui para a primeira e ações individuais \(matar jogadores \) contribuem para sua pontuação pessoal.
 
@@ -265,7 +266,7 @@ A pontuação total de um jogador nunca pode ser inferior a 0, mas a pontuação
 * Destruindo seu próprio objetivo: **-100**
 * Destruindo objetivo inimigo: **+150**
 
-## _Morteiros_ {#mortars}
+## Morteiros
 
 Uma posição de Morteiros que pode fornecer suporte indireto a longas distâncias. Todas as facções podem disparar balas altamente explosivas. As forças convencionais e a milícia também podem usar balas de fragmentação \(Air-burst\) e fumaça. Morteiros não podem ser o em mapas menores que 2km.
 
@@ -278,7 +279,7 @@ Uma vez que os morteiros são necessários, você pode usar a calculadora \(pres
 >
 > A interface da calculadora do Morteiro.
 
-## _Suporte de Reparação de Pontes \(CSB\)_ {#close-support-bridges}
+## Suporte de Reparação de Pontes \(CSB\)
 
 Quando precisam atravessar pequenos rios ou pontes danificadas, as forças convencionais podem implantar CSBs usando seus caminhões de logística - o que carrega dois deles. No Project Reality, os CSBs só podem ser usados para preencher as lacunas de pontes destruídas e em locais predeterminados identificados por \(óbvios \) pequenos montes de areia posicionados ao longo de um obstáculo natural, como um rio.
 
@@ -294,7 +295,7 @@ O processo de implantação de CSBs é muito simples: 1. Direcionar um caminhão
 
 Em alguns casos, vários CSBs são necessários para abranger a distância completa. Em tais situações, você é obrigado a dirigir até o final da ponte incompleta e implantar um novo CSB e repetir até o final.
 
-## _Navegação do Campo de Batalha_ {#battlefield-navigation}
+## Navegação do Campo de Batalha
 
 É muito fácil se perder nos grandes mapas do PR: BF2. O ritmo lento e a coordenação da equipe também exigem que os jogadores comuniquem os locais de maneira clara e concisa. PR: BF2 oferece 4 ferramentas para ajudar os jogadores com isso.
 
@@ -314,7 +315,7 @@ Em alguns casos, vários CSBs são necessários para abranger a distância compl
 
 ![](../assets/grid.png)
 
-## _Informações Básicas de Veículos_ {#basic-vehicle-information}
+## Informações Básicas de Veículos
 
 Muitos veículos se comportam de maneira bastante diferente em relação ao BF2 e exigem conhecimentos mais avançados para operar. Como eles também têm tempos de spawn muito longos (até 20 minutos), é vital saber como mantê-los longe de situações problemáticas. Esta parte vai se concentrar em explicar os tipos de veículos e como eles influenciam a equipe. Para mais detalhes sobre a operação de veículos, consulte este manual na seção Veículos de Operação.
 

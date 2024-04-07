@@ -1,6 +1,6 @@
 # Weapons & equipment
 
-## _Armas e Equipamentos Gerais_ {#general-weapons-equipment}
+## Armas e Equipamentos Gerais
 
 Armas após movimentos prolongados às vezes levam um momento para ganhar precisão e disparar com efetividade em alvos de longo alcance. Engajamentos a distâncias curtas não serão afetados pelo desvio baseado no movimento. Isso permite que os jogadores façam pequenas correções posicionais sem sofrer imprecisão ne mira da arma. A tendência a reduzir significativamente a precisão do jogador por alguns instantes, mas fornece a maior precisão para engajar alvos de longa distância, uma vez que o foco do jogador tenha se recuperado.
 
@@ -146,13 +146,13 @@ Armas precisam ser recarregadas manualmente \(padrão: **R** \). O desvio do tir
 
 > _Kits: Pilot, qualquer kit padrão usado por um esquadrão com um ponto de spawn aéreo_
 
-## _Utilizando Mira de Ferro \(BUIS\)_ {#buis}
+## Utilizando Mira de Ferro \(BUIS\)
 
 **Back up iron sights \(BUIS\) ou mira de ferro de backup** são projetados para fornecer ao operador um método alternativo para o engajamento de um alvo, dependendo da situação. Contanto que a arma tenha o BUIS equipado, o jogador poderá alternar entre miras de backup e ótica usando **a tecla Cycle Camera Padrão \(C**\). O jogador pode alternar entre os modos de visualização, indicados pela letra BUIS no canto inferior direito. S para escope, B para Backup. O modo BUIS pode ser alternado a qualquer momento, esteja você mirando ou não a arma.
 
 ![](../assets/buis.png)
 
-## _Alterando Distância de Engajamento_ {#altering-sighting-range}
+## Alterando Distância de Engajamento
 
 [Video Tutorial - Alterando Distância de tiro](https://www.youtube.com/watch?v=cLfdH1EHWPA "Video Tutorial - Sighting Range")
 

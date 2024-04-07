@@ -1,6 +1,6 @@
 # Persiapan Bermain
 
-## _System Requirements_ {#systemreq}
+## System Requirements
 
 * **Operating System:** Windows 7, 8 or 10
 * **Processor:** 2.4 Ghz Dual-Core minimum. 3.2 Ghz Recommended
@@ -13,7 +13,7 @@
 * **Input:** Mouse, Keyboard
 * **Optional:** Joystick, Headset, microphone \(sangat disarankan untuk komunikasi\)
 
-## _Instalasi Game_                                                                          {#game-installation}
+## Instalasi Game
 
 PR:BF2 **tidak memerlukan BF2** terinstal. PR:BF2 bekerja sebagai game standalone. Jika anda mempunyai PR:BF2 versi sebelum v1.3, anda diharuskan uninstall versi v1.3 sebelum menginstall PR:BF2 v1.6
 
@@ -40,7 +40,7 @@ Ada beberapa poin:
 * PR:BF2 memiliki PR Mumble dalam instalasinya, sehingga anda tidak perlu mendownloadnya lagi.
 * Jika anda tidak ingin menggunakan Torrent, anda akan menemukan mirror untuk men-download langsung dari HTTP forum kami.
 
-## _Membuat Akun PR_ {#creating-a-pr-account}
+## Membuat Akun PR
 
 Semenjak DICE dan EA tidak mensupport lagi BF2 pada Mei 2014, kita sekarang bisa menggunakan layanan akun PR untuk PR:BF2. Semua akun BF2 lama anda (sebelum PR:BF2 v1.2) tidak dapat dikembalikan. Sebelum menggunakan Launcher PR, anda perlu membuat akun PR agar bisa bermain online. Akun ini khusus untuk anda. Bermain secara offline tidak memerlukan Akun PR. Kita menggunakan layanan pihak ketiga untuk menghubungkan dan memverifikasi Akun PR anda. Untuk saat ini kami hanya menggunakan Steam. Anda memerlukan akun Steam atau [membuat yang baru](https://steamcommunity.com/) untuk ditautkan ke Akun PR anda. Saat anda membuka PR:BF2 untuk pertama kalinya, anda akan melihat jendela ini:
 
@@ -64,7 +64,7 @@ PR Account Level anda dapat bertambah dengan mengumpulkan XP untuk beberapa indi
 
 Jika anda tidak ingin membuat Akun PR untuk bermain online, anda bisa memilih untuk bermain secara offline dari layar login awal.
 
-## _Membuat Profil_ {#creating-a-profile}
+## Membuat Profil
 
 Anda punya satu Akun PR yang unik. Tetapi, anda bisa membuat banyak profil dalam Akun PR ini. Setiap profil mempunyai nama _in-game_ yang unik serta pengaturan dan kontrol terpisah yang tersimpan dalam komputer anda. Anda bisa mengambil kembali profil yang sudah pernah anda buat. Profil lama yang dibuat setelah PR:BF2 v1.2 dan sebelum v1.6 juga bisa didapatkan kembali dengan menggunakan nama profil dan password  yang bersangkutan.
 
@@ -74,7 +74,7 @@ Anda bisa mengakses pengaturan profil dengan menaruh kursor di tombol Play di PR
 
 ![](../assets/creating_profile_6.png)
 
-## _PR Launcher_ {#the-pr-launcher}
+## PR Launcher
 
 Shortcut untuk Project Reality:BF2 akan dibuat di desktop setelah instalasi, klik ikon ini dua kali untuk membuka PR Launcher.
 
@@ -91,7 +91,7 @@ Semua opsi utama yang ditampilkan di sebelah kanan.
 
 Menu utama di launcher juga memberikan barisan  berita di bagian bawah yang disoroti dengan warna biru berisi pengumuman untuk acara yang akan datang, kemajuan dari proses pembuatan dan _developer blogs_ dari komunitas PR:BF2. Selain itu, anda bisa menemukan tautan ke akun sosial media kami di bagian kiri atas.
 
-## _Navigasi Menu Dalam Game_ {#in-game-menu-navigation}
+## Navigasi Menu Dalam Game
 
 * **Co-operative:**Anda bisa bermain PR:BF2 dengan tim berisi tentara yang dikontrol oleh komputer. Mode ini sangat berguna untuk mengenal mekanik-mekanik dan perlengkapan  dalam game sebelum bergabung ke dalam permainan secara online yang kompetitif.
 * **Deployment:**Mode utama untuk dimainkan di Project Reality. Disini anda bisa merasakan perang yang intens dengan pemain sebanyak 100 orang pemain.
@@ -99,7 +99,7 @@ Menu utama di launcher juga memberikan barisan  berita di bagian bawah yang diso
 * **Options:** Disini anda bisa mengubah pengaturan audio dan juga tata letak keyboard anda. Pengaturan video harus diubah melalui PR Launcher.
 * **Exit:** Gunakan tombol ini untuk keluar dari game.
 
-## _PR Mumble_                                                                                {#pr-mumble}
+## PR Mumble
 
 Di dalam game, Mumble adalah program yang kami gunakan untuk berkomunikasi dengan satu sama lain di PR:BF2, yang menggantikan sistem Voice-Over-IP \(VOIP\) di vanilla BF2. Fitur utama PR Mumble yang unik adalah metode komunikasi utamanya ditransmisikan dalam ruang 3 dimensi, membuatnya terdengar dari suatu arah dan berjarak. Ini disebut _Local_. Ini berarti bahwa semua pemain dalam tim anda bisa berbicara dengan satu sama lain jika mereka cukup dekat, dan anda bisa mendengar dari arah mana mereka berbicara, demikian pula anda bisa menebak seberapa jauh mereka, seperti di dunia nyata.
 
@@ -125,7 +125,7 @@ PR Mumble juga berintegrasi dengan tampilan HUD BF2. Selama permainan anda bisa 
 
 Transmisi Mic/ Speaker yang dibisukan/ Dibisukan/ Terputus
 
-## _Troubleshooting_ {#troubleshooting}
+## Troubleshooting
 
 * PR:BF2 akan memverifikasi file sebelum anda memulai game. Anda tidak bisa bermain secara online dengan file yang sudah dimodifikasi. Tetapi, Anda  masih bisa bermain secara offline.
 * PR:BF2 harus dijalankan dengan menggunakan PR Launcher. Menjalankan BF2.EXE atau PR:BF2.EXE tidak akan bekerja.
@@ -144,7 +144,7 @@ Berikut adalah beberapa tautan forum dari realitymod.com yang bisa digunakan unt
 * [General Technical Support](https://www.realitymod.com/forum/forumdisplay.php?f=360) untuk semua pertanyaan teknis anda.
 * [PR In-Game Tactics and Strategies](<https://www.realitymod.com/forum/forumdisplay.php?f=137>) akan membantu anda lebih lanjut dari manual ini untuk menguasai semua elemen yang ada di PR:BF2 dengan tutorial dan panduan yang dibuat oleh komunitas.
 
-## _Default Game Kontrol_ {#default-game-controls}
+## Default Game Kontrol
 
 **Kontrol Umum**
 

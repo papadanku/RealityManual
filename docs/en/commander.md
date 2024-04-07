@@ -1,6 +1,6 @@
 # The Commander
 
-## _Leading the Troops_ {#leading-the-troops}
+## Leading the Troops
 
 The primary task of the commander is to **coordinate** the team and to give guidance and direction to those operating under his command. His role is to monitor situations and engagements and the overall scope to the battlefield to effectively determine a strategy. He can also grant or deny requests sent by Squad Leaders. These include contact reports and area attacks.
 
@@ -38,7 +38,7 @@ If the Squad Leaders believe the Commander is not efficient in his duties, then 
 
 The **Commander Rally Point** can be used by the entire team. To establish this RP the Commander needs at least 6 players near him \(one of them must be a squad leader\) to place the RP. This RP is not available in the skirmish mode and at least 12 players must be on the commander's team. The RP will stay active as long as the commander is within 100m radius of the rally point. All other rules described in the Squad Leader chapter about rally points also apply for the commander rally point.
 
-## _UAV_ {#uav}
+## UAV
 
 The Commander of conventional forces and the militia are able to control an **Unmanned Aerial Vehicle \(UAV\)** from his team's command post or armored command vehicle \(ACV\). The UAV in PR:BF2 does not reveal enemy positions automatically but gives the commander the means to observe the battlefield visually from a bird’s eye point of view. The commander can control the UAV's camera while it cruises at a constant altitude.
 

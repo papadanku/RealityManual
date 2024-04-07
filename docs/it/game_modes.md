@@ -13,7 +13,7 @@ La maggior parte delle modalità di gioco presenta 4 varianti del livello con di
 
 
 
-## _Advance and Secure \(AAS\)_ {#advance-and-secure}
+## Advance and Secure \(AAS\)
 
 La modalità di gioco AAS è la più simile alla modalità Conquista originale di BF2. L'obiettivo è catturare tutti i punti di controllo \(CP\) mantenendo più ticket dell'avversario. I CP possono essere catturati solo in un ordine lineare per simulare una linea del fronte in movimento e focalizzare gli scontri. I CP che sono in gioco per essere catturati sono indicati da un marker d'attacco arancione, mentre quelli che devono essere difesi dagli attacchi nemici sono evidenziati con un marker di difesa viola. Se il nemico riesce a catturare una bandiera con un marker blu, di solito riservato per l'ultima bandiera vicino alla tua base principale, la tua fazione inizierà a perdere biglietti a un tasso fisso o crescente. A differenza del normale Battlefield 2, la penalità per la perdita di biglietti è molto più severa ed è assolutamente necessario riprendere la bandiera. La perdita si ferma una volta che il tuo team riesce a controllare la bandiera al punto in cui inizia la procedura di cattura per la tua fazione. Infine, un marker rosso accanto a un CP indica una bandiera nemica che fa perdere ticket al nemico.
 
@@ -30,11 +30,11 @@ I marker sulla mappa per l'AAS sono:
 
 Vehicle Warfare, schermaglia e la COOP utilizzano marker simili per attaccare e difendere.
 
-## _Vehicle Warfare \(VW\)_ {#vehicle-warfare}
+## Vehicle Warfare \(VW\)
 
 In questa modalità di gioco, numerosi veicoli pesanti si scontrano per il controllo della mappa. I giocatori sono limitati a rinascere con i kit dell'equipaggio. Possono essere richiesti solo i kit di ufficiale e pilota. I ticket sono influenzati solo dal numero di CP che una squadra controlla. I veicoli già distrutti riappariranno dopo 5 minuti. Sono necessari almeno 6 giocatori \(che usano dei veicoli\) per prendere il controllo di un CP. La cattura avviene molto più velocemente rispetto all'AAS.
 
-## _Schermaglia_ {#skirmish}
+## Schermaglia
 
 Questa modalità di gioco funziona su versioni di mappe in scala ridotta rispetto alla modalità di gioco Advance and Secure, pensate per circa 12-16 giocatori. È perfetta per le partite tra clan e piccoli scontri di fanteria. La Schermaglia \(o Skirmish\) ha le stesse regole dell'AAS, ma con zone di combattimento più piccole, di solito senza veicoli o risorse posizionabili e con meno ticket. Se una fazione perde un CP contro il nemico, verrà penalizzata per 10 ticket.
 
@@ -42,11 +42,11 @@ Questa modalità di gioco funziona su versioni di mappe in scala ridotta rispett
 
 Questa modalità di gioco presenta grandi battaglie "libere". Non ci sono CP catturabili, ma invece ogni fazione deve posizionare una singola base operativa avanzata \(FOB\) [\(vedi Strutture posizionabili\)](the_squad_leader.md#deployable-structures) da qualche parte sulla mappa. L'obiettivo è difendere la FOB della fazione cercando nel contempo di trovare e distruggere la FOB nemica. Quando una fazione perde la propria FOB, subirà una grande penalità di biglietti e continuerà a perderli fino a quando non ne costruirà una nuova. La FOB deve essere posizionata almeno a 200 metri dai confini della mappa. Costruire la FOB della tua fazione più vicino al centro della mappa aumenta la perdita di biglietti che subirà il nemico mentre la loro FOB è inattiva. Entrambe le fazione possono costruire più difese in un raggio più ampio vicino alla loro FOB rispetto ad altre modalità di gioco.
 
-## _Co-Operativa \(COOP\)_ {#co-operative}
+## Co-Operativa \(COOP\)
 
 In this mode it is possible for one or more human players to march into battle alongside and against AI-controlled bots. This mode is ideal for practicing with equipment and vehicles before using them in full-scale battles with human players. To accommodate the use of bots some rules and items have been modified in this mode. Most of our maps have dedicated COOP layers.
 
-## _Insurgency \(INS\)_ {#insurgency}
+## Insurgency \(INS\)
 
 Questa modalità è molto diversa rispetto alle altre in PR. L'obiettivo delle forze di coalizione (chiamate anche BluFor) è trovare e distruggere le casse di armi della fazione degli Insorti opposta (chiamata anche RedFor) nascoste in tutta la mappa. La quantità di casse distrutte richieste per la vittoria delle forze di coalizione varia in base alla mappa e al livello, ma nella maggior parte dei casi gli Insorti hanno un totale di 6 casse, delle quali 5 devono essere distrutte. Gli Insorti vincono se riescono a proteggere almeno 2 casse dalla distruzione fino a quando le forze di coalizione esauriscono i loro ticket finali. Per le forze di coalizione valgono le regole di perdita dei ticket della modalità di gioco AAS, mentre gli Insorti non hanno ticket e possono rinascere all'infinito.
 

@@ -11,7 +11,7 @@ Los modos de juegos incluyen 4 capas de variación con diferentes assets y sopor
 * **Standard \(64\):** Esta capa generalmente involucra todo el mapa y todos los assets, según corresponda al mapa. Este es la capa estándar que se puede reproducir en todo momento.. 
 * **Large \(128\):** Esta capa está diseñado para rondas más largas de 2 horas y, por lo general, contiene todos los assets de la capa estándar con pequeñas variaciones y un mayor número de tickets..
 
-## _Advance and Secure \(AAS\)_ {#advance-and-secure}
+## Advance and Secure \(AAS\)
 
 El modo de juego AAS es el más cercano al modo BF2 Conquest original. El objetivo es capturar todos los Puntos de Control  \(CPs\) manteniendo más tickets que el enemigo. Los CPs solo se pueden capturar en un orden lineal para simular una línea de frente cambiante y enfrentamientos de enfoque. Los CPs que están en juego para ser capturados se indican con un marcador de ataque naranja, mientras que los que deben defenderse de los ataques enemigos se resaltan con un marcador de defensa púrpura. Si tu equipo alcanza su última bandera azul defendible y esa es capturada por el equipo enemigo, tu equipo comenzara a sangrar tickets hasta que recuperes tu bandera. De manera similar, el último CP del equipo enemigo se indica con un marcador de ataque rojo y hará que sangren tickets si tu equipo lo captura de la misma manera.
 
@@ -28,23 +28,23 @@ Las marcas en el mapa para el modo AAS son::
 
 Guerra de Vehículos, Skirmish & COOP usan marcas similares para el ataque y la defensa.
 
-## _Vehicle Warfare \(VW\)_ {#vehicle-warfare}
+## Vehicle Warfare \(VW\)
 
 Muchos vehículos pesados, luchan por mantener el control del mapa en este modo de juego. Los jugadores están limitados a jugar con kit de Conductor. Solo se pueden solicitar kits de Oficial y Piloto. Los tickets solo son afectados por la cantidad de banderas o puntos de control que el equipo haya capturado. Los vehículos que fueron destruidos reaparecen después de 5 minutos. Se necesitan al menos 6 jugadores (dentro de sus respectivos vehículos) para poder capturar una bandera. Éstas se capturan mucho más rápido que en el modo AAS.
 
-## _Skirmish_ {#skirmish}
+## Skirmish
 
 Este modo de juego se da en versiones reducidas de los mapas del modo AAS y está destinado para partidas de entre 12 y 16 jugadores. Es perfecto para partidas entre Clanes y combates cercanos de infantería. Skirmish tiene las mismas reglas que el modo AAS, pero con una zona de captura más pequeña, generalmente sin vehículos ni construcciones desplegables, al igual que menor cantidad de tickets. Si un equipo pierde una bandera, se lo penalizará con 10 Tickets.
 
-## _Command & Control \(CNC\)_ {#command-and-control}
+## Command & Control \(CNC\)
 
 Este modo de juego cuenta con  grandes batallas de forma libre. No hay banderas capturarles, cada equipo debe desplegar una sola  \(FOB\) [\( Ver Estruturas Desplegables\)](the_squad_leader.md#deployable-structures)  en alguna parte del mapa. El objetivo es defender la FOB del equipo mientras se busca y destruye la FOB enemiga. Cuando un equipo pierde su FOB sufrirá una gran pérdida de tickets y seguirá perdiendo hasta que se construya una nueva. La FOB debe colocarse al menos a 200mts de las fronteras del mapa. El equipo que construya la FOB más cerca del centro del mapa generara mayores pérdidas de tickets al equipo enemigo cuando su FOB sea destruida. Ambos equipos pueden desplegar más defensas estáticas que en otros modos de juego.
 
-## _Co-Operative \(COOP\)_ {#co-operative}
+## Co-Operative \(COOP\)
 
 En este modo es posible jugar uno o varios jugadores con Bots / soldados controlados por IA. Esto es ideal para practicar todas las armas y vehículos así como kits antes de entrar en una partida con jugadores humanos. Para que los bots funcionaran / representaran una amenaza se modificaron ciertas características y objetos para  su uso. La mayoría de los mapas tienen su versión COOP.
 
-## _Insurgency \(INS\)_ {#insurgency}
+## Insurgency \(INS\)
 
 Este modo es muy singular en comparación con otros dentro de PR. El objetivo de la fuerza de la coalición es encontrar y destruir cinco alijos \(cache\) de armas insurgentes ocultos en todo el mapa antes de quedarse sin tickets. Las fuerzas de la coalición pierden boletos por cada jugador muerto o activo destruido, mientras que el equipo de insurgencia solo pierde boletos cuando se destruye un alijo de armas.
 

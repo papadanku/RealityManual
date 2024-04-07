@@ -5,7 +5,7 @@ I kit in Project Reality definiscono la tua classe, l'equipaggiamento e il tuo r
 * **Kit Standard**, che sono i ruoli standard della squadra di fanteria e possono essere selezionati direttamente dalla schermata di spawn.
 * **Kit Specialista**, che sono ruoli più specializzati e possono essere ottenuti solo attraverso una procedura speciale di [richiesta](kits.md#kit-request).
 
-## _Da dove iniziare_ {#where-to-start}
+## Da dove iniziare
 
 In quanto nuovo giocatore, dovresti sempre unirti a una squadra di fanteria e prendere il kit del **Fuciliere**. Il Fuciliere rappresenta il soldato di fanteria di base e può essere utilizzato senza restrizioni da quante persone vogliano usarlo in una squadra o una fazione. Tutti gli altri kit sono associati a ruoli più specializzati e hanno rigide restrizioni sul numero di kit di quel tipo che possono essere utilizzati contemporaneamente in una squadra o una fazione.
 
@@ -14,7 +14,7 @@ Due to these restrictions, and in order to avoid negatively affecting your team 
 A causa di queste restrizioni e al fine di evitare di influire negativamente sulle prestazioni della tua squadra utilizzando in modo improprio un kit limitato, è **fortemente consigliato iniziare a giocare con il kit del Fuciliere**. Man mano che acquisisci esperienza e impari le basi del gameplay della fanteria, se ti senti all'altezza del compito, puoi chiedere al tuo Capos Squadra di assegnarti un ruolo diverso. In ogni caso, **DOVRESTI SEMPRE chiedere il permesso al tuo Capo Squadra prima di cambiare kit**.
 
 
-## _Kit Standard_ {#standard_kits}
+## Kit Standard
 
 I **Kit Standard** sono i 7 kit mostrati nella schermata di spawn e rappresentano i ruoli tipici di una squadra di fanteria. Nella seguente tabella, puoi trovare un riepilogo dei 7 kit standard, insieme alle informazioni su quanti kit di questo tipo possono essere presenti in una singola squadra e quante persone devono essere nella squadra per poter spawnare con essi.
 
@@ -44,7 +44,7 @@ Si noti inoltre che, per scopi di giocabilità, oltre alle limitazioni di squadr
 Di seguito segue una spiegazione più dettagliata di ciascun kit:
 
 * ![](../assets/rifleman.png)**Fuciliere**. Kit illimitato, rappresenta il soldato di fanteria standard. Tipicamente è equipaggiato con un fucile d'assalto, granate a frammentazione e granate fumogene. Non ha un ruolo specializzato ed è ideale per posizioni e manovre più aggressive. È anche l'unica classe con una sacca di munizioni, che gli consente di rifornire i commilitoni.
-* ![](../assets/officer.png)**Ufficiale**. Limitato a 1 per squadra e disponibile solo per il Capo Squadra. Oltre all'equipaggiamento standard da combattimento, questo kit è dotato di un'arma secondaria, una radio dell'ufficiale e binocoli. Può comunicare direttamente con gli altri ufficiali della fazione, inserire marker sulla mappa, costruire postazioni e fortificazioni e richiedere missioni di supporto (artiglieria, fuoco di mortaio, supporto corazzato o aereo, ecc.). Puoi trovare informazioni più dettagliate su questo ruolo cruciale nella sezione [**Capo Squadra**](../the_squad_leader.md#the_squad_leader) di questo manuale.
+* ![](../assets/officer.png)**Ufficiale**. Limitato a 1 per squadra e disponibile solo per il Capo Squadra. Oltre all'equipaggiamento standard da combattimento, questo kit è dotato di un'arma secondaria, una radio dell'ufficiale e binocoli. Può comunicare direttamente con gli altri ufficiali della fazione, inserire marker sulla mappa, costruire postazioni e fortificazioni e richiedere missioni di supporto (artiglieria, fuoco di mortaio, supporto corazzato o aereo, ecc.). Puoi trovare informazioni più dettagliate su questo ruolo cruciale nella sezione [**Capo Squadra**](the_squad_leader.md) di questo manuale.
 * ![](../assets/medic.png)**Medico**. Limitato a 2 per squadra. Ha il compito di fornire assistenza medica sul campo di battaglia ed è quindi uno dei ruoli che influiscono di più sulle prestazioni della squadra. La consapevolezza della battaglia e un istinto di sopravvivenza sono essenziali per questo ruolo. Oltre a un fucile d'assalto, è equipaggiato con diverse granate fumogene, un kit di pronto soccorso, epipens e medicazioni. È l'unico kit in grado di trascinare i commilitoni feriti.
 * ![](../assets/ar.png)**Mitragliere di Squadra \(AR\)**. Limitato a 1 per squadra. Equipaggiato con una mitragliatrice leggera, il Mitragliere di Squadra \(o AR\) è un fuciliere meno mobile e meno versatile (non ha granate a frammentazione) che fornisce, d'altra parte, una potenza di fuoco superiore. La sua specialità è un fuoco di soppressione preciso e mortale, che è anche molto efficace nel limitare il movimento dei nemici.
 * ![](../assets/breacher.png)**Breacher**. Limitato a 1 per squadra. È uno specialista in demolizioni che agisce anche come punta di diamante nelle irruzioni degli edifici. Il suo equipaggiamento include un fucile d'assalto, un rampino per superare ostacoli, un fucile a pompa e alcune cariche di esplosivo C4 per demolizioni tattiche.
@@ -52,7 +52,7 @@ Di seguito segue una spiegazione più dettagliata di ciascun kit:
 * ![](../assets/grenadier.png)**Granatiere**. Limitato a 1 per squadra e a **8 per fazione**. Di solito è equipaggiato con un lanciagranate sottocanna montato sul suo fucile d'assalto. Il suo compito principale è disturbare le aree a bassa visibilità dove è sospetta la presenza nemica e disturbare i veicoli leggeri. È particolarmente utile per gli scontri a lunga distanza e per combattere nemici nascosti all'interno degli edifici.
 
 
-## _Kit Specialista_ {#specialist_kits}
+## Kit Specialista
 
 Oltre ai Kit Standard descritti sopra, in PR esiste una vasta selezione di **Kit Specialista** capaci di svolgere compiti altamente specializzati. Alcuni di questi kit includono l'Anti-Carro Pesante, il Geniere, il Tiratore Scelto, il Cecchino o il Fuciliere Anti-Aereo, ed altri.
 
@@ -106,7 +106,7 @@ Di seguito troverai una descrizione più dettagliata di ciascun kit specializzat
 * ![](../assets/aa.png)**Fuciliere Anti-Aereo \(AA\)**. È dotato di un sistema d'arma anti-aerea portatile, che lo rende la uomo adatto per allontanare e abbattere gli elementi aerei nemici. La sua restrizione a 2 per team lo rende un asset estremamente critico. Non sprecare questo kit!
 * ![](../assets/hay.png)**Anti-Carro Pesante \(HAT\)**. L'HAT rappresenta una minaccia altamente efficace contro i veicoli corazzati e può distruggere veicoli con estrema efficacia anche a lunga distanza. L'alta limitazione di questo kit \(**1 per team**\) lo rende un kit assolutamente critico. Per questo motivo, ai giocatori senza l'esperienza richiesta viene **fortemente richiesto** di stare alla larga da esso.
 
-## _Kit Insorti_ {#insurgency-kits}
+## Kit Insorti
 
 Uniche per alcune delle forze irregolari e/o la modalità di gioco Insurgency ci sono una serie di kit per l'uso in stili di guerra asimmetrica. Spesso meno sofisticati in termini di efficacia rispetto all'equipaggiamento in dotazione ai militari, i kit degli insorti spesso vengono forniti con una miscela molto variegata di armi da fuoco e un assortimento di altri attrezzi improvvisati per contribuire a mitigare il divario di efficacia sopra menzionato. Di particolare rilievo gli Insorti Iracheni, poiché la loro tabella di armi leggere da fanteria è notevolmente diversa da tutte le altre fazioni e quindi richiede un'ispezione più approfondita:
 
@@ -123,9 +123,9 @@ The last class unique to the insurgent forces is the Civilian: When dropping you
 
 L'ultima classe unica per le forze insorte è quella del Civile: quando abbandoni kit in gioco, al giocatore viene fornito un kit fittizio. Alcune fazioni irregolari ottengono l'effetto dello status di civile quando lo usano per 2 minuti o più. Il kit del civile, molto simile al collaboratore menzionato in precedenza, funge da esploratore e deterrente contro gli attacchi militari, ma non dispone di mezzi per aiutare il team in termini di altri equipaggiamenti di supporto.
 
-*Una spiegazione più dettagliata su Collaboratori e Civili può essere trovata in una sezione separata del manuale  [**qui**](../the_civilian.md#the_civilian).
+*Una spiegazione più dettagliata su Collaboratori e Civili può essere trovata in una sezione separata del manuale  [**qui**](the_civilian.md).
 
-## _Altri Kit_ {#other-kits}
+## Altri Kit
 
 In aggiunta ai kit già descritti, ci sono alcuni kit speciali che hanno regole specifiche. Questi sono il Kit Equipaggio, il Kit Pilota, il Kit Civile e tutti i kit degli Insorti. I kit Civile e Insorto riguardano la modalità di gioco **Insurgency** e sono quindi descritti nella sezione corrispondente del manuale {\#Insurgency}.
 
@@ -136,7 +136,7 @@ In aggiunta ai kit già descritti, ci sono alcuni kit speciali per accedere ai v
 * ![](../assets/pilot.png)**Pilota**. Il pilota è l'unico kit in grado di pilotare elicotteri e aerei. Viene equipaggiato con un'arma secondaria, un paracadute e una granata fumogena di segnalazione. Non tentare di pilotare aeromobili senza l'adeguata esperienza.
 * ![](../assets/crewman.png)**Equipaggio**. È l'unico kit in grado di operare veicoli corazzati. Il Membro dell'Equipaggio è equipaggiato con un'arma compatta per l'autodifesa e con dei binocoli per studiare il campo di battaglia. Normalmente, sia il conducente che l'artigliere in un veicolo corazzato necessitano del kit Equipaggio.
 
-## _Procedura di Richiesta del Kit_ {#kit-request}
+## Procedura di Richiesta del Kit
 
 Una volta spawnati e se vengono soddisfatte determinate condizioni, è possibile richiedere un nuovo kit \(sia Standard che Specialistico\) da una cassa di rifornimenti alleata o da un veicolo corazzato. Di solito, per richiedere un kit, devono essere soddisfatte queste 3 condizioni:
 
@@ -184,7 +184,7 @@ Se hai richiesto il kit nel posto sbagliato:
 * **"Non puoi ottenere un altro kit limitato così presto dopo l'ultimo"**
 * **"Sei nuovo in questa squadra, richiedi di nuovo tra un minuto"**
 
-## _Procedura di abbandono Kit_ {#drop-kit}
+## Procedura di abbandono Kit
 
 In alcune situazioni, potresti voler abbandonare il tuo kit. Le situazioni più comuni sono:
 

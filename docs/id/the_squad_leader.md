@@ -1,6 +1,6 @@
 # Pemimpin Squad
 
-## _Memimpin Squad_ {#guiding-squad}
+## Memimpin Squad
 
 Seperti yang sudah dijelaskan di bagian Navigasi Area Pertempuran, Pemimpin Squad dapat menempatkan penanda/marka di map untuk diikuti anggota-anggota squadnya. Mereka akan melihat marka pada kompas untuk diikuti sekaligus adanya penanda di map. Pemimpin Squad **WAJIB** menggunakan marka/kompas tersebut sesering mungkin dan juga dapat menggunakannya untuk mempermudah pengukuran jarak ke sasaran. Ia dapat melakukannya di _minimap_ dengan mengklik kanan _minimap_ lalu tempatkan marka, atau dengan cara menekan tombol **_secondary radio/radio sekunder_ \(T\)** dan tandai pada sasaran lalu menggunakan salah satu simbol berikut sebagai marka.
 
@@ -13,7 +13,7 @@ Seperti yang sudah dijelaskan di bagian Navigasi Area Pertempuran, Pemimpin Squa
 
 Komandan juga dapat memberikan perintah pada Anda. Jika Anda menerima perintahnya **(PAGE UP),** marka Anda akan digantikan dengan perintah dari Komandan.
 
-## _Mengenali Musuh_ {#spotting-enemies}
+## Mengenali Musuh
 
 Pemimpin squad di PR:BF2 mempunyai banyak fungsi kemampuan. Ia dapat menandai musuh di peta dan melapor kontak ke komandan tim dengan kewenangan menandai sasaran di peta tim. Untuk melakukan fungsi ini, ikuti langkah berikut:
 
@@ -27,7 +27,7 @@ Pemimpin squad di PR:BF2 mempunyai banyak fungsi kemampuan. Ia dapat menandai mu
 [Video Tutorial - Marking](https://www.youtube.com/watch?v=XNDb2yMuoho "Video Tutorial - Marking")
 
 
-## _Penunjuk GTL (GTLD)_ {#gtld}
+## Penunjuk GTL (GTLD)
 
 Kit Pemimpin Squad dan kit Spotter digunakan oleh pasukan konvensional dilengkapi oleh **GTLD (_Ground Target Laser Designator_)**. Perlengkapan ini mempunyai tingkat zoom yang lebih baik daripada teropong biasa, termasuk fungsi pencari-jarak dan kemampuan menandai sasaran musuh yang bisa ditargetkan oleh teman (dan musuh) bom atau misil unit udara.
 
@@ -35,7 +35,7 @@ Dengan menggunakan GTLD, anda dapat mengklik kanan untuk meningkatkan zoom lalu 
 
 Sebagai tambahan, ketika laser menyala, anda dapat mengakses menu utama radio (Q) untuk meminta bantuan udara jarak dekat (CAS) atau panggil tembakan mortar. Dengan begitu secara otomatis akan menyampaikan pesan teks di (chat) tim anda meminta dan ditambahkan penanda sasaran di peta.
 
-## _Rally Points_ {#rally-points}
+## Rally Points
 
 Squad Leader mampu mengatur **Rally Point (RP).** Ini memungkinkan anggota squad untuk berkumpul (spawn) kembali di area bersama anggota squad lainnya. Untuk meletakkan RP anda harus menekan tombol radio kedua (T) dan pilih **PLACE RALLY POINT.**
 
@@ -54,7 +54,7 @@ Musuh yang datang dalam jarak 50m di peta 1x1km atau 125m di peta 2x2km dan 4x4k
 
 Rally point mengisi ulang setiap 1 menit. Kecuali rally pointnya diserbu. Pada kasus tersebut anda harus menunggu 5 menit.
 
-## _Meminta Bantuan_ {#requesting-support}
+## Meminta Bantuan
 
 Pemimpin squad dapat menggunakan radio untuk meminta bantuan kepada squad lain. Dengan cara ia haru menyalakan radio lalu tekan tombol **_secondary radio_/radio sekunder (T).** Ini akan membuka menu untuk meminta bantuan dan mengirimkan aset-set tim. 5 perintah dari bawah yang diawali “**NEED ...”** akan menempatkan marka pada map sesuai posisi Anda. Perintah-perintah tersebut nantinya akan disampaikan sebagai pesan radio pada tim Anda untuk memberitahu satu tim mengenai permintaan tersebut. Permintaan bantuan **“NEED AREA ATTACK”** berbeda dengan yang lainnya. Dalam sebagian map, pasukan konvensional dapat menggunakan perintah ini untuk meminta bantuan **serangan artileri**. Jika permintaan ini diterima komandan satu tim, serangan tersebut akan sampai sekitar satu menit. Setelah _loading_ map baru atau mengeksekusi **_area attack,_**butuh waktu 30 menit untuk tersedia lagi. Di sisi yang bersamaan, tim insurgent/militia memiliki akses serangan mortir setiap 20 menit di kebanyakan map.
 
@@ -62,7 +62,7 @@ Pemimpin squad dapat menggunakan radio untuk meminta bantuan kepada squad lain. 
 >
 > Meminta bantuan melalui radio
 
-## _Pekerjaan Konstruksi_ {#construction-work}
+## Pekerjaan Konstruksi
 
 Membangun aset-aset sangatlah penting bagi Pemimpin Squad juga Komandan tim. Ketika menaruh dan membangun _Forward Operating Base_ (FOB), Pemimpin Squad harus memiliki kit _officer_ dan _heavy supply crate_ dalam radius 50m. 2 _light supply crates_ memiliki isi yang sama dengan 1 _heavy supply crate_ untuk mencapai tujuan yang sama. Insurgents, Taliban dan Hamas hanya dapat menaruh _hideout_, mortir dan posisi _anti-tank_ untuk tim dimana tidak memerlukan _supply_ (persediaan) untuk membangun struktur-struktur (aset) tersebut. Diperlukan kit _cell leader_ atau _collaborator_ untuk melakukan fungsi ini.
 
@@ -94,7 +94,7 @@ Amunisi senjata emplasemen (yang sudah dibangun) bisa diisi ulang dengan menjatu
 >
 > Gambar _foxhole_ yang belum dibangun (kiri) dan selesai dibangun (kanan).
 
-## _Deployable Structures_ {#deployable-structures}
+## Deployable Structures
 
 Berikut daftar struktur yang bisa ditempatkan serta ketentuan dalam membangun nya. Struktur ini dapat dibongkar dengan sekop maupun dihancurkan dengan C4, IED, peluru tank, peluru APC, atau persenjataan berat lainnya. Struktur bisa musnah jika menerima kerusakan terus-menerus pada emplasemen. Pos terdepan serta persembunyian dapat dihancurkan dengan persenjataan layaknya bahan peledak C4 dan TNT. Pemimpin Squad mampu menyingkirkan penempatan emplasemen yang belum dibangun dengan radio melalui cara yang sama ketika menempatkannya, dengan cara lain menggunakan klik kanan untuk menyingkirkan penempatan pos tersebut. Mode tembakan alternatif pada peralatan galian memiliki fungsi membongkar penempatan emplasemen yang belum dibangun. Catatan penting terkait ketentuan dan limitasi yang tercantum di bawah ini merupakan poin penting mengenai jarak ke FOB serta jumlah maksimum aset tiap FOB yang digandakan pada gamemode CNC (kecuali jumlah mortar). Perlu diingat bahwa 2 _supply crate_ besar dapat digantikan oleh 4 _supply crate_ kecil atau 1 peti besar dan 2 peti kecil. Untuk lebih lanjut mengenai logistik dan _supply crate_, dapat disimak pada bab logistik [Bab Logistik.](the_basics.md#logistics).
 

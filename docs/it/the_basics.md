@@ -3,7 +3,7 @@
 Principalmente, **dovresti unirti a una squadra.** Alcuni server addirittura lo richiedono ed espellono i giocatori solitari dopo un periodo di avvertimento. Il gioco è decisamente più divertente quando si gioca in un squadra funzionante. Se hai bisogno di aiuto, chiedi semplicemente **ai giocatori nella tua squadra** cosa fare. Se possibile, usa il Mumble. È comunemente usato in PR. Giocare a PR:BF2 senza un microfono non ti darà l'esperienza completa, quindi è un investimento saggio. Se nessuno risponde, prova a unirti a un altro squadra o usa la chat generale. Ci sono molti membri della comunità disponibili che danno il benvenuto ai nuovi giocatori e li aiutano. Ci aspettiamo che tu abbia una comprensione di base di BF2 quando si tratta di navigare nei menu in gioco, come il punteggio, la mappa e la selezione del kit. Puoi sempre avviare BF2 e fare il tutorial lì per familiarizzare con la sua interfaccia. Questo manuale si concentrerà sulle differenze con BF2.
 
 
-## _Selezione del Kit e spawn_ {#kit-selection-and-spawning}
+## Selezione del Kit e spawn
 
 * Quando inizi a giocare, è consigliabile spawnare solo come fuciliere con un'ottica a tua scelta. In questo modo puoi imparare meglio le basi fondamentali del gameplay.
 * Dopo aver imparato le basi della fanteria, puoi chiedere al tuo SL (Capo Squadra) di assegnarti un kit specializzato quando ti senti pronto per la sfida. Se vuoi provare nuove attrezzature o un veicolo, puoi farlo facilmente in modalità cooperativa (co-op) senza arrecare disagio ai membri della tua squadra o mettere a rischio le risorse della tua fazione.
@@ -41,7 +41,7 @@ Veicolo Corazzato del Comando (ACV) si trova solo nelle basi principali.
 * Alcune mappe presentano **spawn con paracadute**, dove viene simulato un assalto aereo. Questi saranno visualizzati tramite marker di spawn in movimento sulla minimappa. Scegli uno di essi e spawnerai con un paracadute che si apre automaticamente.
 
 
-## _Interfaccia di gioco \(HUD\)_ {#hud}
+## Interfaccia di gioco \(HUD\)
 * Nell'HUD di gioco di PR:BF2, i giocatori ricevono **messaggi specifici per il giocatore** che possono essere visti solo dal giocatore stesso. Sono utilizzati per fornire feedback ai giocatori su diversi eventi in gioco, ad esempio:
   * Il motivo per cui al giocatore non è stato assegnato il kit richiesto.
   * Il motivo per cui la risorsa posizionabile richiesta dal giocatore non può essere costruita.
@@ -83,7 +83,7 @@ Menu radiale di comunicazione quando si preme Q.
 * Puoi **orientarti sulla mappa** utilizzando l'indicatore di direzione che troverai intorno all'icona del tuo giocatore.
 * Mentre hai equipaggiato determinate armi o equipaggiamenti, il **menu radiale delle comunicazioni della radio principale** viene sostituita da un piccolo menu contestuale. Quando hai in mano una medicazione da campo o il kit di primo soccorso, puoi utilizzare il comando "PRIMO SOCCORSO" per informare i giocatori nelle vicinanze che hai intenzione di fornirgli assistenza medica. Molte equipaggiamenti e alcune armi utilizzano menu contestuali.
 
-## _Gestione della Salute_ {#health-management}
+## Gestione della Salute
 
 Le armi in Project Reality sono estremamente letali ed è solo una questione di tempo prima che tu venga colpito e inizi a sanguinare. Anche se l'HUD in PR non contiene una barra della salute, una volta che la tua salute scende al di sotto del 75%, ci saranno segnali visivi di avvertimento come un'oscuramento periodico dello schermo con effetto di visione a tunnel. Con meno del 25% di HP, sentirai tosse e respirazione affannata, a 10 HP perderai la stamina e non potrai riguadagnarla a meno che non guarisca sopra almeno quei 10 HP. Mentre stai sanguinando, l'effetto di visione a tunnel e l'oscuramento dello schermo diventeranno sempre più intensi, limitando ulteriormente la tua efficacia in combattimento.
 
@@ -128,11 +128,11 @@ Viene applicata una penalità temporale aggiuntiva al tempo di respawn solo alla
 Per selezionare un punto di respawn, apri la mappa dei respawn e seleziona una posizione idonea contrassegnata da un punto bianco. Una volta scelto il punto di respawn ideale, è necessario fare clic sul pulsante **Respawn** nell'angolo inferiore destro della schermata della mappa per respawnare nel gioco.
 
 
-## _Logistica_ {#logistics}
+## Logistica
 
 Se stai esaurendo le munizioni e hai bisogno di rifornirti, vuoi un kit nuovo o semplicemente vuoi costruire delle postazioni, la logistica è essenziale per mantenere in vita la tua squadra.
 
-### _Munizioni_ {#ammunition}
+### Munizioni
 
 Per poterti rifornire di munizioni, dovrai avvicinarti a una delle diverse fonti di munizioni, che automaticamente riforniranno le tue armi. Queste fonti sono:
 
@@ -243,7 +243,7 @@ Inoltre, se non stai ti stai rifornendo, assicurati che la cassa di rifornimenti
 
 
 
-### _Casse di Rifornimenti_ {#crates}
+### Casse di Rifornimenti
 
 The ownership of the crate is depicted by the flag display on top of the crate.
 
@@ -281,7 +281,7 @@ I camion logistici hanno anche la capacità di rilasciare una stazione di ripara
 Stazione di Riparazione
 {% endfigure %}
 
-## _Punteggi_ {#score}
+## Punteggi
 
 Il punteggio di un giocatore è diviso in punti di squadra e punti individuali. È ovvio che le attività correlate al lavoro di squadra \(costruzione, guida di veicoli, difesa/attacco di bandiere\) contribuiscono ai primi, mentre le azioni individuali \(uccidere giocatori\) contribuiscono al tuo punteggio personale.
 
@@ -293,7 +293,7 @@ Il punteggio totale di un giocatore non può mai scendere sotto lo 0, ma il punt
 * Distruggere l'obiettivo nemico: **+150**
 
 
-## _Mortai_ {#mortars}
+## Mortai
 
 Una postazione fissa di mortaio che può fornire supporto di fuoco indiretto su lunghe distanze. Tutte le fazioni possono sparare proiettili ad alto potenziale esplosivo. Le forze convenzionali e la milizia possono anche utilizzare proiettili a esplosione aerea e fumogeni. I mortai non possono essere costruiti su mappe più piccole di 2 km.
 
@@ -307,7 +307,7 @@ Interfaccia del calcolatore del mortaio.
 {% endfigure %}
 
 
-## _Ponti di Supporto \(CSB\)_ {#close-support-bridges}
+## Ponti di Supporto \(CSB\)
 
 In some cases multiple CSBs are required to span the complete distance. In such situations, you're required to drive to the end of the incomplete bridge and deploy a new CSB and repeat untill its finish.
 
@@ -332,7 +332,7 @@ CSB che viene dispiegato dal camion.
 In alcuni casi sono necessari più CSB per coprire l'intera distanza. In tali situazioni, è necessario guidare fino alla fine del ponte incompleto, dispiegare un nuovo CSB e ripetere fino al completamento.
 
 
-## _Orientamento sul Campo_ {#battlefield-navigation}
+## Orientamento sul Campo
 
 È piuttosto facile perdersi nelle ampie mappe di PR:BF2. Il ritmo lento e il coordinamento di squadra richiedono ai giocatori di comunicare le posizioni in modo chiaro e conciso. PR:BF2 offre 4 strumenti per aiutare i giocatori in questo:
 
@@ -353,7 +353,7 @@ Rispettivamente, marker obiettivo, costruzione, osservazione, difesa, demolizion
 {% endfigure %}
 
 
-## _Informazioni di Base sui Veicoli_ {#basic-vehicle-information}
+## Informazioni di Base sui Veicoli
 
 Molti veicoli si comportano in modo piuttosto diverso rispetto a BF2 e richiedono conoscenze avanzate per essere utilizzati. Poiché hanno anche tempi di spawn molto lunghi \(fino a 20 minuti\), è fondamentale sapere come evitare situazioni problematiche. Questa parte si concentrerà sull'illustrazione dei tipi di veicoli e su come influenzano la squadra. Per ulteriori dettagli sull'uso dei veicoli, consulta ulteriormente in questo manuale la sezione sull'Uso dei Veicoli.
 

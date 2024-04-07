@@ -1,6 +1,6 @@
 # Set-Up
 
-## _System Requirements_ {#systemreq}
+## System Requirements
 
 * **Operating System:** Windows 10.
 * **Processor (CPU):** Intel 4th gen or AMD Ryzen zen1 @3GHz required, Intel 9th gen or AMD Ryzen zen2 @4GHz recommended.
@@ -14,7 +14,7 @@ Recommended Vega 6, Intel Xe G4, AMD Radeon RX 550, Nvidia GT 1030 or similar.
 * **Input:** Mouse, Keyboard.
 * **Optional:** Joystick, Headset, microphone \(strongly recommended for voice communication\).
 
-## _Game Installation_                                                                          {#game-installation}
+## Game Installation
 
 With PR:BF2 it is **no longer required to have Battlefield 2** installed. PR:BF2 works as a standalone game. If you have a version of PR:BF2 installed before v1.3 you will need to uninstall this before you install the current version PR:BF2. 
 
@@ -41,7 +41,7 @@ A few more points:
 * PR:BF2 includes PR Mumble in its installation. So there is no need to download this separately.
 * If you don’t want to use Torrents you will find mirrors for direct HTTP downloads in the downloads section on our website.
 
-## _Creating a PR Account_ {#creating-a-pr-account}
+## Creating a PR Account
 
 Since DICE and EA removed support for BF2 in May 2014 we now use our own account-service for PR:BF2. All your old BF2 accounts (before PR:BF2 v1.2) are no longer retrievable. Before using the PR Launcher you will need to create a PR Account in order to play online. This account is unique to you. Offline play does not require a PR Account. We use third-party services to connect and verify a PR Account with. Currently we only support Steam. You will need to have an existing Steam account or [create a new one](https://steamcommunity.com/) in order to link to your PR Account. 
 When you launch Project Reality:BF2 for the first time you will shown the following window:
@@ -75,7 +75,7 @@ Your PR Account Level will be higher by gathering XP for a few indicators. These
 
 If you do not wish to create a PR Account to play online, you can choose to play offline only on the initial login screen. 
 
-## _Creating a Profile_ {#creating-a-profile}
+## Creating a Profile
 
 You have one PR Account that is unique. However, you can create multiple profiles under this PR Account. Each profile has a unique in-game name as well as separate settings and controls saved on your computer. You can retrieve previously created profiles as well. Older profiles created after PR:BF2 v1.2 and before v1.6 can be retrieved as well by providing the profile name and password. 
 
@@ -91,7 +91,7 @@ Creating profile page.
 {% endfigure %}
 
 
-## _The PR Launcher_ {#the-pr-launcher}
+## The PR Launcher
 
 After installation a shortcut for Project Reality:BF2 will be provided on the desktop, double click on this icon to open the PR Launcher. 
 
@@ -110,7 +110,7 @@ All main options are displayed on the right.
 
 The launcher’s main menu also provides a news ticker at the bottom highlighted in blue with announcements of upcoming events, developmental progress and developer blogs from the PR:BF2 community. Furthermore you can find links to our social media accounts on the top left. 
 
-## _In-Game Menu Navigation_ {#in-game-menu-navigation}
+## In-Game Menu Navigation
 
 * **Co-operative:** Allows you to play PR:BF2 with computer controlled AI soldiers on the teams. This mode is very useful for getting to know the game mechanics and equipment before joining competitive online battles.
 * **Deployment:** The main mode of play in Project Reality. Here you will find intense battles with up to 100 human players.
@@ -118,7 +118,7 @@ The launcher’s main menu also provides a news ticker at the bottom highlighted
 * **Options:** Here you can configure the audio options as well as the keyboard layout. Video options have to be changed in the PR Launcher.
 * **Exit:** Use this button to exit the game and return to Windows.
 
-## _PR Mumble_                                                                                {#pr-mumble}
+## PR Mumble
 
 In game, Mumble is the program which we use to communicate to each other in PR:BF2, which replaces BF2 vanilla’s Voice-Over-IP \(VOIP\) system. The main unique feature of PR Mumble is that its primary method of communication is transmitted within 3D space, which is directional and proximity based. This is called Local. What this means is that all players on your team can talk to each other if they are nearby, and you can hear in what direction they are speaking from, similarly you can judge how far away they are, just like in real life.
 
@@ -151,7 +151,7 @@ Mumble's icons status: Transmitting, Muted Speakers, Muted and Disconnected, res
 
 
 
-## _Troubleshooting_ {#troubleshooting}
+## Troubleshooting
 
 * PR:BF2 has its own file verification before you start the game. You will not be able to play online with modified files. You can still use them offline.
 * PR:BF2 needs to be started using the PR Launcher. Launching BF2.EXE or PRBF2.EXE will not work.
@@ -170,7 +170,7 @@ Here are a couple of forum links from realitymod.com to use for various common r
 * [General Technical Support](https://www.realitymod.com/forum/forumdisplay.php?f=360) for all your technical questions.
 * [PR In-Game Tactics and Strategies](https://www.realitymod.com/forum/forumdisplay.php?f=137) will help you further then this manual to master all elements of PR:BF2 with community written guides and tutorials.
 
-## _Default Game Controls_ {#default-game-controls}
+## Default Game Controls
 
 **General Controls**
 

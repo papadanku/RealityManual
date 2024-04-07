@@ -1,7 +1,7 @@
 # Armas y Equipamientos
 
 
-## _Informaciones Generales de Armas y Equipamientos_ {#general-weapons-equipment}
+## Informaciones Generales de Armas y Equipamientos
 
 
 Después de moverse durante un tiempo prolongado, necesitarás tomarte un momento para ser capaz de disparar con precisión a objetivos a larga distancia. Los enfrentamientos a corta distancia no se verán afectados por el movimiento basado en desviación. Esto permite al jugador hacer pequeñas correcciones sin sufrir alguna desviación al disparar. Tirarse al suelo para disparar afectará por unos segundos tu desviación, pero ofrece la mayor precisión a la hora de disparar a objetivos a larga distancia una vez se haya recuperado.
@@ -115,13 +115,13 @@ _Kits: Granada de humo: Casi todos los Kits | Humo señal: Oficial, fuerzas conv
 
 > _Kits: iloto y en algunos mapas todos los  kits respawneables_
 
-## _Cambio de Mira \(BUIS\)_ {#buis}
+## Cambio de Mira \(BUIS\)
 
 **El Cambio de Mira \(BUIS\)** están diseñados para proporcionar al operador un método alternativo para la adquisición de un objetivo dependiendo de la situación. Siempre que el arma tenga BUIS equipado, un jugador podrá cambiar entre miras de respaldo y ópticas usando **la tecla predeteminada del ciclo de camara \(C**\). El jugador puede alternar entre los modos de vista que se indica con la letra BUIS en la esquina inferior derecha. S para alcance, B para BUIS. El modo BUIS se puede alternar en cualquier momento, ya sea que esté apuntando hacia abajo o no, pero debe volver a apuntar para cambiar entre los modos.
 
 {% figure "../assets/buis.png" %}
 {% endfigure %}
 
-## _Configurar Distancia de la Mira_ {#altering-sighting-range}
+## Configurar Distancia de la Mira
 
 {{ "Video Tutorial - Distancia de la Mir " | youtube("cLfdH1EHWPA") }}

@@ -1,6 +1,6 @@
 # Operare i Veicoli
 
-## _Informazioni Generali sui Veicoli_ {#general-vehicle-information}
+## Informazioni Generali sui Veicoli
 
 * Veicoli leggeri, camion, barche e la maggior parte delle jeep (ad eccezione di quelle leggermente corazzate) possono essere operati da qualsiasi soldato. I veicoli corazzati, gli elicotteri e gli aeromobili richiedono kit specifici per essere operati. I giocatori che non utilizzano il kit corretto non saranno in grado di guidare il veicolo o utilizzare le armi. Non è possibile entrare o utilizzare i veicoli nemici. Per i veicoli terrestri è necessario un kit **Equipaggio**. Per gli aeromobili ed elicotteri è necessario il kit **Pilota**. Questi kit possono essere richiesti sia dal veicolo che da una cassa di rifornimenti.
 * Le visuali esterne per i veicoli sono state rimosse. Tuttavia, per alcuni veicoli ci sono telecamere personalizzate, ad esempio i camion possono guardare dietro di loro premendo **\(C\)**.
@@ -17,7 +17,7 @@
 * Nei server pubblici (non nelle modalità di gioco locali) puoi passare rapidamente al prossimo posto libero disponibile in un veicolo premendo **\(F8\)**.
 * Quando sei in un veicolo, puoi vedere le informazioni sui posti occupati nell'angolo in basso a sinistra dell'HUD. Mostra solo i posti importanti come segnalatori quadrati. Questo include le posizioni del conducente e dell'artigliere. I posti passeggeri non hanno tali segnalatori e sono mostrati come un contatore separato.
 
-## _Veicoli Corazzati_ {#armored-vehicles}
+## Veicoli Corazzati
 
 * I carri armati e i veicoli IFV hanno posti separati per il conducente e l'artigliere. Per utilizzare la posizione dell'artigliere, deve essere presente un conducente o un artigliere su cupola. Dopo aver cambiato al posto dell'artigliere, devi aspettare 30 secondi prima di poter muovere il cannone.
 * Il conducente e l'artigliere in un veicolo devono appartenere alla stessa squadra.
@@ -46,7 +46,7 @@ Gli artiglieri dei carri armati e degli IFV lo attivano selezionando lo slot del
 Fumo rilasciato da un veicolo.
 {% endfigure %}
 
-## _Elicotteri_ {#helicopters}
+## Elicotteri
 
 * Gli elicotteri hanno un **tempo di riscaldamento** di circa 30 secondi. Se viene generata troppa spinta mentre le pale del rotore si avviano, il pilota perderà il controllo e si schianterà. Per avviare l'elicottero, devi lasciare la manetta al minimo per almeno 30 secondi prima di provare a decollare.
 * I piloti di elicotteri possono guardare in altre direzioni mentre volano premendo i tasti 6, 7, 8 e 9, che puoi mappare su un joystick POV HAT Switch. Per guardare di nuovo in avanti, premi 1 o seleziona qualsiasi altra arma del tuo aeromobile.
@@ -64,7 +64,7 @@ Fumo rilasciato da un veicolo.
 * Per **lanciare con successo rifornimenti** dagli elicotteri da trasporto, il pilota deve effettuare il rilascio da un'altitudine inferiore a 5 metri / 15 piedi premendo il tasto di fuoco alternativo.
 * Le **contro-misure flares** sono limitate e devono essere riarmate una volta esaurite. Ogni volta che schieri un flare \(**X**\), verrà lanciato un flare.
 
-## _Aeromobili ad Ala Fissa_ {#fixed-wing-aircraft}
+## Aeromobili ad Ala Fissa
 
 * Gli aeromobili hanno un **tempo di riscaldamento** di 30 secondi prima di poter decollare da terra.
 * I piloti di jet possono guardare in altre direzioni mentre volano premendo i tasti 7, 8 e 9, che puoi mappare su un joystick POV HAT Switch. Per guardare di nuovo in avanti, premi 1 o seleziona qualsiasi altra arma del tuo aeromobile.
@@ -92,7 +92,7 @@ Fumo rilasciato da un veicolo.
 * Quando sei a circa 200 metri dalla pista, azzera la manetta.
 * Una volta toccato il terreno, tira indietro la cloche per rallentare, gli aerei si comportano tutti in modo diverso.
 
-## _Sistemi di Controllo del Fuoco_ {#fire-control-systems} 
+## Sistemi di Controllo del Fuoco {#fire-control-systems} 
 
 I veicoli in Project Reality utilizzano un sistema balistico autentico per i proiettili dei veicoli. A seconda del veicolo, l'artigliere può utilizzare diverse varianti dei computer dei sistemi di controllo del fuoco (FCS). In linea di principio, l'FCS può calcolare le regolazioni necessarie per sparare esattamente dove vuoi. La soluzione di tiro non tiene solo conto della caduta del proiettile dovuta alla gravità, ma include anche l'attrito che rallenta i proiettili. Inoltre, può tener conto del disallineamento tra la telecamera dell'artigliere e il cannone, della differenza in altezza rispetto al bersaglio, dell'inclinazione del veicolo e della velocità del veicolo. Proprio come i loro omologhi nella vita reale, non tutti i veicoli avranno le stesse capacità per il loro FCS. Questa sezione approfondirà alcuni dei casi d'uso delle nostre implementazioni del FCS.
 

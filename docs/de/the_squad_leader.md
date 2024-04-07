@@ -1,6 +1,6 @@
 # The Squad Leader
 
-## _Truppführung_ {#Truppfuhrung}
+## Truppführung
 
 Wie im Abschnitt "Schlachtfeld-Navigation" erklärt, kann der Squad-Leader Marker auf die Karte setzen, damit seine Squad-Mitglieder ihm folgen können. Sie werden einen Marker auf ihrem Kompass finden, um zu folgen, sowie ein Symbol auf der Karte. Der Squad Leader sollte diese so oft wie möglich benutzen und kann damit auch die Entfernung zu einem Ziel leicht erreichen. Er kann dies von der Minikarte aus tun, indem er mit der rechten Maustaste darauf klickt und den Marker platziert oder indem du die  **sekundäre Radiotaste  \(T \)**  drückst und auf das Ziel zeigst und einen der Knöpfe benutzt, um den Marker zu platzieren.
 
@@ -18,7 +18,7 @@ Wie im Abschnitt "Schlachtfeld-Navigation" erklärt, kann der Squad-Leader Marke
 
 Der Kommandant kann Sie auch befehlen. Wenn Sie den Befehl akzeptieren \( **PAGE UP**  \), wird Ihr Marker durch den Befehl des Kommandanten ersetzt.
 
-## _Feindsichtung_ {#Feindsichtung}
+## Feindsichtung
 
 Der  **Squad Leader**  in PR: BF2 hat viele funktionelle Fähigkeiten. Er ist in der Lage, gegnerische Einheiten auf der Karte zu markieren und Kontaktberichte an den Kommandanten des Teams mit der Fähigkeit zu senden, ein Ziel auf der Karte des Teams zu markieren. Gehen Sie folgendermaßen vor um diese Funktionen auszuführen:
 
@@ -34,7 +34,7 @@ Der  **Squad Leader**  in PR: BF2 hat viele funktionelle Fähigkeiten. Er ist in
 >
 > Reichweite im Radio
 
-## _Der GTL Designator  \(GTLD \)_  {#gtld}
+## Der GTL Designator  \(GTLD \)
 
 Das Squad Leader-Kit und das Spotter-Set, die von konventionellen Streitkräften verwendet werden, sind mit  **GTLD  \(Ground Target Laser Designator \) ausgestattet.**  Dieses Gerät hat einen besseren Zoom als das normale Fernglas, enthält einen Entfernungsmesser und erlaubt es Ihnen, feindliche Ziele zu markieren, die durch Bomben oder Raketen von befreundeten  \(und feindlichen \) Lufteinheiten getroffen werden können.
 
@@ -44,7 +44,7 @@ Wenn der GTLD ausgestattet ist, können Sie mit der rechten Maustaste klicken, u
 
 Während du mit der GTLD beobachtest, kannst du außerdem auf das Radio-Hauptmenü  \(Q \) zugreifen, um Luftunterstützung anzufordern \(CAS \) oder Mörserfeuermissionen aufzurufen. Dadurch wird automatisch eine Textnachricht an Ihr Team gesendet, in der die Anfrage detailliert beschrieben wird, und ein Zielmarker zur Karte hinzugefügt.  \(Du musst die Entfernung zum Ziel mit der gleichen Methode wie für das Auffinden von Feinden angeben.\)
 
-## _Rally Punkte_ {#Rallyepunkte}
+## Rally Punkte
 
 Ein Squad Leader kann  **Rally Points  \(RP \)**  festlegen. Dies ermöglicht gefallenen Gruppenmitgliedern, sich in einem sicheren Bereich mit dem Rest ihres Trupps neu zu gruppieren. Um eine RP zu platzieren, drücken Sie  **die sekundäre Radiotaste  \(T \)**  und wählen  **Setze RALLY POINT** .
 
@@ -63,7 +63,7 @@ Ein Feind, der innerhalb von 50m auf 1x1km Karten oder 125m oder 2x2km und 4x4km
 
 Ein Sammelpunkt wird alle 1 Minute wieder aufgeladen. Es sei denn, es wurde überrannt. In diesem Fall müssen Sie 5 Minuten warten.
 
-## _Unterstützungsanfrage_  {#Anfrage-Unterstützung}
+## Unterstützungsanfrage
 
 Der Gruppenführer kann sein Funkgerät auch verwenden, um Unterstützung von anderen Trupps anzufordern. Dazu muss er sein Radio aktivieren und dann  **den sekundären Radiotaste  \(T \) drücken.** Dadurch wird das Menü zum Anfordern von Support und zum Bereitstellen von Team-Assets geöffnet. Die unteren fünf Befehle beginnend mit  **"Brauche ..."**  werden einen Kartenmarker an Ihrer Position platzieren. Sie senden auch eine Funknachricht an Ihr Team, um sie auf Ihre Anfrage aufmerksam zu machen. Die  **"Brauche AREA ATTACK"**  -Anforderung verhält sich ein wenig anders als der Rest. Auf einigen Karten können konventionelle Streitkräfte mit diesem Befehl ein  **Artilleriefeuer**  anfordern. Wenn Ihre Anfrage vom Kommandeur des Teams genehmigt wurde, wird der Angriff nach etwa einer Minute erfolgen. Nach dem Laden einer neuen Karte oder dem Ausführen eines Gebietsangriffs dauert es 30 Minuten, bis es wieder verfügbar ist. Ähnlich unkonventionelle Fraktionen haben auf den meisten Karten alle 20 Minuten Zugriff auf Artilleriefeuer.
 
@@ -71,7 +71,7 @@ Der Gruppenführer kann sein Funkgerät auch verwenden, um Unterstützung von an
 >
 > Unterstützung über Radio anfordern
 
-## _Bauarbeit_ {#Bauarbeiten}
+## Bauarbeit
 
 Der Aufbau von Stellungen ist eine wesentliche Funktion des Squad Leaders, den der Commander des Teams ebenfalls besitzt. Bei der Aufstellung und dem Bau einer Feld Operations Basis  \(FOB \) benötigt ein Squad Leader einen Officerkit und eine schwere Vorratskiste in einem Umkreis von 50 Metern um seine Umgebung. 2 leichte Vorratskisten bieten die gleichen Fähigkeiten wie 1 schwere Vorratskiste, um das gleiche Ziel zu erreichen. Aufständische, Taliban und die Hamas können nur Verstecke, Mörser und Panzerabwehrstellungen für ihr Team einsetzen, die keine Vorräte für den Bau dieser Strukturen benötigen. Um diese Funktion auszuführen, ist entweder ein Zellführer oder ein Kollaborationskit erforderlich.
 
@@ -107,7 +107,7 @@ Deployable Emplacements Waffen können durch Fallenlassen von Munitionstaschen n
 >
 > Baue und baue Beispiele für ein Fuchsloch.
 
-## _Aufbaubare Strukturen_ {#aufbaubare-strukturen}
+## Aufbaubare Strukturen
 
 Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für deren Erstellung. Aufbaubare Strukturen können entweder mit einer Schaufel demontiert oder alternativ mit C4, IEDs, Panzergranaten, APC-Granaten oder anderen Formen schwerer Munition zerstört werden. Deployables können auch vollständig zerstört werden, indem die Basis weiterhin beschädigt wird. Feld-Außenposten und Verstecke können ebenfalls durch Sprengstoff oder C4-Plastiksprengstoff und TNT zerstört werden. Truppführer können unausgebaute bereitstellbare Aufstellungen mit dem Funkgerät in ähnlicher Weise wie bei ihrer Bereitstellung entfernen, indem sie alternativ die rechte Maustaste verwenden, um die implementierbare Basis zu entfernen. Der alternative Feuermodus für das Verschanzungswerkzeug hat auch die Fähigkeit, nicht aufgebaute versetzbare Stellungen zu demontieren. Ein wichtiger Hinweis zu den unten aufgeführten Anforderungen und Einschränkungen ist, dass alle Werte über die Entfernung zu einem FOB und die maximale Anzahl an Assets pro FOB auf dem CNC-Spielmodus verdoppelt werden \(mit Ausnahme der Anzahl der Mörser \). Beachten Sie auch, dass 2 große Vorratskisten auch durch 4 kleine Vorratskisten oder 1 große und 2 kleine Kisten ersetzt werden können. \(Um mehr über Logistik zu erfahren siehe [Logistics](the_basics.md#logistik).
 

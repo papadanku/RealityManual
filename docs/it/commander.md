@@ -1,6 +1,6 @@
 # Il Comandante
 
-## _Comandare le Truppe_ {#leading-the-troops}
+## Comandare le Truppe
 
 Il compito principale del comandante è **coordinare** la fazione e fornire orientamento e direttive a coloro che operano sotto il suo comando. Il suo ruolo è monitorare situazioni e scontri e la visione generale del campo di battaglia per determinare efficacemente una strategia. Può anche concedere o negare le richieste inviate dai Capisquadra. Queste includono segnalazioni di contatto e attacchi ad area.
 
@@ -38,7 +38,7 @@ Se i Capisquadra ritengono che il Comandante non sia efficiente nei suoi compiti
 
 Il **Rally Point del Comandante** può essere utilizzato da tutta la fazione. Per stabilire questo RP, il Comandante ha bisogno di almeno 6 giocatori vicino a lui (uno di loro deve essere un caposquadra) per posizionare l'RP. Questo RP non è disponibile nella modalità "schermaglia" e devono essere presenti almeno 12 giocatori nella fazione del comandante. L'RP rimarrà attivo finché il comandante sarà entro un raggio di 100 metri dal Rally Point. Si applicano anche tutte le altre regole descritte nel capitolo del Caposquadra sui Rally Point del comandante.
 
-## _L'UAV_ {#uav}
+## L'UAV
 
 Il Comandante delle forze convenzionali e della milizia sono in grado di controllare un **Veicolo Aereo Senza Pilota \(UAV\)** dalla postazione di comando della fazione o dal veicolo corazzato del comando \(ACV\). L'UAV in PR:BF2 non rivela automaticamente le posizioni nemiche, ma fornisce al comandante i mezzi per osservare il campo di battaglia visivamente da un punto di vista a volo d'uccello. Il comandante può controllare la telecamera del UAV mentre vola a un'altitudine costante.
 

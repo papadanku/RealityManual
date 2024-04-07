@@ -1,6 +1,6 @@
 # The Squadleader
 
-## _Guiding Squad_ {#guiding-squad}
+## Guiding Squad
 
 As explained in the Battlefield Navigation section, the Squad Leader can place markers on the map for his squad members to follow. They will find a marker on their compass to follow as well as an icon on the map. The Squad Leader should use these as often as possible and can also use this to easily get the distance towards a target. He can do this from the mini-map by right clicking it and placing the marker or by pressing the **secondary radio key \(T\)** and point at the target and using one of the buttons to place the marker.
 
@@ -13,7 +13,7 @@ As explained in the Battlefield Navigation section, the Squad Leader can place m
 
 The commander can also order you. If you accept the order \(**PAGE UP**\) your marker will be replaced with the commander’s order.
 
-## _Spotting Enemies_ {#spotting-enemies}
+## Spotting Enemies
 
 The **Squad Leader** in PR:BF2 has many functional abilities. He is able to mark enemy units on the map and forward contact reports to the team's commander with the ability to mark a target on the team's map. To perform these functions follow these steps:
 
@@ -30,7 +30,7 @@ Spotting Commo Rose
 
 {{ "Video Tutorial - Marking" | youtube("XNDb2yMuoho") }}
 
-## _The GTL Designator \(GTLD\)_ {#gtld}
+## The GTL Designator \(GTLD\)
 
 The Squad Leader kit and Spotter kit used by conventional forces are equipped with **GTLD \(Ground Target Laser Designator\).**. This piece of equipment has better zoom then the regular binoculars, includes a range-finder and allows you to paint enemy targets which can be targeted by friendly \(and enemy\) air unit's bombs or missiles.
 
@@ -38,7 +38,7 @@ With the GTLD equipped, you can right-click to increase the zoom level and left-
 
 Additionally, while the lase is ON, you can access the main radio menu \(Q\) to request close air support \(CAS\) or call fire mortar missions. Doing so will automatically transmit a text message to your team detailing the request and add a target marker to the map.
 
-## _Rally Points_ {#rally-points}
+## Rally Points
 
 A Squad Leader has the ability to set **Rally Points \(RP\)**. This allows fallen squad members to regroup in a safe area with the rest of their squad. To place a RP you need to press **the secondary radio key \(T\)** and select **PLACE RALLY POINT**.
 
@@ -57,7 +57,7 @@ An enemy that comes within 50m on 1x1km maps or 125m or 2x2km and 4x4km maps fro
 
 A rally point rearms every 1 minute. Unless it has become overrun. In which case you need to wait 5 minutes.
 
-## _Requesting Support_ {#requesting-support}
+## Requesting Support
 
 The squad leader can also use his radio to request support from other squads. To do so he must activate his radio and then press **the secondary radio key \(T\).** This will open up the menu for requesting support and deploying team assets. The lower five commands starting with **“NEED ...”** will place a map marker at your position. They also transmit a radio message to your team to alert them of your request. The **“NEED AREA ATTACK”** request behaves a bit different from the rest. On some maps conventional forces can use this command to request an **artillery barrage**. If your request is approved by the team's commander, the attack will strike after about one minute. After loading a new map or executing an area attack it takes 30 minutes until it is available again. Similarly unconventional factions have access to a mortar barrage every 20 minutes on most maps.
 
@@ -66,7 +66,7 @@ The squad leader can also use his radio to request support from other squads. To
 Requesting support through radio.
 {% endfigure %}
 
-## _Construction Work_ {#construction-work}
+## Construction Work
 
 Constructing assets is an essential functionality of the Squad Leader which the team's Commander also possesses. When deploying and constructing a Forward Outpost \(FOB\) a Squad Leader needs to have an officer kit and a heavy supply crate within a 50m radius of his vicinity. 2 light supply crates offer the same capabilities as 1 heavy supply crate to achieve the same goal. Insurgents, Taliban and the Hamas can only deploy hideouts, mortars and anti-tank positions for their team which do not require supplies to build these structures. To perform this function either a cell leader or collaborator kit is necessary.
 
@@ -98,7 +98,7 @@ Deployable Emplacements weapons can be rearmed by dropping ammunition bags next 
 Unbuild and build examples of a foxhole.
 {% endfigure %}
 
-## _Deployable Structures_ {#deployable-structures}
+## Deployable Structures
 
 Here is a list of the deployable structures and the requirements for building them. Deployable assets can be either dismantled with a shovel or alternatively destroyed with C4, IEDs, tank shells, APC shells, or any over forms of heavy ordnance. Deployables can also be completely destroyed by continuing to damage the base of the emplacement. Forward outposts and hideouts can be destroyed as well by ordnance or C4 plastic explosives and TNT. Squad leaders can remove unbuilt deployable emplacements with the radio in a similar way to how they were deployed, by alternatively using the right click to remove the deployable base. The alternate fire mode for the entrenchment tool also has the ability to dismantle unbuilt deployable emplacements. An important note on the requirements and limitations listed below is that all values about distance to an FOB and the maximum amount of assets per FOB are doubled on the CNC gamemode \(except for the amount of mortars\). Also remember that 2 large supply crates can also be replaced by 4 small supply crates or 1 large and 2 small crates. To learn more about logistics and crates see [the logistics chapter.](the_basics.md#logistics).
 

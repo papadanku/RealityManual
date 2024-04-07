@@ -1,5 +1,6 @@
 # EL Comandante
-## _Liderando las Tropas_ {#leading-the-troops}
+
+## Liderando las Tropas
 
 El objetivo principal del comandante es **Coordinar** al equipo y dar guía y dirección a aquellos quienes operan bajo su control. Su rol es monitorear las situaciones y enfrentamientos y determinar efectivamente una estrategia para la batalla. También puede conceder o denegar las solicitudes enviadas por los Lideres de patrulla. Esto incluye reportes de enemigos y ataques de área (Artillería).
 
@@ -38,7 +39,7 @@ Si los líderes de patrulla piensan que el comandante no es eficiente, ellos tie
 
 **El Rally Point del Comandante** puede ser usado por todo el equipo. Para establecerlo, el comandante necesitara al menos 6 jugadores cerca de él \(Uno de ellos debe ser Líder de patrulla\) para poner el Rally Point. Este RP no está disponible en el modo Skirmish y con al menos 12 jugadores en el equipo del Comandante. El RP estará activo siempre y cuando el comandante está dentro de los 100 metro del Rally Point. Todas las otras reglas descritas en la sección Líder de patrulla también se aplican para el Rally Point del Comandante. 
 
-## _UAV_ {#uav}
+## UAV
 
 El Comandante de las fuerzas convencionales y la milicia puede controlar un **Vehículo Aéreo No Tripulado \(UAV\)** desde el puesto de mando de su equipo o vehículo de mando blindado \(ACV\). El UAV en PR:BF2 no revela las posiciones enemigas automáticamente, pero le da al comandante los medios para observar el campo de batalla visualmente desde el punto de vista de un pájaro. El comandante puede controlar la cámara del UAV mientras navega a una altitud constante.
 

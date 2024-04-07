@@ -1,6 +1,6 @@
 # Senjata dan Perlengkapan
 
-## _Senjata dan Perlengkapan Umum_ {#general-weapons-equipment}
+## Senjata dan Perlengkapan Umum
 
 Senjata setelah melakukan gerakan yang berlangsung lama, terkadang diperlukan beberapa saat untuk mengembalikan presisi dan kemampuan untuk menembak secara akurat pada sasaran jarak jauh. Pertempuran pada jarak dekat tidak akan terpengaruh dengan penyimpangan gerakan. Hal ini memungkinkan pemain untuk melakukan sedikit pengoreksian posisi  tanpa mengurangi akurasi senjata. Tiarap akan mengurangi akurasi pemain untuk beberapa saat tetapi dapat memberikan akurasi tertinggi saat melakukan pertempuran pada jarak jauh setelah penanda akurasi pemain pulih.
 
@@ -111,12 +111,12 @@ Senjata harus diisi kembali secara manual (default: **R**). Menyimpangnya senjat
 
 > Kit: Pilot, semua _spawnable kit_ yang digunakan oleh tim dengan _paradrop spawn pilot_
 
-## _Back Up Iron Sights \(BUIS\)_ {#buis}
+## Back Up Iron Sights \(BUIS\)
 
 Back Up Iron Sights/Bidikan Besi Cadangan (BUIS) dirancang untuk menyediakan prajurit dengan cara alternatif membidik sasaran tergantung dengan situasi. Senjata yang disediakan BUIS, pemain bisa beralih di antara _sight_ cadangan dan _optic_ menggunakan **tombol Cycle Camera yang sudah ada sebelumnya (C).** Pemain dapat beralih di antara mode _sight,_ dimana ditandai oleh huruf BUIS di pojok kanan bawah, S untuk _Scope,_ B untuk BUIS. Mode BUIS bisa dialihkan kapan saja, baik anda sedang membidik atau tidak, tapi anda harus membidik ulang kembali untuk mengubah diantara mode tersebut.
 
 ![](../assets/buis.png)
 
-## _Mengubah Jarak Sight_ {#altering-sighting-range}
+## Mengubah Jarak Sight
 
 [Video Tutorial - Sighting Range](https://www.youtube.com/watch?v=cLfdH1EHWPA "Video Tutorial - Sighting Range")

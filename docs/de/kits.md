@@ -10,7 +10,7 @@ Es gibt viele verschiedene Ausrüstungen in PR: BF2. Du kannst jedes freundliche
 
  **Unlimited Kits**  kann von jedem erhalten werden. Jedes anfragbare  **spezialisierte**  Infanterie-Kit ist nur verfügbar, für eine gewisse Anzahl von Spielern per Team, zur selben Zeit.
 
-## Ausrüstungs Auswahl {#kit-auswahl}
+## Ausrüstungs Auswahl
 
 **Spawn-fähig Unlimited kits:**
 
@@ -54,7 +54,7 @@ Es gibt viele verschiedene Ausrüstungen in PR: BF2. Du kannst jedes freundliche
 
 * Verschiedene Kits mit verschiedenen Waffentypen sind als Pick Up Kits für die aufständischen Fraktionen erhältlich. Diese variieren in fast allen der oben genannten Klassen.
 
-## _Kit Anfrage Prozedur_ {#kit-anfrage-prozedur}
+## Kit Anfrage Prozedur
 
 Um einen Standard, eine Infanterie oder ein limitiertes Set anzufordern, musst du die vier folgenden Anforderungen erfüllen:
 

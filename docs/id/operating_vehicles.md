@@ -1,6 +1,6 @@
 # Mengoperasikan Kendaraan
 
-## _Informasi Umum Kendaraan_ {#general-vehicle-information}
+## Informasi Umum Kendaraan
 
 * Kendaraan ringan, truk dan perahu & hampir semua jeep (kecuali yang berlapis baja ringan) dapat dioperasikan oleh semua prajurit. Kendaraan lapis baja (_Armored Vehicles_), helikopter, dan pesawat terbang membutuhkan kit kendaraan yang spesifik untuk mengoperasikannya. Pemain tak bisa mengendarai kendaraan maupun menggunakan senjata kendaraan jika tak mengenakan kit yang tepat. Anda tak bisa memasuki atau mengoperasikan kendaraan musuh. Untuk kendaraan darat, dibutuhkan **Crewman** kit. Sedangkan bagi helikopter & pesawat terbang adalah **Pilot** kit. Dua kit tersebut bisa diminta/diperoleh melalui kendaraan ataupun _supply crate_.
 * _External view_ untuk kendaraan telah dihilangkan. Namun beberapa kendaraan terdapat kamera tersendiri seperti truk yang dapat melihat ke belakang **(C)**.
@@ -17,7 +17,7 @@
 * Di _public server_ (bukan _local game_) anda bisa ganti posisi duduk yang kosong di dalam kendaraan dengan menekan **F8.**
 * Ketika di dalam kendaraan, anda dapat melihat informasi tentang kursi yang ditempati di kiri bawah HUD. Ini hanya menunjukkan kursi kru penting diberi penanda. Ini termasuk posisi pengemudi dan penembak. Kursi penumpang tidak memiliki penanda seperti itu dan ditampilkan sebagai penghitung terpisah.
 
-## _Kendaraan Lapis Baja/Armored Vehicle_ {#armored-vehicles}
+## Kendaraan Lapis Baja/Armored Vehicle
 
 * Tank serta IFV memiliki kursi _driver_ & _gunner_ yang terpisah. Untuk menggunakan posisi _gunner_, seorang _driver_ atau _cupola gunner_ wajib ada. Setelah berpindah ke kursi _gunner_, Anda harus menunggu 30 detik sebelum bisa memakai meriam secara penuh.
 * _Driver_ dan _gunner_ harus berada di squad yang sama.
@@ -46,7 +46,7 @@ _Gunner_ Tank & IFV memunculkannya dengan memilih slot senjata itu (umumnya tomb
 >
 > Kendaraan melontarkan asap (_smoke_)
 
-## _Helikopter_ {#helicopters}
+## Helikopter
 
 * Helikopter memiliki waktu pemanasan mesin sekitar 30 detik. Jika terlalu banyak _thrust_ selagi memutar _rotor_ atau baling-baling, pilot akan kehilangan kendali dan helikopter akan jatuh. Untuk menerbangkan helikopter, Anda harus membiarkan helikopternya menyala saja setidaknya selama 30 detik sebelum helikopter lepas landas.
 * Pilot helikopter bisa melihat arah yang lain selama terbang dengan menekan tombol 6, 7, 8, dan 9 yang bisa digunakan ke _joystick POV HAT Switch._ Untuk melihat ke depan lagi, tekan tombol 1 atau pilih persenjataan apapun yang dimiliki kendaraan.
@@ -64,7 +64,7 @@ _Gunner_ Tank & IFV memunculkannya dengan memilih slot senjata itu (umumnya tomb
 * Untuk menjatuhkan suplai dengan sukses dari helikopter angkut, pilot diharuskan untuk menjatuhkan suplai dari ketinggian 5 meter dengan menekan tombol _alternate fire._
 * **_Flare_ pengecoh** yang dimiliki hanya terbatas dan butuh isi ulang setelah dipakai. Setiap kali anda mengeluarkan _flare_ (X), 1 _flare_ akan terpakai.
 
-## _Pesawat Terbang_ {#fixed-wing-aircraft}
+## Pesawat Terbang
 
 * Pesawat memiliki waktu pemanasan mesin selama 30 detik sebelum lepas landas.
 * Pilot jet dapat melihat ke arah yang lain selama terbang dengan menekan tombol 7, 8 dan 9 yang bisa digunakan ke _joystick POV HAT Switch._ Untuk melihat ke depan lagi tekan 1 atau pilih persenjataan apapun yang dimiliki pesawat.
@@ -92,7 +92,7 @@ _Gunner_ Tank & IFV memunculkannya dengan memilih slot senjata itu (umumnya tomb
 * Saat sudah berada sekitar 200 m dari landasan pacu, lepas _throttle_.
 * Sekali pesawat sudah berada di darat, tarik stik untuk memperlambat, pesawat pun akan melambat dengan sendirinya.
 
-## Sistem Pengendali Tembakan (_Fire Control Systems_) {#fire-control-systems}
+## Sistem Pengendali Tembakan (_Fire Control Systems_)
 
 Kendaraan di Project Reality menggunakan sistem balistik yang realistis kpada peluru ranpur. Tergantung pada kendaraannya, beberapa variasi komputer Sistem Pengendali Tembakan (_FCS_) dapat digunakan oleh penembak. Pada prinsipnya, _FCS_ dapat menghitung penyesuaian yang diperlukan untuk menembak kepada target tepat yang diinginkan. Solusi penembakan tidak hanya mempertimbangkan jatuhnya peluru karena gravitasi, ini juga memperhitungkan gaya gesek dari udara yang memperlambat peluru. Selanjutnya offset dapat dihitung antara kamera operator dan laras senjata, perbedaaan ketinggian target, kemiringan serta kecepatan kendaraan. Sama seperti kehidupan nyata, tidak semua kendaraan mempunyai kemampuan _FCS_ yang sama. Bagian ini akan mempelajari lebih lanjut pada beberapa kasus penggunaan implementasi _FCS_ kami.
 

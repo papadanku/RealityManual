@@ -2,7 +2,7 @@
 
 Most importantly you should **join a squad**. Some servers even enforce it up by kicking solo players after a warning period. The game is by far the most fun to play in a functioning squad. If you need any help, just **ask players in your squad** what to do. If possible use Mumble. It is commonly used in PR. Playing PR:BF2 without a microphone will not give you the full experience so it’s a wise investment. If no one answers, try joining another squad or use general chat. There are many helping community members around who welcome new players and give them a hand. We expect you to have some basic understanding of BF2 when it comes to navigating the menu’s in-game such as scoreboard, map and kit selection. You can always start up BF2 and do the tutorial there to get acquainted with its interface. This manual will focus on the differences with BF2.
 
-## _Kit selection & spawning_ {#kit-selection-and-spawning}
+## Kit selection & spawning
 
 * When you begin playing, it is recommended that you only spawn as a rifleman with a sight of your choice. This way you can better learn the fundamental basics of gameplay.
 * After learning infantry basics you can ask your SL to assign you a specialized kit when you feel up to the task. If you want to try out new equipment or a vehicle, you can do so easily in the co-op mode without inconveniencing your squad members or risking your team's assets.
@@ -36,7 +36,7 @@ Armored Command Vehicle (ACV) found in mainbases only.
 
 * Some maps feature **parachute spawns** where a airborne assault is simulated. These will be visualized by moving spawn markers on the minimap. Choose one and you will spawn with an automaticly deployed parachute.
 
-## _In-game interface \(HUD\)_ {#hud}
+## In-game interface \(HUD\)
 * In the PR:BF2 in-game HUD, players are notified by **player-specific messages** that can only be seen by that player. They are used to give players feedback about different in-game events for example:
   * The reason why the player is not issued the kit being requested.
   * The reason why the deployable asset that the player requested could not be built.
@@ -77,7 +77,7 @@ Commo-rose when pressing Q.
 * You can **orientate yourself** on the map using the direction element that you will find around your player icon.
 * Whilst equipped with particular weapons or equipment the main **radio communication-rose** is replaced by a small context-sensitive menu. When holding a field dressing or the medic bag you can use the “FIRST AID” command to inform nearby players that you want to heal them. Many pieces of equipment and some weapons use context-sensitive menus.
 
-## _Health Management_ {#health-management}
+## Health Management
 
 Weapons in Project Reality are highly lethal and it is only a matter of time until you are shot and start bleeding. Although the HUD in PR doesn’t contain a health bar, once your health drops below 75% there will be visual cues to warn you such as a periodically darkening screen with a tunnel vision effect. At less than 25% HP, you’ll hear coughs and heavy breathing, at 10 HP you’ll lose your stamina and cannot regain it unless you heal above at least those 10 HP. Whilst bleeding, the tunnel vision and screen darkening effect will get stronger and stronger, limiting your combat effectiveness further and further.
 
@@ -120,11 +120,11 @@ A temporary spawn time penalty which only affects the next time you die \(buildi
 
 To select a spawn point, bring up the spawn map and select an applicable location marked by a white dot. Once you’re happy with that spawn location, you must click the **Spawn** button in the lower right corner of the map screen to re-spawn into the game.
 
-## _Logistics_ {#logistics}
+## Logistics
 
 Whether your running low on ammunition and need to rearm, want a new kit or simply want to build deployables, logistics keep your team alive.
 
-### _Ammunition_ {#ammunition}
+### Ammunition
 
 To be able to rearm yourself, you'll need to get closer to one of several sources of ammo, which will then automatically re-fill your weapons. These sources are:
 
@@ -230,7 +230,7 @@ Additionally if you're not rearming, confirm that the Light/Heavy supply crates 
 
 
 
-### _Supply Crates_ {#crates}
+### Supply Crates
 
 There are two types of supply crates in PR:BF2 - Light Supply Crate and Heavy Supply Crate. While both allow to ressuply players and build deployables a Light crate is the equivalent of half of the Heavy Supply Crate meaning that you will need 2x light supply crates where only 1x heavy supply crate is needed. To learn more about deployable emplacements see the [Deployable Structures chapter.](the_squad_leader.md#deployable-structures)
 
@@ -265,7 +265,7 @@ Logistic trucks also have the ability to drop a repair station. They are necessa
 Repair drop.
 {% endfigure %}
 
-## _Score_ {#score}
+## Score
 
 A player's score is divided in teamwork points and individual points. It speaks for itself that doing team related activities \(building, driving vehicles, defending/attacking flags\) contribute to the first and individual actions \(killing players\) contribute to your personal score.
 
@@ -276,7 +276,7 @@ The total score of a player can never go below 0 but the teamwork score can beco
 * Destroying your own objective: **-100**
 * Destroying enemy objective: **+150**
 
-## _Mortars_ {#mortars}
+## Mortars
 
 A fixed mortar position that can provide indirect fire support over long distances. All factions can fire high-explosive rounds. Conventional forces and the militia can also use air-burst and smoke rounds. Mortars cannot be constructed on maps smaller than 2km.
 
@@ -289,7 +289,7 @@ Once mortars are needed you can use the mortar’s calculator \(press **3** to s
 The mortar calculator interface.
 {% endfigure %}
 
-## _Close Support Bridges \(CSB\)_ {#close-support-bridges}
+## Close Support Bridges \(CSB\)
 
 When in need to cross small rivers or damaged bridges, conventional forces can deploy CSBs using their logistic trucks - which carries two of them. In Project Reality CSBs can only be used to fill the gaps of destroyed bridges and in predetermined locations identified by \(obvious\) small heaps of sand positioned across a natural obstacle, like a river.
 
@@ -311,7 +311,7 @@ CSB from truck being deployed.
 
 In some cases multiple CSBs are required to span the complete distance. In such situations, you're required to drive to the end of the incomplete bridge and deploy a new CSB and repeat untill its finish.
 
-## _Battlefield Navigation_ {#battlefield-navigation}
+## Battlefield Navigation
 
 It is pretty easy to get lost on the large maps of PR:BF2. The slow pacing and team coordination also requires players to communicate locations in a clear and concise manner. PR:BF2 offers 4 tools to aid players with this.
 
@@ -332,7 +332,7 @@ Targe, build, observe, defend, demolish and move marker, respectively.
 {% figure "../assets/grid.png" %}
 {% endfigure %}
 
-## _Basic Vehicle Information_ {#basic-vehicle-information}
+## Basic Vehicle Information
 
 Many vehicles behave quite differently compared to BF2 and require more advanced knowledge to operate. Since they also have very long spawn times \(up to 20 minutes\) it is vital to know how to keep them away from problematic situations. This part will focus on explaining vehicle types and how they influence the team. For more details on operating vehicles see further in this manual in the Operating Vehicles section.
 

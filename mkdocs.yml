@@ -7,6 +7,9 @@ theme:
     - navigation.path
     - navigation.indexes
 
+plugins:
+  - offline
+
 extra:
   alternate:
     - name: Brazilian Portuguese (1.6.4)

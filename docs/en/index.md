@@ -1,3 +1,4 @@
+
 > Project Reality: BF2 has been in development by countless developers over a period of more than 15 years. Extensive modifications and improvements were made during this time.
 > After thousands of changes, it gets harder and harder to recognize that PR is a Battlefield 2 modification.
 > 
@@ -6,7 +7,7 @@
 >
 > _The PR-Team_
 
-## Introduction
+# Introduction
 
 This introduction will give a brief overview into what you can expect when you begin playing the Project Reality modification for Battlefield 2. This modification has a level of complexity and teamwork that you won’t find in most modern first person shooter games, while it still finds the balance between simulation and gameplay. Due to the steep learning curve, we highly recommended that all new players read through this manual thoroughly prior to joining an online game.
 

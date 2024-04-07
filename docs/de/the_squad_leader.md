@@ -4,17 +4,17 @@
 
 Wie im Abschnitt "Schlachtfeld-Navigation" erklärt, kann der Squad-Leader Marker auf die Karte setzen, damit seine Squad-Mitglieder ihm folgen können. Sie werden einen Marker auf ihrem Kompass finden, um zu folgen, sowie ein Symbol auf der Karte. Der Squad Leader sollte diese so oft wie möglich benutzen und kann damit auch die Entfernung zu einem Ziel leicht erreichen. Er kann dies von der Minikarte aus tun, indem er mit der rechten Maustaste darauf klickt und den Marker platziert oder indem du die  **sekundäre Radiotaste  \(T \)**  drückst und auf das Ziel zeigst und einen der Knöpfe benutzt, um den Marker zu platzieren.
 
-![](../assets/target.png) _\* Ziel_ 
+![](../assets/target.png) **Ziel**
 
-![](../assets/build%20%282%29.png) _\* Bauen_ 
+![](../assets/build.png) **Bauen**
 
-![](../assets/observe.png) _\* Beobachten_ 
+![](../assets/observe.png) **Beobachten** 
 
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/de/assets/defensifmarker.png) _\* Verteidigen_ 
+![](../assets/defendmarker.png) **Verteidigen** 
 
-![](../assets/demolish%20%282%29.png) _\* Zerstören_ 
+![](../assets/demolish.png) **Zerstören** 
 
-![](../assets/move%20%282%29.png) _\* Bewegen_ 
+![](../assets/move.png) **Bewegen** 
 
 Der Kommandant kann Sie auch befehlen. Wenn Sie den Befehl akzeptieren \( **PAGE UP**  \), wird Ihr Marker durch den Befehl des Kommandanten ersetzt.
 

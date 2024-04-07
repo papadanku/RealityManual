@@ -226,12 +226,12 @@ Es ist ziemlich einfach, sich auf den großen Karten von PR: BF2 zu verlieren. D
 
 1 Squad Leader können ihren  **Squad Order Marker**  verwenden, um Orte an ihre Squad und den Commander zu kommunizieren. Die Richtung zum Marker wird durch einen Chevron über dem Kompass angezeigt. Wenn Sie sich nicht mehr als 75 Meter von der Markierung entfernt befinden, sehen Sie auch ein 3D-Symbol, das die Position vor Ihnen anzeigt. Der Marker wird auch auf der Karte sichtbar sein.
 
-* ![](../assets/target%20%282%29.png)**Ziel** 
-* ![](../assets/build%20%281%29.png)**Bauen** 
-* ![](../assets/observe%20%281%29.png)**Beobachten** 
-* ![](../assets/defendmarker.png)**Verteidigen** 
-* ![](../assets/demolish%20%281%29.png)**Zerstören** 
-* ![](../assets/move.png)**Bewegen** 
+* ![](../assets/target.png) **Ziel** 
+* ![](../assets/build.png) **Bauen** 
+* ![](../assets/observe.png) **Beobachten** 
+* ![](../assets/defendmarker.png) **Verteidigen** 
+* ![](../assets/demolish.png) **Zerstören** 
+* ![](../assets/move.png) **Bewegen** 
 
 2 Ein  **Präzisionsgradkompass**  zum unteren mittleren Bereich des Bildschirms. Der Kompass kann verwendet werden, um in der Nähe befindliche Feinde genau zu lokalisieren.  **Die 8 Kardinal Richtungen**  sind deutlich mit den Grad-Label gekennzeichnet, die schrittweise alle 15 ° mit großen Abschnitten alle 5 ° dargestellt sind. Wenn Sie nur eine allgemeine Richtung mitteilen möchten, ist es am besten, die Himmelsrichtung zu sagen, gefolgt vom Grad und in manchen Fällen auch von der Entfernung. Zum Beispiel \_  **"Feind entdeckt NE 75 ° Grad 200 Meter außerhalb"** .\*\*
 

@@ -1,8 +1,5 @@
-# Introduction
 
-## ![](../assets/PR_v1_Logo.png)
-
-## **Project Reality: BF2 Manual - Updated for v1.7**
+# **Project Reality: BF2 Manual - Updated for v1.7**
 
 > Project Reality: O BF2 está em desenvolvimento por inúmeros desenvolvedores ao longo de um período de mais de 15 anos. Extensas modificações e melhorias foram feitas durante este período. Depois de milhares de mudanças, fica cada vez mais difícil reconhecer que o PR é uma modificação do Battlefield 2. Esperamos que este manual ofereça um bom começo para o desafiador mundo do PR:BF2. Se você tiver algum comentário ou perguntas não respondidas sobre este documento, não hesite em nos contatar nos fóruns. **Este manual foi atualizado para a versão 1.7 do PR:BF2.**
 >

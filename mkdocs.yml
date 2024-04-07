@@ -33,7 +33,6 @@ extra:
 
 nav:
   - Home: index.md
-  - Expand Manual: help_manual.md
   - Brazilian Portuguese (1.7):
     - br/index.md
     - Setup: br/setup.md

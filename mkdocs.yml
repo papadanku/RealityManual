@@ -13,22 +13,22 @@ plugins:
 extra:
   alternate:
     - name: Brazilian Portuguese (1.6.4)
-      link: ./br/
+      link: ./br/index.html
       lang: br
     - name: German (1.5)
-      link: ./de/
+      link: ./de/index.html
       lang: de
     - name: English (1.7)
-      link: ./en/
+      link: ./en/index.html
       lang: en
     - name: Spanish/Español (1.7)
-      link: ./es/
+      link: ./es/index.html
       lang: es
     - name: Indonesian (1.7)
-      link: ./id/
+      link: ./id/index.html
       lang: id
     - name: Italian (1.7)
-      link: ./it/
+      link: ./it/index.html
       lang: it
 
 nav:

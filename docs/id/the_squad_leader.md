@@ -2,7 +2,7 @@
 
 ## Memimpin Squad
 
-Seperti yang sudah dijelaskan di bagian Navigasi Area Pertempuran, Pemimpin Squad dapat menempatkan penanda/marka di map untuk diikuti anggota-anggota squadnya. Mereka akan melihat marka pada kompas untuk diikuti sekaligus adanya penanda di map. Pemimpin Squad **WAJIB** menggunakan marka/kompas tersebut sesering mungkin dan juga dapat menggunakannya untuk mempermudah pengukuran jarak ke sasaran. Ia dapat melakukannya di _minimap_ dengan mengklik kanan _minimap_ lalu tempatkan marka, atau dengan cara menekan tombol **_secondary radio/radio sekunder_ \(T\)** dan tandai pada sasaran lalu menggunakan salah satu simbol berikut sebagai marka.
+Seperti yang sudah dijelaskan di bagian Navigasi Area Pertempuran, Pemimpin Squad dapat menempatkan penanda/marka di map untuk diikuti anggota-anggota squadnya. Mereka akan melihat marka pada kompas untuk diikuti sekaligus adanya penanda di map. Pemimpin Squad **WAJIB** menggunakan marka/kompas tersebut sesering mungkin dan juga dapat menggunakannya untuk mempermudah pengukuran jarak ke sasaran. Ia dapat melakukannya di _minimap_ dengan mengklik kanan _minimap_ lalu tempatkan marka, atau dengan cara menekan tombol **_secondary radio/radio sekunder_ (T)** dan tandai pada sasaran lalu menggunakan salah satu simbol berikut sebagai marka.
 
 * ![](../assets/target.png) **Target** 
 * ![](../assets/build.png) **Build** 

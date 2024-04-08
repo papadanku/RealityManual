@@ -11,7 +11,7 @@
 * **Internet:** 256 kbps or faster connection required for online play
 * **Software:** .NET Framework 4
 * **Input:** Mouse, Keyboard
-* **Optional:** Joystick, Headset, microphone \(sangat disarankan untuk komunikasi\)
+* **Optional:** Joystick, Headset, microphone (sangat disarankan untuk komunikasi)
 
 ## Instalasi Game
 
@@ -23,13 +23,13 @@ Anda harus men-download installer penuh PR:BF2 dari website PR. Tidak akan ada p
 
 Ada 2 cara instalasi. Anda bisa menggunakan **Download Assistant** Application yang membuat menginstal PR:BF2 jauh lebih mudah atau anda bisa mendownload secara manual dan instal Installer melalui **Torrent**. Apapun metodenya, ada 2 langkah. Download dan Instal.
 
-**1\) Download**
+**1) Download**
 
 Download Assistant akan mendownload installernya menggunakan protokol Torrent. Jadi pastikan protokol ini tidak diblok oleh penyedia jasa internet (ISP). Cukup unduh Download Assistant dari halaman [PR:BF2 Download Section](http://www.realitymod.com/downloads) dan ikuti instruksi di dalam aplikasi.
 
-Jika anda mendownload versi Torrent \(dan sekarang menjadi Download Assistant\), ini **BUKAN** instalasi penuh. Gunakan file .torrent kecil dengan klien BitTorrent untuk mengunduh file .iso secara lengkap. Kita merekomendasikan [qBittorrent](http://www.qbittorrent.org/download.php). Setelah torrent terdownload oleh program Torrent pilihan anda, akan ada folder dengan semua file instalasi, lanjut ke langkah 2 setelah anda selesai mendownload.
+Jika anda mendownload versi Torrent (dan sekarang menjadi Download Assistant), ini **BUKAN** instalasi penuh. Gunakan file .torrent kecil dengan klien BitTorrent untuk mengunduh file .iso secara lengkap. Kita merekomendasikan [qBittorrent](http://www.qbittorrent.org/download.php). Setelah torrent terdownload oleh program Torrent pilihan anda, akan ada folder dengan semua file instalasi, lanjut ke langkah 2 setelah anda selesai mendownload.
 
-**2\) Installation**
+**2) Installation**
 Di folder yang anda download dengan Download Assistant ataupun secara manual tadi di dalamnya ada file _setup.exe_. Jalankan file itu untuk memulai proses instalasi. Namun dengan Download Assistant akan menginstal secara otomatis sehingga setelah mendownload seharus ada tombol untuk memulai penginstalan secara otomatis.
 
 Ada beberapa poin:
@@ -101,19 +101,19 @@ Menu utama di launcher juga memberikan barisan  berita di bagian bawah yang diso
 
 ## PR Mumble
 
-Di dalam game, Mumble adalah program yang kami gunakan untuk berkomunikasi dengan satu sama lain di PR:BF2, yang menggantikan sistem Voice-Over-IP \(VOIP\) di vanilla BF2. Fitur utama PR Mumble yang unik adalah metode komunikasi utamanya ditransmisikan dalam ruang 3 dimensi, membuatnya terdengar dari suatu arah dan berjarak. Ini disebut _Local_. Ini berarti bahwa semua pemain dalam tim anda bisa berbicara dengan satu sama lain jika mereka cukup dekat, dan anda bisa mendengar dari arah mana mereka berbicara, demikian pula anda bisa menebak seberapa jauh mereka, seperti di dunia nyata.
+Di dalam game, Mumble adalah program yang kami gunakan untuk berkomunikasi dengan satu sama lain di PR:BF2, yang menggantikan sistem Voice-Over-IP (VOIP) di vanilla BF2. Fitur utama PR Mumble yang unik adalah metode komunikasi utamanya ditransmisikan dalam ruang 3 dimensi, membuatnya terdengar dari suatu arah dan berjarak. Ini disebut _Local_. Ini berarti bahwa semua pemain dalam tim anda bisa berbicara dengan satu sama lain jika mereka cukup dekat, dan anda bisa mendengar dari arah mana mereka berbicara, demikian pula anda bisa menebak seberapa jauh mereka, seperti di dunia nyata.
 
-Setelah bergabung dengan sebuah squad anda akan mendapatkan akses ke Jaringan Radio squad, yang memungkinkan anda untuk mengirimkan transmisi ke pemain lain yang ada di squad anda tak peduli dimanapun dia di peta. _Squad Leader_ juga memiliki akses ke Jaringan Radio tambahan yang memungkinkannya untuk berkomunikasi secara langsung dengan Commander, secara global ke Squad Leader-Squad Leader lain, dan langsung ke Squad Leader lain secara individu. Saat menggunakan sebuah Radio Net, suara penanda transmisi akan terdengar saat mengaktifkan dan mematikan radio itu \(Yang bisa di aktifkan di pengaturan audio di Launcher\). _tombol_ default untuk mengirim transmisi lewat Mumble adalah sebagai berikut:
+Setelah bergabung dengan sebuah squad anda akan mendapatkan akses ke Jaringan Radio squad, yang memungkinkan anda untuk mengirimkan transmisi ke pemain lain yang ada di squad anda tak peduli dimanapun dia di peta. _Squad Leader_ juga memiliki akses ke Jaringan Radio tambahan yang memungkinkannya untuk berkomunikasi secara langsung dengan Commander, secara global ke Squad Leader-Squad Leader lain, dan langsung ke Squad Leader lain secara individu. Saat menggunakan sebuah Radio Net, suara penanda transmisi akan terdengar saat mengaktifkan dan mematikan radio itu (Yang bisa di aktifkan di pengaturan audio di Launcher). _tombol_ default untuk mengirim transmisi lewat Mumble adalah sebagai berikut:
 
-* **Local speech \(B atau H\):** anda berbicara dengan pemain lain di radius ruang 3 Dimensi di sekitar anda.
-* **Squad radio \(V atau Num 0\):** anda bisa berbicara dengan squad anda, dimanapun anda berada.
-* **Radio Squad Leader ke semua Squad Leader lain \(\*\):** anda bisa berbicara dengan  semua squad leader lain disaat yang bersamaan. Jaringan Radio  ini juga tersedia untuk digunakan oleh Commander dengan pintasan yang sama.
-* **Radio Squad Leader ke Squad Leader lain yang spesifik \(Num 1 - Num 9\):** anda bisa berbicara ke salah satu Squad Leader lain di tim anda. Channel ini juga tersedia untuk digunakan oleh Commander dengan pintasan yang sama.
-* **Radio Squad Leader ke Commander \(/\)**: anda bisa berbicara dengan Commander secara personal.
+* **Local speech (B atau H):** anda berbicara dengan pemain lain di radius ruang 3 Dimensi di sekitar anda.
+* **Squad radio (V atau Num 0):** anda bisa berbicara dengan squad anda, dimanapun anda berada.
+* **Radio Squad Leader ke semua Squad Leader lain (\*):** anda bisa berbicara dengan  semua squad leader lain disaat yang bersamaan. Jaringan Radio  ini juga tersedia untuk digunakan oleh Commander dengan pintasan yang sama.
+* **Radio Squad Leader ke Squad Leader lain yang spesifik (Num 1 - Num 9):** anda bisa berbicara ke salah satu Squad Leader lain di tim anda. Channel ini juga tersedia untuk digunakan oleh Commander dengan pintasan yang sama.
+* **Radio Squad Leader ke Commander (/)**: anda bisa berbicara dengan Commander secara personal.
 
-PR Mumble terinstal bersamaan dengan PR:BF2. Mumble berjalan bersamaan dengan instalasi game dan melakukan semua tugas di sisi client secara otomatis untuk anda seperti memulai dan menghubungkan anda ke server mumble yang benar. Pemain memiliki pilihan untuk mengubah pengaturan komunikasi mereka bagaimanapun mereka suka seperti versi sebelumnya. Hal ini termasuk perangkat input dan output, volume dan pintasan keyboard. Dua fitur yang paling penting adalah default: Local Channel \(H\) dan Jaringan Radio squad \(0 di Numpad\). Pintasan utama keyboard juga bisa diganti melalui PR Launcher melalui menu “option” di aplikasi PR Mumble.
+PR Mumble terinstal bersamaan dengan PR:BF2. Mumble berjalan bersamaan dengan instalasi game dan melakukan semua tugas di sisi client secara otomatis untuk anda seperti memulai dan menghubungkan anda ke server mumble yang benar. Pemain memiliki pilihan untuk mengubah pengaturan komunikasi mereka bagaimanapun mereka suka seperti versi sebelumnya. Hal ini termasuk perangkat input dan output, volume dan pintasan keyboard. Dua fitur yang paling penting adalah default: Local Channel (H) dan Jaringan Radio squad (0 di Numpad). Pintasan utama keyboard juga bisa diganti melalui PR Launcher melalui menu “option” di aplikasi PR Mumble.
 
-Sangat direkomendasikan bagi anda untuk memeriksa panel pengaturan utama secara langsung dalam aplikasi Mumble untuk memastikan semua pengaturan sudah benar. Untuk melakukan ini, cari _Dogtags PR_ di bagian _system tray_ di sebelah jam sistem Windows \(PR harus berjalan\), klik icon ini untuk membuka Mumble lalu carilah menu _“settings”_ di bagian atas. Setelah itu panel _settings_ akan muncul dan anda bisa mengubah perangkat input dan output anda dan mengubah pintasan keyboard dan pengaturan lainnya.
+Sangat direkomendasikan bagi anda untuk memeriksa panel pengaturan utama secara langsung dalam aplikasi Mumble untuk memastikan semua pengaturan sudah benar. Untuk melakukan ini, cari _Dogtags PR_ di bagian _system tray_ di sebelah jam sistem Windows (PR harus berjalan), klik icon ini untuk membuka Mumble lalu carilah menu _“settings”_ di bagian atas. Setelah itu panel _settings_ akan muncul dan anda bisa mengubah perangkat input dan output anda dan mengubah pintasan keyboard dan pengaturan lainnya.
 
 ![](../assets/mumblelogo.png)
 
@@ -157,7 +157,7 @@ Berikut adalah beberapa tautan forum dari realitymod.com yang bisa digunakan unt
 | **N** | Mengganti level perbesaran minimap |
 | **Q** | Memunculkan radio-rose utama |
 | **T** | Memunculkan radio-rose tambahan |
-| **Left alt** | Menampilkan/menyembunyikan penanda 3D \(hanya muncul dalam 50 meter\) |
+| **Left alt** | Menampilkan/menyembunyikan penanda 3D (hanya muncul dalam 50 meter) |
 | **C** | Toggle BUIS / Mengganti camera |
 | **End/grave** | Console |
 
@@ -178,7 +178,7 @@ Berikut adalah beberapa tautan forum dari realitymod.com yang bisa digunakan unt
 | --- | --- |
 | **E** | Masuk / keluar kendaraan atau _emplacement_ |
 | **WSAD** | Pergerakan Dasar |
-| **Left Ctrl** | Jongkok \(tahan\) |
+| **Left Ctrl** | Jongkok (tahan) |
 | **Z** | Tiarap |
 | **Space** | Lompat |
 | **Left Shift** | Berlari/Tambaham Kecepatan Kendaraan |
@@ -189,7 +189,7 @@ Berikut adalah beberapa tautan forum dari realitymod.com yang bisa digunakan unt
 | --- | --- |
 | **F1-F8** | Mengganti posisi duduk dalam kendaraan |
 | **X** | Menambahkan pembesaran/suar |
-| **6-9** | Posisi Kamera \(hanya Helikopter dan Pesawat\) |
+| **6-9** | Posisi Kamera (hanya Helikopter dan Pesawat) |
 | **R** | Mengisi Ulang |
 | **F** | Menganti Senjata |
 | **1-9** | Memilih Senjata |
@@ -204,10 +204,10 @@ Berikut adalah beberapa tautan forum dari realitymod.com yang bisa digunakan unt
 | **Page Up** | Terima Permintaan |
 | **Page Down** | Tolak Permintaan |
 | **B or H** | PR Mumble Proximity Local Channel |
-| **V or 0 \(numpad\)** | PR Mumble Radio Channel squad |
-| **1-9 \(numpad\)** | PR Mumble Channel Squad Leader Individu |
-| **\*\(numpad\)** | PR Mumble Channel ke Semua Squad Leader |
-| **/\(numpad\)** | PR Mumble Channel Radio Commander |
+| **V or 0 (numpad)** | PR Mumble Radio Channel squad |
+| **1-9 (numpad)** | PR Mumble Channel Squad Leader Individu |
+| **\*(numpad)** | PR Mumble Channel ke Semua Squad Leader |
+| **/(numpad)** | PR Mumble Channel Radio Commander |
 
 **Mumble Keys**
 

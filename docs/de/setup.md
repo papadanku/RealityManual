@@ -11,7 +11,7 @@
 * **Internet:** 256 kbps or faster connection required for online play
 * **Software:** .NET Framework 4
 * **Input:** Mouse, Keyboard
-* **Optional:** Joystick, Headset, microphone \(strongly recommended for voice communication\)
+* **Optional:** Joystick, Headset, microphone (strongly recommended for voice communication)
 
 ## Spiel Installation
 
@@ -72,7 +72,7 @@ You can access the profile settings by hovering over the PLAY button in the PR L
 
 ## Der PR-Launcher
 
-Nach der Installation wird eine Verknüpfung für Project Reality: BF2 v1.6 auf dem Desktop bereitgestellt, doppelklicken Sie auf dieses Symbol, um den Launcher zu öffnen. Wenn der Launcher erscheint, werden Sie mit einem Spielerprofil-Setup begrüßt, hier können Sie entweder ein neues Konto erstellen, ein bereits vorhandenes PR-Spielerprofil abrufen oder importieren. Um Ihr Profil zu importieren, wählen Sie das gewünschte Profil aus der Liste und klicken Sie dann auf Importieren. Seit DICE und EA den Support für BF2 im Mai 2014 eingestellt haben, nutzen wir nun unseren eigenen Account-Service für PR: BF2. Alle Ihre alten BF2-Konten  \(vor PR: BF2 v1.2 \) sind nicht mehr abrufbar. Wir teilen unseren Account-Service mit der Forgotten Hope 2-Modifikation für BF2.
+Nach der Installation wird eine Verknüpfung für Project Reality: BF2 v1.6 auf dem Desktop bereitgestellt, doppelklicken Sie auf dieses Symbol, um den Launcher zu öffnen. Wenn der Launcher erscheint, werden Sie mit einem Spielerprofil-Setup begrüßt, hier können Sie entweder ein neues Konto erstellen, ein bereits vorhandenes PR-Spielerprofil abrufen oder importieren. Um Ihr Profil zu importieren, wählen Sie das gewünschte Profil aus der Liste und klicken Sie dann auf Importieren. Seit DICE und EA den Support für BF2 im Mai 2014 eingestellt haben, nutzen wir nun unseren eigenen Account-Service für PR: BF2. Alle Ihre alten BF2-Konten  (vor PR: BF2 v1.2 ) sind nicht mehr abrufbar. Wir teilen unseren Account-Service mit der Forgotten Hope 2-Modifikation für BF2.
 
 Wenn Sie neu bei BF2: PR sind und noch nie ein Profil erstellt haben, klicken Sie einfach auf "Create New Account" und geben Sie die erforderlichen Details ein und wählen Sie einen sinnvollen, leicht auszusprechenden Benutzernamen. Um auf PR-Multiplayer-Servern spielen zu können, müssen Sie ein Online-Profil erstellen. Sie können alternativ ein Offline-Profil erstellen, wenn Sie dies wünschen.
 
@@ -99,19 +99,19 @@ Nachdem Sie ein Profil erstellt und sich angemeldet haben, wird Ihnen das Hauptm
 
 ## PR Mumble
 
-Im Spiel ist Mumble das Programm, mit dem wir uns in PR miteinander kommunizieren: BF2, das das Voice-Over-IP-System \(VOIP\) von BF2-Vanille ersetzt. Die Haupteigenschaft von PR Mumble ist, dass seine primäre Kommunikationsmethode im 3D-Raum übertragen wird, der direktional und näherungsbasiert ist. Dies nennt man Lokal. Das bedeutet, dass alle Spieler in deinem Team miteinander sprechen können, wenn sie in der Nähe sind, und du kannst hören, in welche Richtung Du sprichst. Ähnlich kannst du beurteilen, wie weit weg sie sind, genau wie im richtigen Leben.
+Im Spiel ist Mumble das Programm, mit dem wir uns in PR miteinander kommunizieren: BF2, das das Voice-Over-IP-System (VOIP) von BF2-Vanille ersetzt. Die Haupteigenschaft von PR Mumble ist, dass seine primäre Kommunikationsmethode im 3D-Raum übertragen wird, der direktional und näherungsbasiert ist. Dies nennt man Lokal. Das bedeutet, dass alle Spieler in deinem Team miteinander sprechen können, wenn sie in der Nähe sind, und du kannst hören, in welche Richtung Du sprichst. Ähnlich kannst du beurteilen, wie weit weg sie sind, genau wie im richtigen Leben.
 
-Nachdem du einem Trupp beigetreten bist, erhältst du Zugriff auf das Radio-Netz dieser Gruppe, das es dir ermöglicht, an andere Spieler in deinem Trupp zu senden, egal wo du dich auf der Karte befindest. Squad-Führer haben auch Zugang zu einem zusätzlichen Radio-Netz, das ihnen erlaubt, direkt mit dem Kommandanten, global zu allen anderen Gruppenführern und direkt zu einem einzelnen Gruppenführer zu kommunizieren. Wenn Sie ein Radio-Netz verwenden, wird beim Aktivieren und Deaktivieren des Radios ein Übertragungshinweis zu hören sein \(der in den Audiooptionen des Startprogramms aktiviert werden kann\). Die Standardschlüssel für die Übertragung über Mumble lauten wie folgt:
+Nachdem du einem Trupp beigetreten bist, erhältst du Zugriff auf das Radio-Netz dieser Gruppe, das es dir ermöglicht, an andere Spieler in deinem Trupp zu senden, egal wo du dich auf der Karte befindest. Squad-Führer haben auch Zugang zu einem zusätzlichen Radio-Netz, das ihnen erlaubt, direkt mit dem Kommandanten, global zu allen anderen Gruppenführern und direkt zu einem einzelnen Gruppenführer zu kommunizieren. Wenn Sie ein Radio-Netz verwenden, wird beim Aktivieren und Deaktivieren des Radios ein Übertragungshinweis zu hören sein (der in den Audiooptionen des Startprogramms aktiviert werden kann). Die Standardschlüssel für die Übertragung über Mumble lauten wie folgt:
 
-*  **Lokale Sprache  \(H \):**  Du sprichst mit Spielern im 3D-Radius um Sie herum.
-* Squad Radio  \(Num 0 \): \*\* Du sprichst mit deinem Squad, egal wo du bist.
-* Squad Leader zu allen anderen Squad Leaders Radio  \(  _\): \*_ Du sprichst gleichzeitig mit allen Squad Leaders. Dieses Funknetz steht dem Kommandanten auch zur Verfügung, um mit der gleichen Abkürzung zu arbeiten.
-*  **Squad Leader zu einem bestimmten Squad Leader Radio  \(Num 1Num 9 \):**  Du sprichst mit einem bestimmten Squad Leader in deinem Team. Diese Kanäle im Netz stehen dem Kommandanten auch zur Verfügung, um sie mit der gleichen Abkürzung zu verwenden.
-* Squad leader zu Commander Radio  \(/ \): \*\* Du sprichst privat mit dem Kommandanten.
+*  **Lokale Sprache  (H ):**  Du sprichst mit Spielern im 3D-Radius um Sie herum.
+* Squad Radio  (Num 0 ): \*\* Du sprichst mit deinem Squad, egal wo du bist.
+* Squad Leader zu allen anderen Squad Leaders Radio  (  _): \*_ Du sprichst gleichzeitig mit allen Squad Leaders. Dieses Funknetz steht dem Kommandanten auch zur Verfügung, um mit der gleichen Abkürzung zu arbeiten.
+*  **Squad Leader zu einem bestimmten Squad Leader Radio  (Num 1Num 9 ):**  Du sprichst mit einem bestimmten Squad Leader in deinem Team. Diese Kanäle im Netz stehen dem Kommandanten auch zur Verfügung, um sie mit der gleichen Abkürzung zu verwenden.
+* Squad leader zu Commander Radio  (/ ): \*\* Du sprichst privat mit dem Kommandanten.
 
-PR Mumble wird zusammen mit PR: BF2 installiert. Es läuft neben der Installation des Spiels und erledigt automatisch alle clientseitigen Aufgaben, wie das Starten und Verbinden mit dem richtigen Mumble-Server. Die Spieler haben die Möglichkeit, ihre Kommunikationseinstellungen genau wie die vorherige Version zu ihrer Zufriedenheit zu konfigurieren. Dazu gehören Eingabe- und Ausgabegeräte, Volumes und die Tastaturkürzel. Die beiden wichtigsten Tasten sind die Voreinstellung: Lokaler Kanal  \(H \) und Squad Radio  \(0 auf dem Numpad \) Die wichtigsten Tastaturkürzel können im PR Launcher auch über das Optionsmenü unter der Registerkarte PR Mumble bearbeitet werden.
+PR Mumble wird zusammen mit PR: BF2 installiert. Es läuft neben der Installation des Spiels und erledigt automatisch alle clientseitigen Aufgaben, wie das Starten und Verbinden mit dem richtigen Mumble-Server. Die Spieler haben die Möglichkeit, ihre Kommunikationseinstellungen genau wie die vorherige Version zu ihrer Zufriedenheit zu konfigurieren. Dazu gehören Eingabe- und Ausgabegeräte, Volumes und die Tastaturkürzel. Die beiden wichtigsten Tasten sind die Voreinstellung: Lokaler Kanal  (H ) und Squad Radio  (0 auf dem Numpad ) Die wichtigsten Tastaturkürzel können im PR Launcher auch über das Optionsmenü unter der Registerkarte PR Mumble bearbeitet werden.
 
-Es wird empfohlen, dass Sie das Haupteinstellungen-Bedienfeld direkt in der Mumble-Anwendung überprüfen, um sicherzustellen, dass alles korrekt eingerichtet ist. Suche dazu das PR-Symbol in der Taskleiste neben der Windows-Systemuhr  \(PR muss laufen\), klicke auf auf das Symbol, um die Mumble-Oberfläche zu öffnen, und suche die Einstellungen oben. Danach erscheint das Einstellungsfenster und Du kannst Ihre Ein- und Ausgabegeräte konfigurieren und ändern
+Es wird empfohlen, dass Sie das Haupteinstellungen-Bedienfeld direkt in der Mumble-Anwendung überprüfen, um sicherzustellen, dass alles korrekt eingerichtet ist. Suche dazu das PR-Symbol in der Taskleiste neben der Windows-Systemuhr  (PR muss laufen), klicke auf auf das Symbol, um die Mumble-Oberfläche zu öffnen, und suche die Einstellungen oben. Danach erscheint das Einstellungsfenster und Du kannst Ihre Ein- und Ausgabegeräte konfigurieren und ändern
 
 ![](../assets/mumblelogo.png)
 
@@ -155,7 +155,7 @@ Hier sind ein paar Forum-Links von realitymod.com, die aus verschiedenen Gründe
 |  **N**  | Zoomstufe der Minikarte / wechseln |
 |  **Q**  | Hauptradio-Rose anzeigen |
 |  **T**  | Anzeige sekundäre Radio-Rose |
-|  **Linke Alt**  | 3D-Markierungen ein- / ausblenden \(nur innerhalb von 50m sichtbar\) |
+|  **Linke Alt**  | 3D-Markierungen ein- / ausblenden (nur innerhalb von 50m sichtbar) |
 |  **C**  | BUIS umschalten / Kamera wechseln |
 |  **Ende / Grab**  | Konsole |
 
@@ -174,7 +174,7 @@ Hier sind ein paar Forum-Links von realitymod.com, die aus verschiedenen Gründe
 |  **E**  | Fahrzeug einsteigen / verlassen |
 | --- | --- |
 |  **WSAD**  | Grundbewegung |
-|  **Linke Strg**  | Hocke  \(halte \) |
+|  **Linke Strg**  | Hocke  (halte ) |
 |  **Z**  | umschalten liegen |
 |  **Leerzeichen**  | Sprung |
 |  **Linke Umschalttaste**  | Sprint / Fahrzeugboost |
@@ -184,7 +184,7 @@ Hier sind ein paar Forum-Links von realitymod.com, die aus verschiedenen Gründe
 |  **F1-F8**  | Fahrzeugposition wechseln |
 | --- | --- |
 |  **X**  | Vergrößerungsfaktor vergrößern / flackern |
-|  **6-9**  | Kamerapositionen  \(Nur Hubschrauber und Flugzeuge \) |
+|  **6-9**  | Kamerapositionen  (Nur Hubschrauber und Flugzeuge ) |
 |  **R**  | Neu laden |
 |  **F**  | Waffenwechsel |
 |  **1-9**  | Wähle Waffe |
@@ -198,10 +198,10 @@ Hier sind ein paar Forum-Links von realitymod.com, die aus verschiedenen Gründe
 |  **Seite nach oben**  | Anfrage annehmen |
 |  **Seite nach unten**  | Anfrage ablehnen |
 |  **B / H**  | PR Mumble Proximity Lokaler Kanal |
-|  **V / 0  \(Nummernblock \)**  | PR Mumble Squad Radio Kanal |
-|  **1-9  \(Nummernblock \)**  | PR Mumble Einzelkader Leader Radio Channel |
-|   **\*  \(Nummernblock \)**  | PR Mumble alle Squad Leader Radio Channel |
-|  **/  \(Nummernblock \)**  | PR Mumble Commander Radio Kanal |
+|  **V / 0  (Nummernblock )**  | PR Mumble Squad Radio Kanal |
+|  **1-9  (Nummernblock )**  | PR Mumble Einzelkader Leader Radio Channel |
+|   **\*  (Nummernblock )**  | PR Mumble alle Squad Leader Radio Channel |
+|  **/  (Nummernblock )**  | PR Mumble Commander Radio Kanal |
 
  **Mumble Keys** 
  

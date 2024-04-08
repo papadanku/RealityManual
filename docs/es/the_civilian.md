@@ -6,7 +6,7 @@ Cuando se juega en la facción de los insurgentes iraquíes o de Hamás, los jug
 El Civil.
 {% endfigure %}
 
-Los civiles están sujetos a **reglas de enfrentamiento** \(ROE\) particulares. Las fuerzas de la coalición no pueden disparar contra civiles que estén fuera de las reglas de enfrentamiento, arriesgándose a sufrir fuertes penalizaciones. En su lugar, deben **arrestarlos** o esperar hasta que sean un objetivo legítimo.
+Los civiles están sujetos a **reglas de enfrentamiento** (ROE) particulares. Las fuerzas de la coalición no pueden disparar contra civiles que estén fuera de las reglas de enfrentamiento, arriesgándose a sufrir fuertes penalizaciones. En su lugar, deben **arrestarlos** o esperar hasta que sean un objetivo legítimo.
 
 Para que un jugador arreste a un civil, debe usar los esposas de plástico o la escopeta con una ronda de perdigones.
 
@@ -14,7 +14,7 @@ Para que un jugador arreste a un civil, debe usar los esposas de plástico o la 
 
 Si disparas a un civil fuera de las ROE, te enfrentarás a varias sanciones:
 
-* Después de tu próxima muerte, reaparecerás 120 segundos más tarde por disparo civil \(se acumula hasta 5 minutos de retraso adicional\)
+* Después de tu próxima muerte, reaparecerás 120 segundos más tarde por disparo civil (se acumula hasta 5 minutos de retraso adicional)
 * No podrás solicitar ningún kit durante 10 minutos
 * Tu puntuación se reduce a 0 y la muerte no aparecerá en el marcador
 * Tu equipo pierde 10 puntos de inteligencia
@@ -26,7 +26,7 @@ Por otro lado, dispararle a un civil dentro de las ROE causará:
 
 Atropellar civiles con un vehículo o matarlos mientras trepan por una escalera o soga también resultará en una penalización si se realiza fuera de las ROE. 
 
-## Reglas de Enfrentamiento \(ROE\)
+## Reglas de Enfrentamiento (ROE)
 
 Se considera que un civil está dentro de las ROE y, por lo tanto, puede morir si se cumple alguna de estas condiciones:
 
@@ -40,7 +40,7 @@ Se considera que un civil está dentro de las ROE y, por lo tanto, puede morir s
 
 ## Convertirse en un Civil
 
-Para que te conviertas en un civil, primero debes aparecer como un soldado no armado o simplemente soltar tu equipo \(Presiona T y luego G\). En segundo lugar, como se mencionó en la sección anterior, debe esperar 2 minutos después de generar o dejar caer su kit.
+Para que te conviertas en un civil, primero debes aparecer como un soldado no armado o simplemente soltar tu equipo (Presiona T y luego G). En segundo lugar, como se mencionó en la sección anterior, debe esperar 2 minutos después de generar o dejar caer su kit.
 
 ## Vehículos Civiles
 
@@ -51,7 +51,7 @@ Un vehículo se considera civil y por lo tanto no puede ser destruido si:
 * Esta vacio
 * No tiene un arma
 * Fue el último uso hace más de 1 minuto
-* No tiene enemigos cerca \(3 metros\)
+* No tiene enemigos cerca (3 metros)
 
 El incumplimiento de este ROE resultará en:
 

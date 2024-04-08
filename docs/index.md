@@ -1,4 +1,6 @@
+
 # Contributing guide
+
 The Project Reality manual is a great document for both new players and old timers coming back. 
 To make it easier for them we try to make it updated with the latest changes and accessible in as many languages as possible and for this we need your help!
 
@@ -8,6 +10,7 @@ Our manual uses [Markdown syntax](#syntax), a very easy to learn system, where i
 Additionally, we serve the manual using HonKit, a fork of GitBook.
 
 ## Translating
+
 In order for you to work on your version of the manual, you will need to create your own copy, a Git Fork. 
 Simply go to our GitHub page and click Fork button in the top right corner.
 
@@ -15,17 +18,18 @@ This will now create a copy fork of our Manual on your GitHub profile for you to
 
 Once you have your fork installed on your computer, we suggest you copy the 'en' folder and change the name to the 2 letter language code that you are translating into. Then you open this new folder and in each subfolder you will find README.md files. These are the chapters and therefore the files that will need translating.
 
-{% note %}
-The changelog in README.md, is dedicated to each languange, don't translate it.
-Instead, simply add an entry and describe what was added/removed/changed/translated.
-{% endnote %}
+> The changelog in README.md, is dedicated to each languange, don't translate it.
+>
+> Instead, simply add an entry and describe what was added/removed/changed/translated.
 
 You will also find the SUMMARY.md which is the page table. This one will also require translation of the titles. Note that there are many links (ex. {#subchapter-name}) in the files. These are used to link to chapters within the document. It's recommended not to change these names so all the links continue to work. Also don't translate and actual folder names. Also don't change any image names.
 
 Please in the meantime let us know you are working on a translation so we can take a look and potentially help out. 
 
 ## Syntax
+
 ### Headings
+
 To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the size of the heading.
 
 ```markdown
@@ -141,7 +145,6 @@ Image's caption
 {% endfigure %}
 ```
 
-
 ### Blockquotes
 
 A blockquote is started using the `>` marker followed by an optional space; all following lines that are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:
@@ -152,27 +155,6 @@ As Kanye West said:
 > We're living the future so
 > the present is our past.
 ```
-
-### Notes
-
-Notes are the small highlights that give quick information
-Warning: Markdown is not parsed inside this tag.
-
-```
-{% note %}
-This would be a note.
-{% endnote %}
-```
-
-
-### Youtube
-
-If you wish to embed a youtube video, you just need to grab its ID and place it between `()` tags.
-
-```
-{{ "Custom Youtube's title" | youtube("xxxxxxxxx") }}
-```
-
 
 ### Tables
 
@@ -195,18 +177,17 @@ Markdown supports two different code block styles. One uses lines indented with 
 This is a sample code block.
 
     Continued here.
-
 ```
 
 ##### Fenced code blocks
 
 You can create fenced code blocks by placing triple backticks ` ``` ` before and after the code block. We recommend placing a blank line before and after code blocks to make the raw formatting easier to read.
 
-    ```
-    function test() {
-      console.log("notice the blank line before this function?");
-    }
-    ```
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 
 ##### Syntax highlighting
 
@@ -214,11 +195,11 @@ You can add an optional language identifier to enable syntax highlighting in you
 
 For example, to syntax highlight Ruby code:
 
-    ```ruby
-    require 'redcarpet'
-    markdown = Redcarpet.new("Hello World!")
-    puts markdown.to_html
-    ```
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
 
 ##### Inline code
 
@@ -261,14 +242,4 @@ Hyphens
 ***
 
 Asterisks
-
 ```
-
-### Ignoring Markdown formatting
-
-You can tell HonKit to ignore (or escape) Markdown formatting by using `\` before the Markdown character.
-
-```
-Let's rename \*our-new-project\* to \*our-old-project\*.
-```
-

@@ -6,9 +6,9 @@ A principal tarefa do comandante é **coordenar** a equipe e dar orientação e 
 
 **Falar diretamente com um Líder de Esquadrão específico** o comandante pode usar o **Rádio de Esquadrão Direto** usando os dígitos numpad do teclado de 1 a 9 mantendo pressionado o número do esquadrão no teclado numérico.
 
-O Comandante pode **confirmar ou negar o pedido de ataque de área \(area attack\)**. Se um Líder de Esquadrão solicitar artilharia, o comandante pode clicar com o botão direito do mouse no ícone e aceitá-lo ou negá-lo. Após o qual o pedido será confirmado para a equipe. O ataque da área está disponível a cada 30 minutos. Para os insurgentes e sua salva de morteiros semelhante, normalmente são 20 minutos entre possíveis ataques. Para ver quando artilharia / morteiros estão disponíveis novamente, você pode olhar no canto superior esquerdo da janela do comandante e ver a barra com “**AREA ATTACK**” nela.
+O Comandante pode **confirmar ou negar o pedido de ataque de área (area attack)**. Se um Líder de Esquadrão solicitar artilharia, o comandante pode clicar com o botão direito do mouse no ícone e aceitá-lo ou negá-lo. Após o qual o pedido será confirmado para a equipe. O ataque da área está disponível a cada 30 minutos. Para os insurgentes e sua salva de morteiros semelhante, normalmente são 20 minutos entre possíveis ataques. Para ver quando artilharia / morteiros estão disponíveis novamente, você pode olhar no canto superior esquerdo da janela do comandante e ver a barra com “**AREA ATTACK**” nela.
 
-Para manter a equipe organizada, o foco exclusivo do comandante é ** entregar os pedidos ** para cada esquadrão. Ele pode, alternativamente, ajudar os membros da equipe, mantendo-os bem informados sobre situações fora de sua área de operações \(AO\) confirmando inteligência no mapa usando uma variedade de marcadores clicando com o botão direito do mouse no mapa:
+Para manter a equipe organizada, o foco exclusivo do comandante é ** entregar os pedidos ** para cada esquadrão. Ele pode, alternativamente, ajudar os membros da equipe, mantendo-os bem informados sobre situações fora de sua área de operações (AO) confirmando inteligência no mapa usando uma variedade de marcadores clicando com o botão direito do mouse no mapa:
 
 * **Commandos**
   * **Destruir**: Remova FOBs aliadas.
@@ -23,7 +23,7 @@ Para manter a equipe organizada, o foco exclusivo do comandante é ** entregar o
 > Possíveis comandos, ordens de esquadrão e ícones que comandantes podem usar.
 
 * **Ordens de Esquadrão**
-  * As mesmas marcas estão disponíveis para os líderes do esquadrão. Quando você seleciona um esquadrão no menu da esquerda, você pode direcioná-los. Se eles aceitarem \(**PAGE UP**\) ele substituirá a marca desse esquadrão.
+  * As mesmas marcas estão disponíveis para os líderes do esquadrão. Quando você seleciona um esquadrão no menu da esquerda, você pode direcioná-los. Se eles aceitarem (**PAGE UP**) ele substituirá a marca desse esquadrão.
 
 ![](../assets/build.png)**Construir** 
 
@@ -42,11 +42,11 @@ Marcas não podem ser colocadas o tempo todo. No canto superior esquerdo há uma
 
 Se os Líderes do Esquadrão acreditam que o Comandante não é eficiente em seus deveres, então eles têm a opção de iniciar um **motim**. Se for bem sucedido, um novo jogador pode assumir essa posição.
 
-O **Commander Rally Point** pode ser usado por toda a equipe. Para estabelecer este RP o Comandante precisa de pelo menos 6 jogadores perto dele \(um deles deve ser um líder de esquadrão \) para colocar o RP. Este RP não está disponível no modo skirmish e pelo menos 12 jogadores devem estar no time do comandante. O RP permanecerá ativo enquanto o comandante estiver dentro do raio de 100m do ponto de encontro. Todas as outras regras descritas no capítulo Líder de Esquadrão sobre pontos de rally também se aplicam ao ponto de encontro do comandante.
+O **Commander Rally Point** pode ser usado por toda a equipe. Para estabelecer este RP o Comandante precisa de pelo menos 6 jogadores perto dele (um deles deve ser um líder de esquadrão ) para colocar o RP. Este RP não está disponível no modo skirmish e pelo menos 12 jogadores devem estar no time do comandante. O RP permanecerá ativo enquanto o comandante estiver dentro do raio de 100m do ponto de encontro. Todas as outras regras descritas no capítulo Líder de Esquadrão sobre pontos de rally também se aplicam ao ponto de encontro do comandante.
 
 ## UAV
 
-O Comandante das Forças Convencionais e a milícia são capazes de controlar um **Veículo Aéreo Não Tripulado \(UAV\) o famoso Drone** do posto de comando de sua equipe ou veículo de comando blindado \(ACV \). O UAV em PR:BF2 não revela automaticamente as posições inimigas, mas dá ao comandante os meios para observar visualmente o campo de batalha do ponto de vista de uma visão aérea. O comandante pode controlar a câmera do UAV enquanto ele navega a uma altitude alta o bastante.
+O Comandante das Forças Convencionais e a milícia são capazes de controlar um **Veículo Aéreo Não Tripulado (UAV) o famoso Drone** do posto de comando de sua equipe ou veículo de comando blindado (ACV ). O UAV em PR:BF2 não revela automaticamente as posições inimigas, mas dá ao comandante os meios para observar visualmente o campo de batalha do ponto de vista de uma visão aérea. O comandante pode controlar a câmera do UAV enquanto ele navega a uma altitude alta o bastante.
 
 O UAV é lançado colocando o marcador UAV no mapa de comando. Isso pode ser feito pressionando o ícone do UAV no canto superior esquerdo da tela do comandante ou clicando com o botão direito no mapa e colocando o ícone do UAV. Então, para operá-lo, você precisa entrar no veículo ACV na base principal de sua equipe.
 

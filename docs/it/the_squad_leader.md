@@ -2,7 +2,7 @@
 
 ## Guidare la Squadra
 
-Come spiegato nella sezione Orientamento sul Campo, il Capo Squadra può posizionare dei marker sulla mappa per i membri della sua squadra per guidarli. Troveranno un marker sulla loro bussola da seguire, così come un'icona sulla mappa. Il Capo Squadra dovrebbe usarli il più spesso possibile e può anche utilizzarli per calcolare facilmente la distanza verso un obiettivo. Può farlo dalla mini-mappa facendo clic destro su di essa e posizionando il marker o premendo il **tasto radio secondario \(T\)** e puntando all'obiettivo e utilizzando uno dei pulsanti per posizionare il marker.
+Come spiegato nella sezione Orientamento sul Campo, il Capo Squadra può posizionare dei marker sulla mappa per i membri della sua squadra per guidarli. Troveranno un marker sulla loro bussola da seguire, così come un'icona sulla mappa. Il Capo Squadra dovrebbe usarli il più spesso possibile e può anche utilizzarli per calcolare facilmente la distanza verso un obiettivo. Può farlo dalla mini-mappa facendo clic destro su di essa e posizionando il marker o premendo il **tasto radio secondario (T)** e puntando all'obiettivo e utilizzando uno dei pulsanti per posizionare il marker.
 
 * ![](../assets/target.png) **Bersaglio** 
 * ![](../assets/build.png) **Costruzione** 
@@ -11,15 +11,15 @@ Come spiegato nella sezione Orientamento sul Campo, il Capo Squadra può posizio
 * ![](../assets/demolish.png) **Demolizione** 
 * ![](../assets/move.png) **Movimento**
 
-Anche il comandante può dare ordini. Se accetti l'ordine \(**PAG SU**\), il tuo marker verrà sostituito con l'ordine del comandante.
+Anche il comandante può dare ordini. Se accetti l'ordine (**PAG SU**), il tuo marker verrà sostituito con l'ordine del comandante.
 
 ## Avvistare il Nemico
 
 Il **Capo Squadra** in PR:BF2 ha molte abilità funzionali. È in grado di marcare unità nemiche sulla mappa e inviare rapporti di contatto al comandante della fazione con la possibilità di marcare un bersaglio sulla mappa della fazione. Per eseguire queste funzioni, segui questi passaggi:
 
-1. Marca una posizione tramite la minimappa o tramite il menu radiale della radio secondaria \(**T**\).
-2. Seleziona l'oggetto radio/cellulare assegnato ai kit dell'Ufficiale/Ricognitore/Capo della Cellula o del Collaboratore e usa il **tasto di fuoco alternativo \(Click Destro\)** per attivarlo.
-3. Mentre guardi attentamente nella direzione del marker del Capo Squadra, premi e tieni premuto il tasto principale del menu a comparsa \(**Q**\), passa sopra la tipologia corretta di forze ostili, veicoli o categoria di equipaggiamento e premi il tasto sinistro o destro per posizionare il corrispondente marker sulla mappa.
+1. Marca una posizione tramite la minimappa o tramite il menu radiale della radio secondaria (**T**).
+2. Seleziona l'oggetto radio/cellulare assegnato ai kit dell'Ufficiale/Ricognitore/Capo della Cellula o del Collaboratore e usa il **tasto di fuoco alternativo (Click Destro)** per attivarlo.
+3. Mentre guardi attentamente nella direzione del marker del Capo Squadra, premi e tieni premuto il tasto principale del menu a comparsa (**Q**), passa sopra la tipologia corretta di forze ostili, veicoli o categoria di equipaggiamento e premi il tasto sinistro o destro per posizionare il corrispondente marker sulla mappa.
 
 Nota che i passaggi 1 e 2 possono essere eseguiti in qualsiasi ordine.
 
@@ -30,17 +30,17 @@ Menu radiale di ricognizione.
 
 {{ "Video Tutorial - Posizionare i Marker" | youtube("XNDb2yMuoho") }}
 
-## Il Designatore GTL \(GTLD\)
+## Il Designatore GTL (GTLD)
 
-Il kit del Capo Squadra e il kit del Ricognitore utilizzati dalle forze convenzionali sono equipaggiati con il **GTLD \(Designatore Laser per Bersagli Terrestri\)**. Questo dispositivo ha uno zoom migliore rispetto ai binocoli regolari, include un telemetro e ti permette di designare bersagli nemici che possono essere colpiti da bombe o missili da unità aeree alleate \(e nemiche\).
+Il kit del Capo Squadra e il kit del Ricognitore utilizzati dalle forze convenzionali sono equipaggiati con il **GTLD (Designatore Laser per Bersagli Terrestri)**. Questo dispositivo ha uno zoom migliore rispetto ai binocoli regolari, include un telemetro e ti permette di designare bersagli nemici che possono essere colpiti da bombe o missili da unità aeree alleate (e nemiche).
 
 Con il GTLD equipaggiato, puoi fare clic destro per aumentare il livello di zoom e clic sinistro per attivarlo/disattivarlo. Quando è attivo, il GTLD emetterà un segnale laser che devi mantenere sul tuo bersaglio fino a quando la bomba/missile lo colpisce, a differenza delle versioni precedenti in cui il raggio laser rimaneva sul bersaglio anche senza vederlo.
 
-Inoltre, mentre il raggio laser è ATTIVO, puoi accedere al menu della radio principale \(Q\) per richiedere supporto aereo ravvicinato \(CAS\) o richiedere missioni di fuoco di mortaio. Farlo trasmetterà automaticamente un messaggio di testo alla tua fazione con i dettagli della richiesta e aggiungerà un marker di bersaglio sulla mappa.
+Inoltre, mentre il raggio laser è ATTIVO, puoi accedere al menu della radio principale (Q) per richiedere supporto aereo ravvicinato (CAS) o richiedere missioni di fuoco di mortaio. Farlo trasmetterà automaticamente un messaggio di testo alla tua fazione con i dettagli della richiesta e aggiungerà un marker di bersaglio sulla mappa.
 
 ## Punti di Raduno
 
-Un Capo Squadra ha la possibilità di posizionare i **Punti di Raduno o Rally Point \(RP\)**. Ciò consente ai membri della squadra caduti in battaglia di riunirsi in un'area sicura con il resto della loro squadra. Per piazzare un RP, è necessario premere **il tasto della radio secondaria \(T\)** e selezionare **PIAZZA PUNTO DI RADUNO**.
+Un Capo Squadra ha la possibilità di posizionare i **Punti di Raduno o Rally Point (RP)**. Ciò consente ai membri della squadra caduti in battaglia di riunirsi in un'area sicura con il resto della loro squadra. Per piazzare un RP, è necessario premere **il tasto della radio secondaria (T)** e selezionare **PIAZZA PUNTO DI RADUNO**.
 
 Le seguenti condizioni devono essere soddisfatte affinché l'RP venga piazzato con successo:
 
@@ -59,7 +59,7 @@ Un punto di raduno si ricarica ogni 1 minuto, a meno che non sia stato conquista
 
 ## Richiedere Supporto
 
-Il capo squadra può anche utilizzare la sua radio per richiedere supporto da altre squadre. Per farlo, deve attivare la sua radio e quindi premere **il tasto della radio secondaria \(T\)**. Questo aprirà il menu per richiedere supporto e per posizionare risorse della fazione. Le cinque opzioni inferiori che iniziano con **"NEED... \(NECESSITO\)"** posizioneranno un marker sulla mappa nella tua posizione. Trasmettono anche un messaggio radio alla tua squadra per avvisarli della tua richiesta. La richiesta **"NEED AREA ATTACK \(NECESSITO DI ATTACCO AD AREA\)"** si comporta in modo leggermente diverso rispetto alle altre. In alcune mappe, le forze convenzionali possono utilizzare questo comando per richiedere un **bombardamento d'artiglieria**. Se la tua richiesta viene approvata dal comandante della squadra, l'attacco colpirà dopo circa un minuto. Dopo aver caricato una nuova mappa o aver eseguito un attacco in area, ci vogliono 30 minuti prima che sia nuovamente disponibile. Allo stesso modo, le fazioni non convenzionali hanno accesso a un bombardamento di mortai ogni 20 minuti sulla maggior parte delle mappe.
+Il capo squadra può anche utilizzare la sua radio per richiedere supporto da altre squadre. Per farlo, deve attivare la sua radio e quindi premere **il tasto della radio secondaria (T)**. Questo aprirà il menu per richiedere supporto e per posizionare risorse della fazione. Le cinque opzioni inferiori che iniziano con **"NEED... (NECESSITO)"** posizioneranno un marker sulla mappa nella tua posizione. Trasmettono anche un messaggio radio alla tua squadra per avvisarli della tua richiesta. La richiesta **"NEED AREA ATTACK (NECESSITO DI ATTACCO AD AREA)"** si comporta in modo leggermente diverso rispetto alle altre. In alcune mappe, le forze convenzionali possono utilizzare questo comando per richiedere un **bombardamento d'artiglieria**. Se la tua richiesta viene approvata dal comandante della squadra, l'attacco colpirà dopo circa un minuto. Dopo aver caricato una nuova mappa o aver eseguito un attacco in area, ci vogliono 30 minuti prima che sia nuovamente disponibile. Allo stesso modo, le fazioni non convenzionali hanno accesso a un bombardamento di mortai ogni 20 minuti sulla maggior parte delle mappe.
 
 
 {% figure "../assets/support.png" %}
@@ -68,7 +68,7 @@ Richiesta di supporto via radio.
 
 ## Costruzioni
 
-La costruzione di postazioni è una funzionalità essenziale del Capo Squadra, che anche il Comandante della fazione possiede. Quando si dispiega e si costruisce un Avamposto Avanzato \(FOB\), il Capo Squadra deve avere un kit da ufficiale e una cassa di rifornimenti pesante entro un raggio di 50 metri dalla sua posizione. 2 casse di rifornimenti leggere offrono le stesse capacità di 1 cassa di rifornimenti pesante per raggiungere lo stesso scopo. Insorti, Talebani e Hamas possono solo dispiegare nascondigli, mortai e postazioni anticarro per la loro squadra, che non richiedono rifornimenti per costruire queste strutture. Per eseguire questa funzione, è necessario un kit da capo della cellula o collaboratore.
+La costruzione di postazioni è una funzionalità essenziale del Capo Squadra, che anche il Comandante della fazione possiede. Quando si dispiega e si costruisce un Avamposto Avanzato (FOB), il Capo Squadra deve avere un kit da ufficiale e una cassa di rifornimenti pesante entro un raggio di 50 metri dalla sua posizione. 2 casse di rifornimenti leggere offrono le stesse capacità di 1 cassa di rifornimenti pesante per raggiungere lo stesso scopo. Insorti, Talebani e Hamas possono solo dispiegare nascondigli, mortai e postazioni anticarro per la loro squadra, che non richiedono rifornimenti per costruire queste strutture. Per eseguire questa funzione, è necessario un kit da capo della cellula o collaboratore.
 
 {% figure "../assets/buildcomo.png" %}
 Costruzione delle postazioni tramite la radio.
@@ -78,8 +78,8 @@ Per dispiegare una struttura, segui questi passaggi:
 
 1. Seleziona ed attiva la radio / cellulare.
 2. Guarda nella direzione in cui la struttura dovrebbe essere posizionata. Sarà posizionata a 10 metri di fronte a te.
-3. Una volta che l'hai dispiegata, premi **il tasto del menu radio secondaria \(T\)**.
-4. Fai click sinistro del mouse su **DEPLOY / REMOVE ASSET \(POSIZIONA / RIMUOVI STRUTTURA\).**
+3. Una volta che l'hai dispiegata, premi **il tasto del menu radio secondaria (T)**.
+4. Fai click sinistro del mouse su **DEPLOY / REMOVE ASSET (POSIZIONA / RIMUOVI STRUTTURA).**
 5. Seleziona la struttura che desideri costruire dalla lista.
 
 {% figure "../assets/shovel.png" %}
@@ -108,19 +108,19 @@ Esempi di smantellamento e cotruzione di una trincea.
 
 ## Strutture Posizionabili
 
-Ecco una lista delle strutture posizionabili e i requisiti per costruirle. Le risorse posizionabili possono essere smantellate con una pala o, in alternativa, distrutte con C4, IED, proiettili di carri armati, proiettili di APC o qualsiasi altra forma di munizioni pesanti. Le postazioni possono anche essere completamente distrutte continuando a danneggiare le fondamenta della struttura. Gli avamposti e i nascondigli possono essere distrutti anche da esplosivi generici o esplosivi al plastico C4 e TNT. I capi squadra possono rimuovere le strutture posizionabili non completate tramite la radio in modo simile a come sono state piazzate, utilizzando il clic destro in alternativa per rimuovere le fondamenta della struttura. La modalità di fuoco alternativa della pala ha anche la capacità di smantellare le strutture posizionabili non completate. Un'importante nota sui requisiti e le limitazioni elencate di seguito è che tutti i valori riguardanti la distanza da una FOB e la quantità massima di risorse per FOB sono raddoppiati nella modalità di gioco CNC \(ad eccezione della quantità di mortai\). Ricorda anche che 2 casse di rifornimenti grandi possono essere sostituite anche da 4 casse di rifornimenti piccole o 1 cassa grande e 2 casse piccole. Per saperne di più sulla logistica e le casse, consulta [il capitolo sulla logistica.](the_basics.md#logistics).
+Ecco una lista delle strutture posizionabili e i requisiti per costruirle. Le risorse posizionabili possono essere smantellate con una pala o, in alternativa, distrutte con C4, IED, proiettili di carri armati, proiettili di APC o qualsiasi altra forma di munizioni pesanti. Le postazioni possono anche essere completamente distrutte continuando a danneggiare le fondamenta della struttura. Gli avamposti e i nascondigli possono essere distrutti anche da esplosivi generici o esplosivi al plastico C4 e TNT. I capi squadra possono rimuovere le strutture posizionabili non completate tramite la radio in modo simile a come sono state piazzate, utilizzando il clic destro in alternativa per rimuovere le fondamenta della struttura. La modalità di fuoco alternativa della pala ha anche la capacità di smantellare le strutture posizionabili non completate. Un'importante nota sui requisiti e le limitazioni elencate di seguito è che tutti i valori riguardanti la distanza da una FOB e la quantità massima di risorse per FOB sono raddoppiati nella modalità di gioco CNC (ad eccezione della quantità di mortai). Ricorda anche che 2 casse di rifornimenti grandi possono essere sostituite anche da 4 casse di rifornimenti piccole o 1 cassa grande e 2 casse piccole. Per saperne di più sulla logistica e le casse, consulta [il capitolo sulla logistica.](the_basics.md#logistics).
 
-**Base Operativa Avanzata \(FOB\):** La base operativa avanzata, nota anche come avamposto, funge da posizione di spawn difensiva per la fazione. Si attiva 90 secondi dopo essere stata costruita. Diventa inutilizzabile per 30 secondi se ci sono 2 nemici entro 50 metri, 4 nemici entro 100 metri o 8 nemici entro 150 metri. Requisiti e limitazioni:
+**Base Operativa Avanzata (FOB):** La base operativa avanzata, nota anche come avamposto, funge da posizione di spawn difensiva per la fazione. Si attiva 90 secondi dopo essere stata costruita. Diventa inutilizzabile per 30 secondi se ci sono 2 nemici entro 50 metri, 4 nemici entro 100 metri o 8 nemici entro 150 metri. Requisiti e limitazioni:
 
 * Deve essere costruita entro 50 metri da una cassa di rifornimenti grande alleata.
 * La fazione può avere un massimo di 6 avamposti contemporaneamente.
 * Deve essere costruita almeno a 200 metri da altri avamposti e dal Quartier Generale della fazione.
-* Deve essere costruita almeno a 10 metri dai confini della mappa \(200 metri sulla modalità CNC\).
+* Deve essere costruita almeno a 10 metri dai confini della mappa (200 metri sulla modalità CNC).
 
 {% figure "../assets/fobb.png" %}
 {% endfigure %}
 
-**Nascondiglio:** Gli Insorti utilizzano i nascondigli come punto di spawn. Se ci sono 2 o più nemici nelle vicinanze \(entro 50 metri\), il respawn è disabilitato fino a 90 secondi dopo che se ne siano andati via o muoiano. Requisiti e limitazioni:
+**Nascondiglio:** Gli Insorti utilizzano i nascondigli come punto di spawn. Se ci sono 2 o più nemici nelle vicinanze (entro 50 metri), il respawn è disabilitato fino a 90 secondi dopo che se ne siano andati via o muoiano. Requisiti e limitazioni:
 
 * Deve essere richiesto a una distanza superiore a 200 metri dal nascondiglio più vicino e dal quartier generale degli Insorti.
 * La fazione può avere fino a 6 nascondigli contemporaneamente.
@@ -149,10 +149,10 @@ Ecco una lista delle strutture posizionabili e i requisiti per costruirle. Le ri
 {% figure "../assets/tow.png" %}
 {% endfigure %}
 
-**Anti-Carro \(forze non convenzionali\):** Il lanciamissili anticarro SPG9 ha un angolo di tiro limitato. Può sparare due tipi di munizioni e impiega 15 secondi per essere ricaricato. Requisiti e limitazioni:
+**Anti-Carro (forze non convenzionali):** Il lanciamissili anticarro SPG9 ha un angolo di tiro limitato. Può sparare due tipi di munizioni e impiega 15 secondi per essere ricaricato. Requisiti e limitazioni:
 
 * Deve essere posizionato entro 200 metri da uan FOB / nascondiglio e almeno 200 metri di distanza dalla postazione del comando della fazione e a 50 metri dal Deposito dei Veicoli.
-* Devono essere presenti 2 casse di rifornimenti grandi entro 200 metri \(solo per la milizia e i Ribelli Siriani\).
+* Devono essere presenti 2 casse di rifornimenti grandi entro 200 metri (solo per la milizia e i Ribelli Siriani).
 * Nessun altra postazione anticarro può essere presente entro 200 metri di distanza e su quella FOB.
 * La fazione può avere fino a un massimo di 3 posizioni anticarro contemporaneamente.
 
@@ -197,7 +197,7 @@ Ecco una lista delle strutture posizionabili e i requisiti per costruirle. Le ri
 * Un massimo di 9 altre trincee, sacchi di sabbia o linee di filo spinato possono essere posizionati entro 200 metri e su quella FOB.
 * La fazione può avere fino a 60 trincee, muri di sacchi di sabbia o linee di filo spinato in totale.
 
-**Blocco Stradale \(forze non convenzionali\):** Un blocco stradale largo 5 metri o 10 metri (click destro o click sinistro) formato da rifiuti. Requisiti e limitazioni:
+**Blocco Stradale (forze non convenzionali):** Un blocco stradale largo 5 metri o 10 metri (click destro o click sinistro) formato da rifiuti. Requisiti e limitazioni:
 
 * Deve essere posizionato a 200 metri di distanza dalla Postazione del Comando della fazione e a 50 metri dal Deposito dei Veicoli.
 * Un massimo di 9 altri blocchi stradali, filo spinato, trincee e sacchi di sabbia possono essere entro 200 metri.

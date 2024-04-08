@@ -23,7 +23,7 @@ Comandi possibili, ordini di squadra e icone che il comandante può utilizzare.
 {% endfigure %}
 
 * **Ordini di Squadra**
-  * Gli stessi marker sono disponibili per i Capisquadra. Quando selezioni una squadra nel menu di sinistra, puoi dar loro ordini. Se li accettano \(**PAG SU**\), sostituiranno il marker della squadra.
+  * Gli stessi marker sono disponibili per i Capisquadra. Quando selezioni una squadra nel menu di sinistra, puoi dar loro ordini. Se li accettano (**PAG SU**), sostituiranno il marker della squadra.
 
 {% figure "../assets/build.png", "../assets/observe.png", "../assets/defendmarker.png", "../assets/demolish.png", "../assets/move.png" %}
 I marker di costruzione, osservazione, difesa, demolizione e spostamento, rispettivamente.
@@ -40,7 +40,7 @@ Il **Rally Point del Comandante** può essere utilizzato da tutta la fazione. Pe
 
 ## L'UAV
 
-Il Comandante delle forze convenzionali e della milizia sono in grado di controllare un **Veicolo Aereo Senza Pilota \(UAV\)** dalla postazione di comando della fazione o dal veicolo corazzato del comando \(ACV\). L'UAV in PR:BF2 non rivela automaticamente le posizioni nemiche, ma fornisce al comandante i mezzi per osservare il campo di battaglia visivamente da un punto di vista a volo d'uccello. Il comandante può controllare la telecamera del UAV mentre vola a un'altitudine costante.
+Il Comandante delle forze convenzionali e della milizia sono in grado di controllare un **Veicolo Aereo Senza Pilota (UAV)** dalla postazione di comando della fazione o dal veicolo corazzato del comando (ACV). L'UAV in PR:BF2 non rivela automaticamente le posizioni nemiche, ma fornisce al comandante i mezzi per osservare il campo di battaglia visivamente da un punto di vista a volo d'uccello. Il comandante può controllare la telecamera del UAV mentre vola a un'altitudine costante.
 
 L'UAV viene lanciato posizionando il marker dell'UAV sulla mappa di comando. Ciò può essere fatto premendo l'icona dell'UAV in alto a sinistra della schermata del comandante o facendo clic destro sulla mappa e posizionando l'icona dell'UAV. Per operarlo, devi entrare nel veicolo ACV nella base principale della tua fazione.
 

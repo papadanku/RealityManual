@@ -12,7 +12,7 @@ Recommended Vega 6, Intel Xe G4, AMD Radeon RX 550, Nvidia GT 1030 or similar.
 * **Internet:** **Stable** 256 kbps or faster connection required for online play. Using WiFi might cause game crashes due to high packet loss.
 * **Software:** .NET Framework 4.6.
 * **Input:** Mouse, Keyboard.
-* **Optional:** Joystick, Headset, microphone \(strongly recommended for voice communication\).
+* **Optional:** Joystick, Headset, microphone (strongly recommended for voice communication).
 
 ## Game Installation
 
@@ -24,13 +24,13 @@ You have to download the full PR:BF2 installer from our website. There won’t b
 
 There are 2 installation methods. You can use the **Download Assistant application** which makes it a lot easier to install PR:BF2 or you can manually download and install the Installer through a **Torrent**. With either method there are 2 steps: Download and Install:
 
-**1\) Download**
+**1) Download**
 
 The Download Assistant will download the Installer using the Torrent protocol. So make sure this isn't blocked by your ISP. Simply download the Download Assistant from our [PR:BF2 Download Section](http://www.realitymod.com/downloads) and follow the instructions in the application. 
 
-If you downloaded the Torrent version \(and now the Download Assistant\), this is **NOT** the full install. You use the small .torrent file with a BitTorrent client to actually download the full .iso file. We recommend [qBittorrent](http://www.qbittorrent.org/download.php). Once the torrent is downloaded through your selected Torrent software, you will be presented with a folder with all installation files, move on to step 2 after the application finishes the download.
+If you downloaded the Torrent version (and now the Download Assistant), this is **NOT** the full install. You use the small .torrent file with a BitTorrent client to actually download the full .iso file. We recommend [qBittorrent](http://www.qbittorrent.org/download.php). Once the torrent is downloaded through your selected Torrent software, you will be presented with a folder with all installation files, move on to step 2 after the application finishes the download.
 
-**2\) Installation**
+**2) Installation**
 The downloaded folder that you now have through either the Download Assistant or the manual Torrent download now have a _setup.exe_ file. Launch this one to start the installation process. The Download Assistant however does has an automated system so after downloading there should be a button to start the installation automatically. 
 
 A few more points:
@@ -120,19 +120,19 @@ The launcher’s main menu also provides a news ticker at the bottom highlighted
 
 ## PR Mumble
 
-In game, Mumble is the program which we use to communicate to each other in PR:BF2, which replaces BF2 vanilla’s Voice-Over-IP \(VOIP\) system. The main unique feature of PR Mumble is that its primary method of communication is transmitted within 3D space, which is directional and proximity based. This is called Local. What this means is that all players on your team can talk to each other if they are nearby, and you can hear in what direction they are speaking from, similarly you can judge how far away they are, just like in real life.
+In game, Mumble is the program which we use to communicate to each other in PR:BF2, which replaces BF2 vanilla’s Voice-Over-IP (VOIP) system. The main unique feature of PR Mumble is that its primary method of communication is transmitted within 3D space, which is directional and proximity based. This is called Local. What this means is that all players on your team can talk to each other if they are nearby, and you can hear in what direction they are speaking from, similarly you can judge how far away they are, just like in real life.
 
-After joining a squad you gain access to that squad’s Radio Net, which allows you to transmit to other players in your squad no matter where you are on the map. Squad leaders also have access to an additional Radio Net that allows them to communicate directly to the commander, globally to all other squad leaders, and directly to an individual squad leader. When using a radio net, a transmission cue will be heard when activating and deactivating the radio \(which can be activated in the launcher audio options\). The default keys for transmitting over mumble are as follows:
+After joining a squad you gain access to that squad’s Radio Net, which allows you to transmit to other players in your squad no matter where you are on the map. Squad leaders also have access to an additional Radio Net that allows them to communicate directly to the commander, globally to all other squad leaders, and directly to an individual squad leader. When using a radio net, a transmission cue will be heard when activating and deactivating the radio (which can be activated in the launcher audio options). The default keys for transmitting over mumble are as follows:
 
-* **Local speech \(B or H\):** you talk to players in the 3D radius space around you.
-* **Squad Radio \(V or Num 0\):** you talk to your squad, no matter where you are.
-* **Squad Leader to all other squad leaders radio \(\*\):** you talk to all squad leaders at the same time. This radio net is also available to the commander to use with the same shortcut.
-* **Squad Leader to specific squad leader radio \(Num 1Num 9\):** you talk to one specific squad leader in your team. These channels on the net are also available to the commander to use with the same shortcut.
-* **Squad leader to Commander Radio \(/\):** you talk to the commander in private.
+* **Local speech (B or H):** you talk to players in the 3D radius space around you.
+* **Squad Radio (V or Num 0):** you talk to your squad, no matter where you are.
+* **Squad Leader to all other squad leaders radio (\*):** you talk to all squad leaders at the same time. This radio net is also available to the commander to use with the same shortcut.
+* **Squad Leader to specific squad leader radio (Num 1Num 9):** you talk to one specific squad leader in your team. These channels on the net are also available to the commander to use with the same shortcut.
+* **Squad leader to Commander Radio (/):** you talk to the commander in private.
 
-PR Mumble comes installed together with PR:BF2. It runs alongside the game installation and does all client side tasks automatically for you such as starting and connecting you to the right mumble-server. Players have the choice to configure their communication settings to their satisfaction just like the previous version. This includes input and output devices, volumes and the keyboard shortcuts. The two most important keys are default: Local channel \(H\) and squad radio net \(0 on the numpad\).The main keyboard shortcuts can be edited in the PR Launcher also via the options menu under the PR Mumble tab.
+PR Mumble comes installed together with PR:BF2. It runs alongside the game installation and does all client side tasks automatically for you such as starting and connecting you to the right mumble-server. Players have the choice to configure their communication settings to their satisfaction just like the previous version. This includes input and output devices, volumes and the keyboard shortcuts. The two most important keys are default: Local channel (H) and squad radio net (0 on the numpad).The main keyboard shortcuts can be edited in the PR Launcher also via the options menu under the PR Mumble tab.
 
-It’s recommended that you also check the main settings panel directly within the mumble application to make sure it’s all correctly set-up. To do this, locate the PR Dogtags in the system tray next to the Windows system clock \(PR has to be running\), click on the icon to open the mumble interface then locate settings at the top. After that the settings panel will appear and you can configure your input and output audio devices and alter more keyboard shortcuts and other settings.
+It’s recommended that you also check the main settings panel directly within the mumble application to make sure it’s all correctly set-up. To do this, locate the PR Dogtags in the system tray next to the Windows system clock (PR has to be running), click on the icon to open the mumble interface then locate settings at the top. After that the settings panel will appear and you can configure your input and output audio devices and alter more keyboard shortcuts and other settings.
 
 {% figure "../assets/mumblelogo.png" %}
 Mumble's icon in window's system tray.
@@ -183,7 +183,7 @@ Here are a couple of forum links from realitymod.com to use for various common r
 | **N** | Switch zoom level of minimap |
 | **Q** | Display main radio-rose |
 | **T** | Display secondary radio-rose |
-| **Left alt** | Show/hide 3D markers \(only visible within 50m\) |
+| **Left alt** | Show/hide 3D markers (only visible within 50m) |
 | **C** | Toggle BUIS / Change camera |
 | **End/grave** | Console |
 
@@ -204,7 +204,7 @@ Here are a couple of forum links from realitymod.com to use for various common r
 | --- | --- |
 | **E** | Enter / Exit vehicle or emplacement |
 | **WSAD** | Basic movement |
-| **Left Ctrl** | Crouch \(hold\) |
+| **Left Ctrl** | Crouch (hold) |
 | **Z** | Toggle prone |
 | **Space** | Jump |
 | **Left Shift** | Sprint / Vehicle Boost |
@@ -215,7 +215,7 @@ Here are a couple of forum links from realitymod.com to use for various common r
 | --- | --- |
 | **F1-F8** | Switch Vehicle Position |
 | **X** | increase zoom magnification / flares |
-| **6-9** | Camera Positions \(helicopters and aircraft only\) |
+| **6-9** | Camera Positions (helicopters and aircraft only) |
 | **R** | Reload |
 | **F** | Cycle Weapons |
 | **1-9** | Select Weapon |
@@ -230,10 +230,10 @@ Here are a couple of forum links from realitymod.com to use for various common r
 | **Page Up** | Accept request |
 | **Page Down** | Deny request |
 | **B or H** | PR Mumble Proximity Local Channel |
-| **V or 0 \(numpad\)** | PR Mumble Squad Radio Channel |
-| **1-9 \(numpad\)** | PR Mumble Individual Squad Leader Radio Channel |
-| **\*\(numpad\)** | PR Mumble All Squad Leader Radio Channel |
-| **/\(numpad\)** | PR Mumble Commander Radio Channel |
+| **V or 0 (numpad)** | PR Mumble Squad Radio Channel |
+| **1-9 (numpad)** | PR Mumble Individual Squad Leader Radio Channel |
+| **\*(numpad)** | PR Mumble All Squad Leader Radio Channel |
+| **/(numpad)** | PR Mumble Commander Radio Channel |
 
 **Mumble Keys**
 

@@ -11,7 +11,7 @@
 * **Internet:** 256 kbps o conexión superior para partidas en línea.
 * **Software:** .NET Framework 4.
 * **Perifeicos:** Mouse, Teclado.
-* **Opcional:** Joystick, Audífonos, Micrófono \(fuertemente recomendado para la comunicación por voz\)
+* **Opcional:** Joystick, Audífonos, Micrófono (fuertemente recomendado para la comunicación por voz)
 
 ## Instalación del Juego
 
@@ -23,13 +23,13 @@ Tendrás que descargar el instalador completo de PR: BF2 desde la página web. N
 
 Hay 2 métodos de instalación. Puede usar la **Aplicación Download Assistant** ue hace que sea mucho más fácil instalar PR: BF2 o puede descargar e instalar manualmente el instalador a través de un Torrent. Con cualquiera de los métodos hay 2 pasos: Descargar e instalar:
 
-**1\) Descarga**
+**1) Descarga**
 
 El Asistente de descarga descargará el instalador utilizando el protocolo Torrent. Así que asegúrese de que su ISP no bloquee esto. Simplemente descargue el Asistente de descarga de nuestra [sección de descargas de PR: BF2](http://www.realitymod.com/downloads) y siga las instrucciones de la aplicación. 
 
-Si descargó la versión Torrent  \(y ahora el Asistente de descarga)\), esta **NO** es la instalación completa. Utiliza el pequeño archivo .torrent con un cliente BitTorrent para descargar realmente el archivo .iso completo. Recomendamos [qBittorrent](http://www.qbittorrent.org/download.php). Una vez que el torrent se haya descargado a través del software Torrent seleccionado, se le presentará una carpeta con todos los archivos de instalación, continúe con el paso 2 después de que la aplicación finalice la descarga.
+Si descargó la versión Torrent  (y ahora el Asistente de descarga)), esta **NO** es la instalación completa. Utiliza el pequeño archivo .torrent con un cliente BitTorrent para descargar realmente el archivo .iso completo. Recomendamos [qBittorrent](http://www.qbittorrent.org/download.php). Una vez que el torrent se haya descargado a través del software Torrent seleccionado, se le presentará una carpeta con todos los archivos de instalación, continúe con el paso 2 después de que la aplicación finalice la descarga.
 
-**2\) Instalación**
+**2) Instalación**
 La carpeta descargada que ahora tiene a través del Asistente de descarga, o la descarga manual de Torrent , tiene un archivo setup.exe. Inicie este para comenzar el proceso de instalación. Sin embargo, el Asistente de descarga tiene un sistema automatizado, por lo que después de la descarga
 debe haber un botón para iniciar la instalación automáticamente. 
 
@@ -119,19 +119,19 @@ En el  menú principal del Launcher en la parte inferior se visualizaran nuevos 
 
 ## PR Mumble
 
-En el juego, Mumble es el programa que se usa para comunicarse el uno al otro en PR: BF2, que reemplaza el sistema de voz del BF2 vanilla sobre IP \(VOIP\). La principal característica única de PR Mumble es que su principal método de comunicación se transmite dentro del espacio 3D, que es direccional y basado en la proximidad. Esto se llama locales. Lo que esto significa es que todos los jugadores de tu equipo pueden hablar entre sí si están cerca, y puedes escuchar en qué dirección están hablando, de manera similar, puedes juzgar qué tan lejos están, como en la vida real.
+En el juego, Mumble es el programa que se usa para comunicarse el uno al otro en PR: BF2, que reemplaza el sistema de voz del BF2 vanilla sobre IP (VOIP). La principal característica única de PR Mumble es que su principal método de comunicación se transmite dentro del espacio 3D, que es direccional y basado en la proximidad. Esto se llama locales. Lo que esto significa es que todos los jugadores de tu equipo pueden hablar entre sí si están cerca, y puedes escuchar en qué dirección están hablando, de manera similar, puedes juzgar qué tan lejos están, como en la vida real.
 
-Después de unirte a un escuadron obtienes acceso al Canal de Radio del Escuadron, que te permite transmitir a las otras personas que estén dentro de tu escuadron sin importar donde estés en el mapa. El líder de la Escuadron también tiene acceso a un adicional Canal de Radio que les permite comunicarse directamente con el Comandante, globalmente a todos los líderes de escuadron, y directamente de forma individual a un líder de otro escuadron. Cuando se utiliza un canal de radio, un “bip” de transmisión se escuchara cuando se active y desactive el radio  \(que se puede activar en las opciones de audio del Launcher\).  Las teclas por defecto para transmitir por el mumble son las siguientes:
+Después de unirte a un escuadron obtienes acceso al Canal de Radio del Escuadron, que te permite transmitir a las otras personas que estén dentro de tu escuadron sin importar donde estés en el mapa. El líder de la Escuadron también tiene acceso a un adicional Canal de Radio que les permite comunicarse directamente con el Comandante, globalmente a todos los líderes de escuadron, y directamente de forma individual a un líder de otro escuadron. Cuando se utiliza un canal de radio, un “bip” de transmisión se escuchara cuando se active y desactive el radio  (que se puede activar en las opciones de audio del Launcher).  Las teclas por defecto para transmitir por el mumble son las siguientes:
 
-* **Hablar por local \(B or H\):** Tú hablas a los otros jugadores en un radio 3D alrededor de ti.
-* **Radio del Escuadron \(V or Num 0\):** Hablas con tu escuadron, no importa dónde te encuentres.
-* **Radio General de los Líderes de Escuadrones\(\*\):** Hablas a todos los líderes de los escuadrones al mismo tiempo, este canal de radio también está disponible para el comandante con el mismo atajo.
-* **Líder de escuadron a un líder de otro escuadron específico  \(Num 1Num 9\):** hablas a un líder de escuadron específico dentro de tu equipo, esta canal de radio también está disponible para el comandante con el mismo atajo.
-* **Radio de Líder de escuadron al Comandante  \(/\):** Hablas al comandante en privado.
+* **Hablar por local (B or H):** Tú hablas a los otros jugadores en un radio 3D alrededor de ti.
+* **Radio del Escuadron (V or Num 0):** Hablas con tu escuadron, no importa dónde te encuentres.
+* **Radio General de los Líderes de Escuadrones(\*):** Hablas a todos los líderes de los escuadrones al mismo tiempo, este canal de radio también está disponible para el comandante con el mismo atajo.
+* **Líder de escuadron a un líder de otro escuadron específico  (Num 1Num 9):** hablas a un líder de escuadron específico dentro de tu equipo, esta canal de radio también está disponible para el comandante con el mismo atajo.
+* **Radio de Líder de escuadron al Comandante  (/):** Hablas al comandante en privado.
 
-PR Mumble viene instalado junto con PR: BF2 desde la v1.0. El programa inicia junto la instalación del juego y realiza todas las tareas del cliente automáticamente por ti tal como iniciar y conectarte al servidor correcto de mumble. Los jugadores tienen la opción de cambiar la configuración de comunicación a su placer justo como la versión anterior. Esto incluye dispositivos de entrada y salida, Volumen y atajos del teclado. Las dos teclas más importantes por defecto son: Canal Local \(H\) y canal de Escuadron \(0 on the numpad\).Las principales teclas pueden ser editadas en el PR Launcher dentro de opciones en la pestaña PR Mumble.
+PR Mumble viene instalado junto con PR: BF2 desde la v1.0. El programa inicia junto la instalación del juego y realiza todas las tareas del cliente automáticamente por ti tal como iniciar y conectarte al servidor correcto de mumble. Los jugadores tienen la opción de cambiar la configuración de comunicación a su placer justo como la versión anterior. Esto incluye dispositivos de entrada y salida, Volumen y atajos del teclado. Las dos teclas más importantes por defecto son: Canal Local (H) y canal de Escuadron (0 on the numpad).Las principales teclas pueden ser editadas en el PR Launcher dentro de opciones en la pestaña PR Mumble.
 
-Se recomienda que usted revise el panel de ajustes dentro de la aplicación de mumble para asegurarse que es tiene la mejor configuración. Para hacer esto, localiza las chapas de PR cerca del sistema de reloj de Windows  \(PR tiene que estar iniciado\), haz click en el icono para abrir el interface de Mumble luego busca “ajustes” en la parte superior. Después de eso el panel de ajustes aparecerá y podrás configurar tus dispositivos de audio de entrada y salida así como otros atajos del teclado y otras opciones.
+Se recomienda que usted revise el panel de ajustes dentro de la aplicación de mumble para asegurarse que es tiene la mejor configuración. Para hacer esto, localiza las chapas de PR cerca del sistema de reloj de Windows  (PR tiene que estar iniciado), haz click en el icono para abrir el interface de Mumble luego busca “ajustes” en la parte superior. Después de eso el panel de ajustes aparecerá y podrás configurar tus dispositivos de audio de entrada y salida así como otros atajos del teclado y otras opciones.
 
 {% figure "../assets/mumblelogo.png" %}
 Mumble's icon in window's system tray.
@@ -182,7 +182,7 @@ Aquí tienes un par de enlaces al foro de realitymod.com para usar por varias ra
 | **N** | Cambiar nivel de zoom del mini mapa  |
 | **Q** | Muestra la principal radio-menu  |
 | **T** | Muestra la secundaria radio-menu  |
-| **Alt Iazquierdo** | Muestra/Esconde las marcas 3D \(Solo visibles a los 50m\) |
+| **Alt Iazquierdo** | Muestra/Esconde las marcas 3D (Solo visibles a los 50m) |
 | **C** | Cambiar Mira / Cambiar Cámara  |
 | **Fin/°** | Consola |
 
@@ -203,7 +203,7 @@ Aquí tienes un par de enlaces al foro de realitymod.com para usar por varias ra
 | --- | --- |
 | **E** | Entrar / Salir del vehículo o emplazamiento  |
 | **WSAD** | Movimiento Básico  |
-| **Ctrl Iazquierdo** | Agacharse  \(Sostener\) |
+| **Ctrl Iazquierdo** | Agacharse  (Sostener) |
 | **Z** | Tirarse al Suelo  |
 | **Space** | Saltar |
 | **Left Shift** | Correr / Impulsar Vehículo   |
@@ -214,7 +214,7 @@ Aquí tienes un par de enlaces al foro de realitymod.com para usar por varias ra
 | --- | --- |
 | **F1-F8** | Seleccionar posición dentro del Vehículo |
 | **X** | Incremento del zoom / bengalas  |
-| **6-9** | Posición de Cámara \(Solo en Helicópteros y Aviones\) |
+| **6-9** | Posición de Cámara (Solo en Helicópteros y Aviones) |
 | **R** | Recargar |
 | **F** | Ciclo de Armas |
 | **1-9** | Seleccionar Armas |
@@ -229,10 +229,10 @@ Aquí tienes un par de enlaces al foro de realitymod.com para usar por varias ra
 | **Repag** | Aceptar orden / petición  |
 | **Avpag** | Aceptar orden / petición  |
 | **B or H** | PR Mumble Canal de radio local  |
-| **V or 0 \(numpad\)** | PR Mumble Canal de radio del escuadrón  |
-| **1-9 \(numpad\)** | PR Mumble Canal directo de líder del escuadrón |
-| **\*\(numpad\)** | PR Mumble Radio General para los lideres de escuadrón  |
-| **/\(numpad\)** | PR Mumble Radio para Comandante   |
+| **V or 0 (numpad)** | PR Mumble Canal de radio del escuadrón  |
+| **1-9 (numpad)** | PR Mumble Canal directo de líder del escuadrón |
+| **\*(numpad)** | PR Mumble Radio General para los lideres de escuadrón  |
+| **/(numpad)** | PR Mumble Radio para Comandante   |
 
 **Teclas Mumble**
 

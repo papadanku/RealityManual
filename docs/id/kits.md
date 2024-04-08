@@ -107,8 +107,8 @@ Untuk meminta kit, harus melakukan sesuai urutan spesifik:
 
 | Urutan Penting untuk Meminta Kit |
 | --- |
-| 1. Tekan dan tahan tombol **Secondary Radio key /\(T/\)** \((akan memunculkan _Comm Rose_\), |
-| 2. Pilih opsi tengah dari Comm Rose \(**REQUEST / DROP KIT"**\) lalu **left-click**. Ini akan membuka menu list semua kit. |
+| 1. Tekan dan tahan tombol **Secondary Radio key /(T/)** ((akan memunculkan _Comm Rose_), |
+| 2. Pilih opsi tengah dari Comm Rose (**REQUEST / DROP KIT"**) lalu **left-click**. Ini akan membuka menu list semua kit. |
 | 3. Arahkan mouse ke kit yang diinginkan dan **left-click** untuk versi standar ATAU **right-click** untuk yang alternatif |
 | 4. Jika seluruh kondisi terpenuhi, muncul sebuah text kuning bertuliskan **“Your kit has been ALLOCATED and is at your feet”**. untuk mengambil kit tersebut **Tekan tombol G** |
 
@@ -146,8 +146,8 @@ Lakukan urutan-urutan berikut (kit warga sipil/_civilian_):
 
 | Urutan-Urutan Penting untuk Menjatuhkan Kit |
 | --- |
-| 1. **Tekan dan tahan tombol Secondary Radio key /\(T/\)** |
-| 2. Pilih opsi tengah _Comm Rose_ \(**REQUEST / DROP KIT"**\) lalu klik kanan. Nanti akan ada kit yang tidak terlihat di bawah. |
-| 3. untuk mengambil **tekan tombol \(G\)** |
+| 1. **Tekan dan tahan tombol Secondary Radio key /(T/)** |
+| 2. Pilih opsi tengah _Comm Rose_ (**REQUEST / DROP KIT"**) lalu klik kanan. Nanti akan ada kit yang tidak terlihat di bawah. |
+| 3. untuk mengambil **tekan tombol (G)** |
 
 Perlu diketahui bahwa kit yang dijatuhkan akan hilang setelah 5-10 menit dan nantinya akan tersedia lagi untuk squad/tim.

@@ -8,7 +8,7 @@ Die Hauptaufgabe des Kommandanten ist es, das Team zu koordinieren und den Einsa
 
 Der Kommandant kann die Anfrage eines Gebietsangriffs \*\* bestätigen oder ablehnen. Wenn ein Squad Leader eine Artillerieanfrage einreicht, kann der Kommandant mit der rechten Maustaste auf das Icon klicken und es akzeptieren oder ablehnen. Danach wird die Anforderung dem Team bestätigt. Der Area-Angriff ist alle 30 Minuten verfügbar. Für Aufständische und ihren ähnlichen Mörserangriff sind es normalerweise 20 Minuten zwischen möglichen Schlägen. Um zu sehen, wann Artillerie / Mörser wieder verfügbar sind, können Sie oben links im Kommandantenfenster nachsehen und den Streifen mit AREA ATTACK sehen.
 
-Um das Team in Zusammen zu halten, konzentriert sich der Commander ausschließlich auf die Lieferung von Orders \*\* an jeden Squad. Er kann die Teammitglieder alternativ unterstützen, indem er sie gut über Situationen außerhalb ihres Einsatzbereiches informiert \(AO \), indem er die feindliche Truppenbewegungen auf der Karte mit Hilfe verschiedenen Markern durch Rechtsklick auf der Karte bestätigt:
+Um das Team in Zusammen zu halten, konzentriert sich der Commander ausschließlich auf die Lieferung von Orders \*\* an jeden Squad. Er kann die Teammitglieder alternativ unterstützen, indem er sie gut über Situationen außerhalb ihres Einsatzbereiches informiert (AO ), indem er die feindliche Truppenbewegungen auf der Karte mit Hilfe verschiedenen Markern durch Rechtsklick auf der Karte bestätigt:
 
 *  **Befehle**    _**Zerstöre** : Entferne freundliche FOBs._   **Markierung entfernen:**  Entferne unerwünschte freundliche Markierungen von der Karte.
 *  **UAV:**  Einsatz einer Aufklärungsdrohne an der Position.  _\* Wegpunkt:_  Platziere einen Wegpunktmarker. Sie können bis zu 7 von ihnen platzieren. Jeder ist mit einem Buchstaben gekennzeichnet. Diese verschwinden nicht. 
@@ -20,7 +20,7 @@ Um das Team in Zusammen zu halten, konzentriert sich der Commander ausschließli
 > Mögliche Kommandos, Gruppen Befehle und Symbole die der Commander vervenden kann.
 
 * **Gruppen Befehle**
-  * Die gleichen Marker sind für Squad Leader verfügbar. Wenn Sie einen Trupp im linken Menü auswählen, können Sie diese anfordern. Wenn sie mit  \( **PAGE UP**   akzeptieren\), wird der Squads-Marker ersetzt. ****
+  * Die gleichen Marker sind für Squad Leader verfügbar. Wenn Sie einen Trupp im linken Menü auswählen, können Sie diese anfordern. Wenn sie mit  ( **PAGE UP**   akzeptieren), wird der Squads-Marker ersetzt. ****
 
 ![](../assets/build.png)**bauen** 
 
@@ -39,11 +39,11 @@ Marker können nicht immer platziert werden. Oben links ist eine Leiste mit  **M
 
 Wenn die Squad Leader glauben, dass der Commander nicht effizient genug ist, haben sie die Möglichkeit, eine Meuterei zu starten. Wenn es gelingt, kann ein neuer Spieler diese Position einnehmen.
 
-Der  **Commander Rally Point**  kann vom gesamten Team genutzt werden. Um diesen RP zu errichten, benötigt der Kommandant mindestens 6 Spieler in der Nähe von ihm \(einer davon muss ein Gruppenführer sein\), um die RP zu platzieren. Dieser RP ist im Gefechtsmodus nicht verfügbar und mindestens 12 Spieler müssen im Team des Kommandanten sein. Der RP bleibt aktiv, solange sich der Kommandant innerhalb eines Radius von 100m vom Sammelpunkt befindet. Alle anderen Regeln, die im Kapitel "Squad Leader" beschrieben sind, gelten auch für den Kommandanten-Sammelpunkt.
+Der  **Commander Rally Point**  kann vom gesamten Team genutzt werden. Um diesen RP zu errichten, benötigt der Kommandant mindestens 6 Spieler in der Nähe von ihm (einer davon muss ein Gruppenführer sein), um die RP zu platzieren. Dieser RP ist im Gefechtsmodus nicht verfügbar und mindestens 12 Spieler müssen im Team des Kommandanten sein. Der RP bleibt aktiv, solange sich der Kommandant innerhalb eines Radius von 100m vom Sammelpunkt befindet. Alle anderen Regeln, die im Kapitel "Squad Leader" beschrieben sind, gelten auch für den Kommandanten-Sammelpunkt.
 
 ## UAV
 
-Der Kommandant der konventionellen Streitkräfte und die Miliz sind in der Lage, ein  **unbemanntes Luftfahrzeug  \(UAV \)**  vom Kommandoposten oder dem gepanzerten Kommandofahrzeug \(ACV \) des Teams aus zu steuern. Das UAV in PR: BF2 deckt die feindlichen Positionen nicht automatisch auf, sondern gibt dem Kommandanten die Möglichkeit, das Schlachtfeld visuell aus der Vogelperspektive zu beobachten. Der Kommandant kann die Kamera des UAV steuern, während er in konstanter Höhe kreuzt.
+Der Kommandant der konventionellen Streitkräfte und die Miliz sind in der Lage, ein  **unbemanntes Luftfahrzeug  (UAV )**  vom Kommandoposten oder dem gepanzerten Kommandofahrzeug (ACV ) des Teams aus zu steuern. Das UAV in PR: BF2 deckt die feindlichen Positionen nicht automatisch auf, sondern gibt dem Kommandanten die Möglichkeit, das Schlachtfeld visuell aus der Vogelperspektive zu beobachten. Der Kommandant kann die Kamera des UAV steuern, während er in konstanter Höhe kreuzt.
 
 Das UAV wird gestartet, indem der UAV-Marker auf der Befehlszuordnung platziert wird. Dies kann durch Drücken des UAV-Symbols oben links im Commander-Bildschirm oder durch Rechtsklick auf die Karte und das Platzieren des UAV-Symbols erfolgen. Sie müssen das ACV-Fahrzeug in der Hauptbasis Ihres Teams betreten, um es zu bedienen.
 

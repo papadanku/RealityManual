@@ -6,7 +6,7 @@ Quando si gioca nelle fazioni degli insorti iracheni, di Hamas o dei talebani, i
 Un civile.
 {% endfigure %}
 
-I civili sono vincolati da particolari **regole d'ingaggio** \(ROE\). Le forze di Coalizione non possono aprire il fuoco contro i civili che si trovano al di fuori delle regole d'ingaggio, rischiando pesanti penalizzazioni. Invece devono **arrestarli** o attendere che diventino un bersaglio legittimo.
+I civili sono vincolati da particolari **regole d'ingaggio** (ROE). Le forze di Coalizione non possono aprire il fuoco contro i civili che si trovano al di fuori delle regole d'ingaggio, rischiando pesanti penalizzazioni. Invece devono **arrestarli** o attendere che diventino un bersaglio legittimo.
 
 Per arrestare un civile, un giocatore deve utilizzare le fascette o il fucile a canna liscia con una cartuccia di gomma.
 
@@ -14,7 +14,7 @@ Per arrestare un civile, un giocatore deve utilizzare le fascette o il fucile a 
 
 Se sparate a un civile al di fuori delle ROE, affronterete diverse penalità:
 
-* Dopo la vostra prossima morte, tornerete in vita 120 secondi per ogni civile colpito \(si accumula fino a 5 minuti di ritardo aggiuntivo\)
+* Dopo la vostra prossima morte, tornerete in vita 120 secondi per ogni civile colpito (si accumula fino a 5 minuti di ritardo aggiuntivo)
 * Non potrete richiedere kit per 10 minuti
 * Il vostro punteggio viene ridotto a 0 e l'uccisione non verrà elencata nel punteggio
 * La vostra fazione perde 10 punti di intelligence
@@ -26,7 +26,7 @@ D'altra parte, sparare a un civile all'interno delle ROE causerà:
 
 Investire i civili con un veicolo o ucciderli mentre usano un rampino comporterà comunque una penalità se fatto al di fuori delle ROE.
 
-## Regole d'Ingaggio \(ROE\)
+## Regole d'Ingaggio (ROE)
 
 Un civile è considerato all'interno delle ROE e quindi può essere ucciso se si verificano una qualsiasi di queste condizioni:
 
@@ -39,7 +39,7 @@ Un civile è considerato all'interno delle ROE e quindi può essere ucciso se si
 
 ## Diventare un Civile
 
-Per diventare un civile, devi prima nascere come soldato non armato o semplicemente rilasciare il tuo kit \(Premi T e click destro\). In secondo luogo, come già menzionato nella sezione precedente, devi attendere 2 minuti dopo la tua nascita o il rilascio del tuo equipaggiamento.
+Per diventare un civile, devi prima nascere come soldato non armato o semplicemente rilasciare il tuo kit (Premi T e click destro). In secondo luogo, come già menzionato nella sezione precedente, devi attendere 2 minuti dopo la tua nascita o il rilascio del tuo equipaggiamento.
 
 
 ## Veicoli civili
@@ -51,7 +51,7 @@ Un veicolo è considerato civile e quindi non può essere distrutto se:
 * È vuoto
 * Non ha un'arma
 * È stato usato l'ultima volta più di 1 minuto fa
-* Non ha nemici nelle vicinanze \(entro 3 metri\)
+* Non ha nemici nelle vicinanze (entro 3 metri)
 
 La mancata osservanza di queste ROE comporterà:
 

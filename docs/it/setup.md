@@ -12,7 +12,7 @@ Raccomandati Vega 6, Intel Xe G4, AMD Radeon RX 550, Nvidia GT 1030 o simili.
 * **Internet:** richiesta una connessione **Stabile** a 256 kbps o superiore per giocare online. Utilizzare il WiFi potrebbe causare crash del gioco causato da un alta perdita di pacchetti.
 * **Software:** .NET Framework 4.6.
 * **Input:** Mouse, Tastiera.
-* **Opzionali:** Joystick, Cuffie, microfono \(Fortemente consigliato per la comunicazione vocale\).
+* **Opzionali:** Joystick, Cuffie, microfono (Fortemente consigliato per la comunicazione vocale).
 
 ## Installazione del gioco
 
@@ -24,13 +24,13 @@ Devi scaricare il programma di installazione completo di PR:BF2 dal nostro sito 
 
 Ci sono 2 metodi di installazione. Puoi utilizzare **l'applicazione Download Assistant**, che semplifica molto l'installazione di PR:BF2, oppure puoi scaricare e installare manualmente il programma di installazione tramite un **Torrent**. In entrambi i metodi, ci sono 2 fasi: Download e Installazione:
 
-**1\) Download**
+**1) Download**
 
 Il Download Assistant scaricherà l'Installer utilizzando il protocollo Torrent. Assicurati che questo non sia bloccato dal tuo ISP. Scarica semplicemente il Download Assistant dalla nostra [Sezione Download di PR:BF2](http://www.realitymod.com/downloads) e segui le istruzioni nell'applicazione. 
 
 Se hai scaricato la versione Torrent (e ora anche il Download Assistant), questa NON è l'installazione completa. Usa il piccolo file .torrent con un client BitTorrent per scaricare effettivamente il file .iso completo. Raccomandiamo [qBittorrent](http://www.qbittorrent.org/download.php). Una volta che il torrent è stato scaricato tramite il software Torrent selezionato, ti verrà presentata una cartella con tutti i file di installazione, passa al passo 2 dopo che l'applicazione ha completato il download.
 
-**2\) Installazione**
+**2) Installazione**
 
 La cartella scaricata che hai ora tramite il Download Assistant o il download manuale tramite Torrent contiene un file _setup.exe_. Avvia questo file per avviare il processo di installazione. Tuttavia, il Download Assistant ha un sistema automatizzato, quindi dopo il download dovrebbe esserci un pulsante per avviare l'installazione automaticamente.
 
@@ -123,11 +123,11 @@ Nel gioco, Mumble è il programma che utilizziamo per comunicare tra di noi in P
 
 Dopo esserti unito a una squadra, ottieni accesso alla Rete Radio di quella squadra, che ti permette di trasmettere ad altri giocatori della tua squadra ovunque tu sia sulla mappa di gioco. I capisquadra hanno anche accesso a una Rete Radio aggiuntiva che consente loro di comunicare direttamente con il comandante, globalmente con tutti gli altri capisquadra e direttamente con un caposquadra specifico. Quando si utilizza una rete radio, si sentirà un segnale di trasmissione quando si attiva e disattiva la radio (che può essere attivato nelle opzioni audio del launcher). I tasti predefiniti per la trasmissione su Mumble sono i seguenti:
 
-* **Comunicazione locale \(B o H\):** parli con i giocatori nello spazio tridimensionale circostante.
-* **Radio di squadra \(V o Tasto Num 0\):** parli con la tua squadra, ovunque tu sia.
-* **Radio del caposquadra a tutti gli altri capisquadra \(\*\):** parli con tutti i capisquadra contemporaneamente. Questa rete radio è anche disponibile per il comandante, utilizzabile con lo stesso tasto.
-* **Radio del caposquadra a un caposquadra specifico \(Tasto Num 1 a Num 9\):** parli con un caposquadra specifico nella tua fazione. Questi canali sulla rete sono disponibili anche per il comandante utilizzabili con gli stessi tasti.
-* **Radio del caposquadra al comandante \(/\):** parli con il comandante in privato.
+* **Comunicazione locale (B o H):** parli con i giocatori nello spazio tridimensionale circostante.
+* **Radio di squadra (V o Tasto Num 0):** parli con la tua squadra, ovunque tu sia.
+* **Radio del caposquadra a tutti gli altri capisquadra (\*):** parli con tutti i capisquadra contemporaneamente. Questa rete radio è anche disponibile per il comandante, utilizzabile con lo stesso tasto.
+* **Radio del caposquadra a un caposquadra specifico (Tasto Num 1 a Num 9):** parli con un caposquadra specifico nella tua fazione. Questi canali sulla rete sono disponibili anche per il comandante utilizzabili con gli stessi tasti.
+* **Radio del caposquadra al comandante (/):** parli con il comandante in privato.
 
 Il PR Mumble viene installato insieme a PR:BF2. si attiva parallelamente all'installazione del gioco e svolge automaticamente tutte le operazioni lato client, come ad esempio avviarsi e connettersi al server Mumble corretto. I giocatori hanno la possibilità di configurare le loro impostazioni di comunicazione a loro piacimento, proprio come nella versione precedente. Ciò include dispositivi di input e output, volumi e tasti di scelta rapida. I due tasti più importanti sono predefiniti: canale locale (H) e rete radio di squadra (0 sul tastierino numerico). Le principali scorciatoie da tastiera possono essere modificate anche nel Launcher di PR tramite il menu delle opzioni nella scheda PR Mumble.
 
@@ -192,7 +192,7 @@ Ecco alcuni link ai forum di realitymod.com per varie ragioni comuni:
 | **N** | Cambia livello di zoom della mappa/minimappa |
 | **Q** | Visualizza il menu radiale radio principale |
 | **T** | Visualizza il menu radiale radio secondaria |
-| **Alt sinistro** | Mostra/nascondi marker 3D \(visibili solo entro 50m\) |
+| **Alt sinistro** | Mostra/nascondi marker 3D (visibili solo entro 50m) |
 | **C** | Attiva/disattiva BUIS / Cambia telecamera |
 | **Fine/Backslash** | Console comandi |
 
@@ -213,7 +213,7 @@ Ecco alcuni link ai forum di realitymod.com per varie ragioni comuni:
 | --- | --- |
 | **E** | Entra / Esci veicolo o postazione |
 | **WSAD** | Movimento di base |
-| **Ctrl Sinistro** | Accovacciati \(mantieni\) |
+| **Ctrl Sinistro** | Accovacciati (mantieni) |
 | **Z** | Posizione Prona |
 | **Barra Spaziatrice** | Salta |
 | **Shift Sinistro** | Corri / Boost Veicolo |
@@ -224,7 +224,7 @@ Ecco alcuni link ai forum di realitymod.com per varie ragioni comuni:
 | --- | --- |
 | **F1-F8** | Cambia Posto nel Veicolo |
 | **X** | Incrementa Zoom / flare |
-| **6-9** | Posizione Videocamere \(Solo per elicotteri e aerei\) |
+| **6-9** | Posizione Videocamere (Solo per elicotteri e aerei) |
 | **R** | Ricarica |
 | **F** | Cicla Armi |
 | **1-9** | Seleziona Arma |
@@ -239,10 +239,10 @@ Ecco alcuni link ai forum di realitymod.com per varie ragioni comuni:
 | **Pag Su** | Accetta richiesta |
 | **Pag Giu** | Nega richiesta |
 | **B o H** | Canale Locale di Prossimità del PR Mumble |
-| **V o 0 \(Tastierino Numerico\)** | Canale Radio di Squadra del PR Mumble |
-| **1-9 \(Tastierino Numerico\)** | Canale Radio del Capo Squadra Individuale del PR Mumble |
-| **\*\(Tastierino Numerico\)** | Canale Radio per Tutti i Capi Squadra del PR Mumble |
-| **/\(Tastierino Numerico\)** | Canale Radio del Comandante del PR Mumble |
+| **V o 0 (Tastierino Numerico)** | Canale Radio di Squadra del PR Mumble |
+| **1-9 (Tastierino Numerico)** | Canale Radio del Capo Squadra Individuale del PR Mumble |
+| **\*(Tastierino Numerico)** | Canale Radio per Tutti i Capi Squadra del PR Mumble |
+| **/(Tastierino Numerico)** | Canale Radio del Comandante del PR Mumble |
 
 **Tasti Mumble**
 

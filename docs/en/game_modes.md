@@ -1,52 +1,52 @@
 # Game Modes
 
-Project Reality:BF2 features 6 different game modes with different objectives. The common goal of all game modes is to reduce the enemy team's reinforcement points \(also referred to as tickets\) to zero. In most game modes this is achieved by wounding and killing enemies, destroying their vehicles and by capturing their control points. Colored map markers indicate your current objectives in each game mode.
+Project Reality:BF2 features 6 different game modes with different objectives. The common goal of all game modes is to reduce the enemy team's reinforcement points (also referred to as tickets) to zero. In most game modes this is achieved by wounding and killing enemies, destroying their vehicles and by capturing their control points. Colored map markers indicate your current objectives in each game mode.
 
 PR:BF2 features over 60 maps with over 400 different layers. You can find all maps and their specific map information on [http://www.realitymod.com/mapgallery/](http://www.realitymod.com/mapgallery/).
 
 Most game modes feature 4 layer variations to it with different assets and support available. The layers include:
 
-* **Infantry \(16\):** This layer usually consists of just transport and light armed vehicles, with a focus on infantry fighting.
-* **Alternative \(32\):** This is the alternative layer which features a big or small difference from standard.
-* **Standard \(64\):** This layer usually involves the entire map and all assets, as applicable to the map. This is the standard layer that can be played at all times. 
-* **Large \(128\):** This layer is designed for longer 2 hour rounds and usually contains all of the assets from the standard layer with small variations and higher ticket counts.
+* **Infantry (16):** This layer usually consists of just transport and light armed vehicles, with a focus on infantry fighting.
+* **Alternative (32):** This is the alternative layer which features a big or small difference from standard.
+* **Standard (64):** This layer usually involves the entire map and all assets, as applicable to the map. This is the standard layer that can be played at all times. 
+* **Large (128):** This layer is designed for longer 2 hour rounds and usually contains all of the assets from the standard layer with small variations and higher ticket counts.
 
-## Advance and Secure \(AAS\)
+## Advance and Secure (AAS)
 
-The AAS game mode is the closest to the original BF2 Conquest mode. The objective is to capture all of the control points \(CPs\) while maintaining more tickets than the enemy. CPs can only be captured in a linear order to simulate a shifting front line and focus engagements. CPs that are in play to be captured are indicated by an orange attack marker while those that need to be defended against enemy attacks are highlighted with a purple defend marker. If the enemy manages to capture a flag with a blue marker - usually reserved for the final flag near your main base – your team will start to bleed tickets at either a set or increasing rate of depletion. In contrast to regular Battlefield 2, the ticket bleed penalty is much harsher, and it is absolutely required to retake the flag. The bleed stops once your team manages to control the flag to the extend of the capture procedure starting for your team. Finally, a red marker next to a CP indicates an enemy flag which causes the enemy to bleed. 
+The AAS game mode is the closest to the original BF2 Conquest mode. The objective is to capture all of the control points (CPs) while maintaining more tickets than the enemy. CPs can only be captured in a linear order to simulate a shifting front line and focus engagements. CPs that are in play to be captured are indicated by an orange attack marker while those that need to be defended against enemy attacks are highlighted with a purple defend marker. If the enemy manages to capture a flag with a blue marker - usually reserved for the final flag near your main base – your team will start to bleed tickets at either a set or increasing rate of depletion. In contrast to regular Battlefield 2, the ticket bleed penalty is much harsher, and it is absolutely required to retake the flag. The bleed stops once your team manages to control the flag to the extend of the capture procedure starting for your team. Finally, a red marker next to a CP indicates an enemy flag which causes the enemy to bleed. 
 
 At least a minimum of 2 players need to be within the CP capture radius in order to seize the flag. It can take more than a minute to secure a CP depending on the ratio of attackers to defenders within the flag radius. If a CP controlled by one team is neutralized and captured by the enemy, the team will lose 30 tickets. One of the key-features of AAS is that each time the same layer is loaded, it could be a different flag-layout thanks to our randomized flag-layouts.
 
 If the attacking team doesn't have a 2 to 1 ratio to the defending team on the flag they will start losing the capturing progress.
-To view the capture progress you have to be physically present inside the capture radius of a CP as denoted on the map, and press either the key to show the Kit/Squad selection menu\(**Caps Lock**\) or the Map overlay\(**M**\) keys. The capture progress is separated into 4 bars which will fill or deplete depending on the struggle for the CP, so you will not know if you’re outnumbering the enemy until the first bar has diappeared, nor will you be informed of the enemy outnumbering your defensive force and having begun taking the CP; the only way to know is to check manually periodically. The moment a friendly CP has been neutralised(flag icon shows white, the CP belongs to neither team) by the enemy however, an audio warning will inform you and the rest of your team of a CP loss regardless of where you are. When this happens the enemy CP next in the capture chain usually cannot be taken until the lost friendly CP is fully under control.
+To view the capture progress you have to be physically present inside the capture radius of a CP as denoted on the map, and press either the key to show the Kit/Squad selection menu(**Caps Lock**) or the Map overlay(**M**) keys. The capture progress is separated into 4 bars which will fill or deplete depending on the struggle for the CP, so you will not know if you’re outnumbering the enemy until the first bar has diappeared, nor will you be informed of the enemy outnumbering your defensive force and having begun taking the CP; the only way to know is to check manually periodically. The moment a friendly CP has been neutralised(flag icon shows white, the CP belongs to neither team) by the enemy however, an audio warning will inform you and the rest of your team of a CP loss regardless of where you are. When this happens the enemy CP next in the capture chain usually cannot be taken until the lost friendly CP is fully under control.
 
 The map-markers for AAS are:
 
 * ![](../assets/defend.png) Defend Marker 
-* ![](../assets/defend%20bleed.png) Defend Marker \(with ticket bleed\) 
+* ![](../assets/defend%20bleed.png) Defend Marker (with ticket bleed) 
 * ![](../assets/attack_bleed.png) Attack Marker
-* ![](../assets/attack.png)Attack Marker \(with ticket bleed\)
+* ![](../assets/attack.png)Attack Marker (with ticket bleed)
 
 Vehicle Warfare, Skirmish & COOP use similar map markers for attack and defend.
 
-## Vehicle Warfare \(VW\)
+## Vehicle Warfare (VW)
 
-Many heavy vehicles battle for control of the map in this game mode. Players are limited to spawning with crewman kits. Only officer and pilot kits can be requested. Tickets are only influenced by how many CPs a team controls. Vehicles that are already destroyed respawn after 5 minutes. It takes at least 6 players \(inside vehicles\) to take control of a CP. Capturing works much faster than in AAS.
+Many heavy vehicles battle for control of the map in this game mode. Players are limited to spawning with crewman kits. Only officer and pilot kits can be requested. Tickets are only influenced by how many CPs a team controls. Vehicles that are already destroyed respawn after 5 minutes. It takes at least 6 players (inside vehicles) to take control of a CP. Capturing works much faster than in AAS.
 
 ## Skirmish
 
 This game mode operates on smaller scale map versions of the Advance and Secure game mode, intended for around 12-16 players. It is perfect for clan matches and small infantry engagements. Skirmish has the same rules as AAS but with smaller combat zones, usually no vehicles or deployable assets as well as fewer tickets. If a team loses a CP to the enemy they will be penalized by 10 tickets.
 
-## Command & Control \(CNC\)
+## Command & Control (CNC)
 
-This game mode features large freeform battles. There are no capturable CPs, but instead each team must place a single forward operating base \(FOB\) [\(see Deployable Structures\)](the_squad_leader.md#deployable-structures)  
+This game mode features large freeform battles. There are no capturable CPs, but instead each team must place a single forward operating base (FOB) [(see Deployable Structures)](the_squad_leader.md#deployable-structures)  
 somewhere on the map. The objective is to defend the team's FOB while trying to find and destroy the enemy FOB. When a team loses their FOB they will suffer a huge ticket penalty and continue to lose tickets until they build a new one. The FOB must be placed at least 200m from the map's borders. Building your team’s FOB closer to the map's center increases the ticket loss that the enemy will suffer while their FOB is down. Both teams can build more defenses in a bigger radius near their FOB than in other game modes.
 
-## Co-Operative \(COOP\)
+## Co-Operative (COOP)
 
 In this mode it is possible for one or more human players to march into battle alongside and against AI-controlled bots. This mode is ideal for practicing with equipment and vehicles before using them in full-scale battles with human players. To accommodate the use of bots some rules and items have been modified in this mode. Most of our maps have dedicated COOP layers.
 
-## Insurgency \(INS\)
+## Insurgency (INS)
 
 This mode is very unique in comparison to others within PR. The objective of the coalition forces (also called BluFor) is to find and the weapons caches of the opposing Insurgency faction(Also called RedFor) hidden throughout the map. The amount of caches destroyed required for the coalition forces to win varies on map and layer, most often the Insurgency has a total of 6 caches with 5 needing to be destroyed. The Insurgents win if they can protect at least 2 caches from destruction until the coalition force depletes their final ticket. For coalition forces the ticket loss rules of the AAS game mode apply, the Insurgency on the other hand has no tickets and can respawn infinitely.
 
@@ -54,15 +54,15 @@ This mode is very unique in comparison to others within PR. The objective of the
 A weapon cache.
 {% endfigure %}
 
-The Coalition troops are required to gather intelligence by killing insurgent fighters or capturing insurgent civilians [\(see The Civilian\)](the_civilian.md).
+The Coalition troops are required to gather intelligence by killing insurgent fighters or capturing insurgent civilians [(see The Civilian)](the_civilian.md).
 To capture a civilian, a Coalition player must be within a meter of the civilian and must either use a restrainer, which consists of a pair of ziptie plastic handcuffs, accessible by selecting the number 1 on your keyboard, or alternatively **using a shotgun**. This simulates immobilizing the civilian with a rubber buckshot. The coalition wins if they manage to destroy a certain amount weapons caches before they run out of time or tickets, otherwise the insurgent team wins the game. Insurgent Engineers can also repair damaged caches. The amount of caches is shown on map load and with scrolling messages on the server.
 
-To reveal the approximate location of insurgent weapons caches while playing Insurgency, intelligence has to be gathered by the coalition forces. The Coalition team needs 50 intelligence points \(IP\) to have the cache reveal itself after 5 minutes. The following list shows the amount of intelligence points gained or lost due to different actions.
+To reveal the approximate location of insurgent weapons caches while playing Insurgency, intelligence has to be gathered by the coalition forces. The Coalition team needs 50 intelligence points (IP) to have the cache reveal itself after 5 minutes. The following list shows the amount of intelligence points gained or lost due to different actions.
 
-* Insurgent killed: +1 IP \(within 300m\)
+* Insurgent killed: +1 IP (within 300m)
 * Civilian or insurgent arrested: +10 IP
-* Civilian killed \(violating rules of engagement\): -5 IP
-* Destroying vehicles with civilian close \(within 50m for the last 60 seconds\) : -50 IP
+* Civilian killed (violating rules of engagement): -5 IP
+* Destroying vehicles with civilian close (within 50m for the last 60 seconds) : -50 IP
 * Destroying unused civilian vehicles : -5 IP
 
 Jets, tanks and helicopters can't gain IP through these methods. The approximate location of the first cache is shown about 5 minutes into the round. There can be up to 2 active caches at the same time. The new location is revealed when reaching 50 intelligence points. If there are less than 32 players on the server the IP needed to reveal a cache is halved. A team can only have a maximum of 50 and a minimum of -50 IP.

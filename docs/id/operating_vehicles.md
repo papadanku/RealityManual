@@ -103,14 +103,14 @@ Kendaraan di Project Reality menggunakan sistem balistik yang realistis kpada pe
   * _Adjusting sight_: crosshair akan menandakan dimana harus membidik.
   * _Adjusting barrel_: laras akan menyesuaikan dimana posisi yang kamu arah.
 * Pandangan juru tembak (_HUD_) akan bervariasi tergantung dari spesifikasinya. Beberapa kendaraan, umumnya kendaraan generasi terdahulu, tanpa dibatasi dengan usia, hanya menampilkan _graticule overlay_ (tampilan bidikan baru) dengan garis menunjukkan poin penting bidikan yang diperlukan pada jarak tertentu.
-* Kendaraan lain mampu untuk setel bidikan laras ke nol untuk menandakan poin bidikan pada arah tembakan. Dengan menahan _commo-rose_ **\(_default_: Q\)**, penembak dapat mengatur ke jarak yang diinginkan dengan menaikkan atau menurunkan indikator jarak Penembak juga dapat menyetel ulang bidikan ke posisi semula, yang ditandai dengan - - - pada tampilan jarak pada _HUD_.
+* Kendaraan lain mampu untuk setel bidikan laras ke nol untuk menandakan poin bidikan pada arah tembakan. Dengan menahan _commo-rose_ **(_default_: Q)**, penembak dapat mengatur ke jarak yang diinginkan dengan menaikkan atau menurunkan indikator jarak Penembak juga dapat menyetel ulang bidikan ke posisi semula, yang ditandai dengan - - - pada tampilan jarak pada _HUD_.
 
 > ![](../assets/fcs_manual.png)
 >
 > Gunakan _commo-rose_ untuk mengganti jarak secara manual.
 
 * Penyetelan paling rumit yang ada di sebagian besar kendaraan modern dilengkapi dengan akses _FCS_ yang sepenuhnya otomatis, lengkap dengan _laser range finder_. ![](../assets/fcs_cap_laser.png).
-* Setelah membidik _crosshair_ pada jarak yang diinginkan, kendaraan dengan _laser range finder_ dapat digunakan dengan cara mengubah sudut pandang kamera **\(_default_: C\)** yang akan mengarahkan laras senjata ke tengah _crosshair_ secara otomatis.
+* Setelah membidik _crosshair_ pada jarak yang diinginkan, kendaraan dengan _laser range finder_ dapat digunakan dengan cara mengubah sudut pandang kamera **(_default_: C)** yang akan mengarahkan laras senjata ke tengah _crosshair_ secara otomatis.
 * Pada pojok kanan bawah HUD, terdapat tampilan jarak dan kemampuan lainnya saat ini.
 
 > ![](../assets/fcs_main.png)
@@ -122,7 +122,7 @@ Kendaraan di Project Reality menggunakan sistem balistik yang realistis kpada pe
   * ![](../assets/fcs_cap_height.png) Kompensasi ketinggian: Mengkompensasi perbedaan ketinggian antara kendaraan dan sasaran.
   * ![](../assets/fcs_cap_parallax.png) Kompensasi paralaks: Mengkompensasi ketidakselarasan antara posisi meriam dan posisi kamera penembak.
   * ![](../assets/fcs_cap_roll.png) Kompensasi kemiringan: Mengkompensasi saat kendaraan berada miring di sudut tertentu.
-* Saat mengganti ke senapan mesin _coaxial_, meriam utama secara otomatis akan mengganti _pitch_ agar tembakan berada tepat di tengah. Hal yang sama akan terjadi saat mengganti ke tipe amunisi lain. Untuk berganti antara meriam utama dan senapan mesin _coaxial_ gunakan tombol ganti senjata **\(default: F\)**.
+* Saat mengganti ke senapan mesin _coaxial_, meriam utama secara otomatis akan mengganti _pitch_ agar tembakan berada tepat di tengah. Hal yang sama akan terjadi saat mengganti ke tipe amunisi lain. Untuk berganti antara meriam utama dan senapan mesin _coaxial_ gunakan tombol ganti senjata **(default: F)**.
 * Walaupun mode operasi yang paling mudah adalah yang senjata disetel otomatis, sang penembak tetap bisa mengaturnya secara manual. Namun hal ini tidak akan mengoreksi perbedaan pembidikan (lihat bawah).
 Jika jarak ke sasaran lebih jauh dari kemampuan sang senjata, _HUD_ akan mewarnai tulisan setelan jarak dengan warna merah atau **^ ^ ^ ^** sebagai indikator kesalahan.
 * Sebagian kecil kendaraan akan menggunakan alat penaksir jarak (_laser rangefinder_) untuk mencari jarak ke sasaran, tapi senjata tidak akan bergerak agar bidikan tetap berada di tengah, tapi posisi _crosshair_ di scope akan ganti. Mengganti ke senapan mesin _coaxial_ atau tipe amunisi lain juga akan mengganti posisi _crosshair_ secara otomatis. Seperti diatas, penembak juga bisa menyetel secara manual.

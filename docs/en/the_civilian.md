@@ -7,7 +7,7 @@ When playing on the Iraqi insurgent, Hamas or Taliban faction, players can choos
 A civilian.
 {% endfigure %}
 
-Civilians are bound by particular **rules of engagement** \(ROE\). Coalition forces cannot fire agains't civilians that are outside the rules of engagement, risking heavy penalizations. Instead they must **arrest** them or wait untill they're a legit target.
+Civilians are bound by particular **rules of engagement** (ROE). Coalition forces cannot fire agains't civilians that are outside the rules of engagement, risking heavy penalizations. Instead they must **arrest** them or wait untill they're a legit target.
 
 In order for a player to arrest a civilian, it must use the restrainers or the Shotgun with a buckshot round.
 
@@ -15,7 +15,7 @@ In order for a player to arrest a civilian, it must use the restrainers or the S
 
 If you shoot a civilian outside the ROE, you will face several penalties:
 
-* After your next death you will respawn 120 seconds later per civilian shot \(stacks up to 5 minutes additional delay\)
+* After your next death you will respawn 120 seconds later per civilian shot (stacks up to 5 minutes additional delay)
 * You will not be able to request any kits for 10 minutes
 * Your score is reduced to 0 and the kill will not be listed on the scoreboard
 * Your team loses 10 intelligence points
@@ -27,7 +27,7 @@ In the other hand, shooting a civilian inside the ROE will cause:
 
 Running over civilians in a vehicle or climbing on ropes will also result in a penalty if done outside of the ROE.
 
-## Rules Of Engagement \(ROE\)
+## Rules Of Engagement (ROE)
 
 A civilian is considered inside the ROE and therefor can be killed if any of these conditions are met:
 
@@ -40,7 +40,7 @@ A civilian is considered inside the ROE and therefor can be killed if any of the
 
 ## Becoming a civilian
 
-For you to become a civilian you must first either spawn as a non-armed soldier or to simply drop your kit \(Press T and then G\). Secondly, has mentioned in the previous section, you must wait 2 minutes after you spawn or dropping your kit.
+For you to become a civilian you must first either spawn as a non-armed soldier or to simply drop your kit (Press T and then G). Secondly, has mentioned in the previous section, you must wait 2 minutes after you spawn or dropping your kit.
 
 ## Civilian vehicles
 
@@ -51,7 +51,7 @@ A vehicle is considered civilian and therefor cannot be destroyed if:
 * Is empty
 * Does not have a gun
 * Was last use more than 1 minute ago
-* Has no enemies nearby \(3 meters\)
+* Has no enemies nearby (3 meters)
 
 Failing to comply to this ROE will result:
 

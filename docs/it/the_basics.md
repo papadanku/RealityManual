@@ -8,11 +8,11 @@ Principalmente, **dovresti unirti a una squadra.** Alcuni server addirittura lo 
 * Quando inizi a giocare, è consigliabile spawnare solo come fuciliere con un'ottica a tua scelta. In questo modo puoi imparare meglio le basi fondamentali del gameplay.
 * Dopo aver imparato le basi della fanteria, puoi chiedere al tuo SL (Capo Squadra) di assegnarti un kit specializzato quando ti senti pronto per la sfida. Se vuoi provare nuove attrezzature o un veicolo, puoi farlo facilmente in modalità cooperativa (co-op) senza arrecare disagio ai membri della tua squadra o mettere a rischio le risorse della tua fazione.
 * I kit specializzati e più difficili da utilizzare sono generalmente limitati e possono essere ottenuti solo se vengono soddisfatte determinate condizioni all'interno di un plotone. Questi kit riservati sono a disponibilità limitata per la fazione e dovresti sempre chiedere prima di richiederne uno.
-* I kit possono essere richiesti dal menu principale di spawn \(come in BF2\), da una cassa di rifornimento [\(vedi Logistica\)](the_basics.md#logistica) o dalla parte posteriore di un APC / IFV. Per avere la possibilità di richiedere un kit da una cassa di rifornimento o da un veicolo, devi far parte di una squadra.
+* I kit possono essere richiesti dal menu principale di spawn (come in BF2), da una cassa di rifornimento [(vedi Logistica)](the_basics.md#logistica) o dalla parte posteriore di un APC / IFV. Per avere la possibilità di richiedere un kit da una cassa di rifornimento o da un veicolo, devi far parte di una squadra.
 
 In PR:BF2 non puoi spawnare presso ogni punto di controllo che la tua fazione controlla. I punti di spawn disponibili in PR:BF2 sono i seguenti:
 
-* **Il punto di raduno della tua squadra \(RP\)** è un cerchio verde che circonda un punto di spawn con il numero della tua squadra adiacente. La durata del punto di raduno della tua squadra dipende dalla sua posizione rispetto alla Base Operativa Avanzata \(FOB\) della tua fazione. Nota: Se spawni su un punto di raduno di un altra squadra, spawni automaticamente sul tuo punto di raduno o su una qualsiasi FOB nelle vicinanze. Se nessuno di questi è disponibile, sarai spostato alla base principale della tua fazione. Se il punto di raduno della tua fazione viene conquistato dal nemico, scomparirà. I punti di raduno sono disponibili solo per le forze convenzionali. [\(vedi Strutture Posizionabili\)](the_squad_leader.md#strutture-deployable)
+* **Il punto di raduno della tua squadra (RP)** è un cerchio verde che circonda un punto di spawn con il numero della tua squadra adiacente. La durata del punto di raduno della tua squadra dipende dalla sua posizione rispetto alla Base Operativa Avanzata (FOB) della tua fazione. Nota: Se spawni su un punto di raduno di un altra squadra, spawni automaticamente sul tuo punto di raduno o su una qualsiasi FOB nelle vicinanze. Se nessuno di questi è disponibile, sarai spostato alla base principale della tua fazione. Se il punto di raduno della tua fazione viene conquistato dal nemico, scomparirà. I punti di raduno sono disponibili solo per le forze convenzionali. [(vedi Strutture Posizionabili)](the_squad_leader.md#strutture-deployable)
 
 
 {% figure "../assets/rally.png" %}
@@ -22,7 +22,7 @@ In PR:BF2 non puoi spawnare presso ogni punto di controllo che la tua fazione co
 
 * **Punti di raduno di fazione specifici della mappa**. Di solito scadono 5 minuti dopo l'inizio del round e possono essere utilizzati da tutta la fazione. Consentono anche a un massimo di 12 persone di spawnare su di essi prima che scompaiano.
 * **Il punto di raduno del comandante**. Questo RP può essere posizionato solo dal comandante, a condizione che siano presenti più capi squadra nelle vicinanze del CO. Sulla mappa, apparirà come un punto di raduno con una "C" accanto.
-* **Base operativa avanzata posizionabile (FOB) o nascondigli** possono essere utilizzati da tutta la squadra per spawnare, ma devono essere costruiti prima di diventare operativi. Sulla mappa appariranno come punti di spawn con un triangolo verde. Diventano operativi 90 secondi dopo essere stati costruiti. Diventano inattivi per 30 secondi se è presente 1 nemico entro 10m, 2 nemici entro 50m, 4 nemici entro 100m o 8 nemici entro 150m. [\(vedi Strutture Posizionabili\)](the_squad_leader.md#strutture-deployable)
+* **Base operativa avanzata posizionabile (FOB) o nascondigli** possono essere utilizzati da tutta la squadra per spawnare, ma devono essere costruiti prima di diventare operativi. Sulla mappa appariranno come punti di spawn con un triangolo verde. Diventano operativi 90 secondi dopo essere stati costruiti. Diventano inattivi per 30 secondi se è presente 1 nemico entro 10m, 2 nemici entro 50m, 4 nemici entro 100m o 8 nemici entro 150m. [(vedi Strutture Posizionabili)](the_squad_leader.md#strutture-deployable)
 * Nel modalità di gioco "Insurgency", la fazione degli in difesa può spawnare presso le **casse armi** che non sono state rivelate al nemico, questa è chiamata cassa sconosciuta. Questo spawn viene disabilitato anche se il nemico si avvicina troppo, come per le FOB.
 
 
@@ -41,20 +41,20 @@ Veicolo Corazzato del Comando (ACV) si trova solo nelle basi principali.
 * Alcune mappe presentano **spawn con paracadute**, dove viene simulato un assalto aereo. Questi saranno visualizzati tramite marker di spawn in movimento sulla minimappa. Scegli uno di essi e spawnerai con un paracadute che si apre automaticamente.
 
 
-## Interfaccia di gioco \(HUD\)
+## Interfaccia di gioco (HUD)
 * Nell'HUD di gioco di PR:BF2, i giocatori ricevono **messaggi specifici per il giocatore** che possono essere visti solo dal giocatore stesso. Sono utilizzati per fornire feedback ai giocatori su diversi eventi in gioco, ad esempio:
   * Il motivo per cui al giocatore non è stato assegnato il kit richiesto.
   * Il motivo per cui la risorsa posizionabile richiesta dal giocatore non può essere costruita.
   * Che il giocatore deve uscire dal veicolo o dal posto attuale per evitare punizioni.
-* PR utilizza anche **Notifiche dal Quartier Generale \(HQ\)**, che vengono visualizzate come grandi testi arancioni nell'angolo in alto a sinistra dello schermo. Queste notifiche forniscono aggiornamenti sugli obiettivi attuali, il progresso della missione e altri messaggi essenziali.
+* PR utilizza anche **Notifiche dal Quartier Generale (HQ)**, che vengono visualizzate come grandi testi arancioni nell'angolo in alto a sinistra dello schermo. Queste notifiche forniscono aggiornamenti sugli obiettivi attuali, il progresso della missione e altri messaggi essenziali.
 * I messaggi diretti degli amministratori del server e alcuni tipi di notifiche di gioco appariranno in testo arancione vicino al centro dello schermo. Alcuni di questi sono solo informativi, mentre altri, in particolare i messaggi degli amministratori del server, possono richiedere la tua attenzione.
-* I **puntatori di tiro** sono stati rimossi dallo schermo. Per sparare con precisione, devi premere il tasto di mira alternativo per puntare con la tua arma, o utilizzare il BUIS per il combattimento in ambienti ravvicinati \(vedi il capitolo sulle armi\).
+* I **puntatori di tiro** sono stati rimossi dallo schermo. Per sparare con precisione, devi premere il tasto di mira alternativo per puntare con la tua arma, o utilizzare il BUIS per il combattimento in ambienti ravvicinati (vedi il capitolo sulle armi).
 * **La maggior parte delle icone 3D è stata rimossa** per tutti i giocatori. È fondamentale identificare i tuoi bersagli prima di impegnarli per evitare il fuoco amico. Imparare a distinguere diverse mimetiche, bandiere e la forma del profilo della fanteria delle fazioni ti aiuta a identificare un nemico più velocemente. Ad esempio, per individuare un Caposquadra, cerca un'antenna radio che si estende verso l'alto dal suo zaino.
-* **Non c'è una barra dello stato di salute** che indica il tuo stato vitale. [\(vedi Gestione della Salute\)](the_basics.md#health-management)
+* **Non c'è una barra dello stato di salute** che indica il tuo stato vitale. [(vedi Gestione della Salute)](the_basics.md#health-management)
 * Il **contatore di munizioni** mostra solo la modalità di fuoco dell'arma e il numero di caricatori rimanenti.
-* Per stimare la **quantità di munizioni rimaste** nel tuo caricatore, puoi aprire il menu radiale delle comunicazioni \(**Q**\) per vedere un indicatore visuale della quantità di munizioni rimaste. ![](../assets/ammo.png)
+* Per stimare la **quantità di munizioni rimaste** nel tuo caricatore, puoi aprire il menu radiale delle comunicazioni (**Q**) per vedere un indicatore visuale della quantità di munizioni rimaste. ![](../assets/ammo.png)
 * Il **medico** può vedere l'andamento del processo di cura di un soldato nell'HUD nell'angolo in basso a destra. La fanteria può vedere allo stesso modo quanto manca alla fine del processo di costruzione di un oggetto posizionabile.
-* Non ci sono **messaggi di uccisione** \(ad eccezione del fuoco amico\). Anche la schermata del punteggio non mostrerà chi è vivo o morto nella squadra nemica. Se hai bisogno di sapere se qualcuno è morto, dovresti cercare il suo corpo.
+* Non ci sono **messaggi di uccisione** (ad eccezione del fuoco amico). Anche la schermata del punteggio non mostrerà chi è vivo o morto nella squadra nemica. Se hai bisogno di sapere se qualcuno è morto, dovresti cercare il suo corpo.
 * Solo i veicoli aerei utilizzano una **mini-mappa permanente** nell'HUD. La mappa sovrapposta completa è disponibile per tutti.
 * **La mappa e il livello attuale** possono essere visualizzati nella parte superiore dello schermo quando si apre la mappa con il menu squadra/kit.
 * Utilizzando la piccola freccia verrà visualizzata la **schermata delle informazioni attuali della mappa delle risorse** di tutti i veicoli presenti sulla mappa, inclusi i tempi di respawn dei veicoli amichevoli e se spawnano con un ritardo o se respawnano dopo essere stati distrutti. I mortai o l'artiglieria fuori mappa, noti anche come attacchi ad area, sono solitamente limitati a 3 o 4 utilizzi e possono essere utilizzati solo dopo lunghi periodi di attesa.
@@ -100,7 +100,7 @@ Medicazione da campo, kit di primo soccorso ed epipen.
 
 ### Rianimazione
 
-Se non riesci a essere curato in tempo, perderai conoscenza e sullo schermo apparirà il messaggio che sei stato gravemente ferito. Ciò non significa che sei morto! Quando sei gravemente ferito, un medico può ancora rianimarti entro massimo di 5 minuti, salvando i preziosi ticket della tua fazione. Puoi utilizzare il Mumble per guidare il medico verso la tua posizione utilizzando il canale Locale \(H\) o la **Rete Radio della squadra \(0 sul tastierino numerico\).** Puoi anche fare clic su **Chiama Medico** per essere temporaneamente contrassegnato sulla mappa di ogni medico della fazione. Per rianimarti, il medico seleziona l'**epipen** dalla selezione delle armi e, con l'epipen in mano, inietta e somministra l'iniezione di epinefrina nella zona centrale del torso del giocatore svenuto cliccando e tenendo premuto il pulsante sinistro del mouse. Il giocatore tornerà quindi cosciente, ma avrà soltanto circa il 10% di salute e avrà comunque bisogno di essere curato. Il medico e il giocatore appena rianimato dovrebbero trovare un'area sicura e continuare il processo di cura lì. Se il giocatore è bloccato su un terreno irregolare o in una posizione non adatta per essere rianimato, è necessario trascinare prima il corpo ferito in una posizione migliore. Per trascinare un corpo come medico, è necessario essere in posizione accovacciata e rimanere in quella posizione. Quindi puoi utilizzare l'arma **trascina** nella selezione delle armi per iniziare a trascinare. Puoi trascinare in tutte le direzioni, anche all'indietro.
+Se non riesci a essere curato in tempo, perderai conoscenza e sullo schermo apparirà il messaggio che sei stato gravemente ferito. Ciò non significa che sei morto! Quando sei gravemente ferito, un medico può ancora rianimarti entro massimo di 5 minuti, salvando i preziosi ticket della tua fazione. Puoi utilizzare il Mumble per guidare il medico verso la tua posizione utilizzando il canale Locale (H) o la **Rete Radio della squadra (0 sul tastierino numerico).** Puoi anche fare clic su **Chiama Medico** per essere temporaneamente contrassegnato sulla mappa di ogni medico della fazione. Per rianimarti, il medico seleziona l'**epipen** dalla selezione delle armi e, con l'epipen in mano, inietta e somministra l'iniezione di epinefrina nella zona centrale del torso del giocatore svenuto cliccando e tenendo premuto il pulsante sinistro del mouse. Il giocatore tornerà quindi cosciente, ma avrà soltanto circa il 10% di salute e avrà comunque bisogno di essere curato. Il medico e il giocatore appena rianimato dovrebbero trovare un'area sicura e continuare il processo di cura lì. Se il giocatore è bloccato su un terreno irregolare o in una posizione non adatta per essere rianimato, è necessario trascinare prima il corpo ferito in una posizione migliore. Per trascinare un corpo come medico, è necessario essere in posizione accovacciata e rimanere in quella posizione. Quindi puoi utilizzare l'arma **trascina** nella selezione delle armi per iniziare a trascinare. Puoi trascinare in tutte le direzioni, anche all'indietro.
 
 {{ "Video Tutorial - Rianimazione" | youtube("auBgiI8IxWE") }}
 
@@ -136,7 +136,7 @@ Se stai esaurendo le munizioni e hai bisogno di rifornirti, vuoi un kit nuovo o 
 
 Per poterti rifornire di munizioni, dovrai avvicinarti a una delle diverse fonti di munizioni, che automaticamente riforniranno le tue armi. Queste fonti sono:
 
-* **Sacche di munizioni** - Queste si trovano nei kit del fuciliere, del miliziano, del guerrigliero e in alcuni kit degli insorti e devono essere lanciate \(click sinistro\) a terra, affinché tu o altri soldati possiate rifornirvi, o sulle postazioni \(TOW, AA, mortai\) per rifornirli.
+* **Sacche di munizioni** - Queste si trovano nei kit del fuciliere, del miliziano, del guerrigliero e in alcuni kit degli insorti e devono essere lanciate (click sinistro) a terra, affinché tu o altri soldati possiate rifornirvi, o sulle postazioni (TOW, AA, mortai) per rifornirli.
 * **Casse di munizioni** - Lasciate cadere da veicoli leggeri da trasporto, APC e IFV.
 * **Casse di rifornimenti leggere/pesanti** - Maggiori informazioni nella [sezione successiva](the_basics.md#crates)
 * **Casse d'armi** - Disponibili solo per gli insorti.
@@ -253,7 +253,7 @@ Ci sono due tipi di casse di rifornimenti in PR:BF2 - Cassa di Rifornimenti Legg
 Qui puoi vedere a sinistra la cassa di rifornimenti pesante e a destra la sua versione leggera.
 {% endfigure %}
 
-Come per il riarmo, la richiesta di kit dalle casse esaurirà le casse stesse. Ogni kit costerà 200 punti, con le casse leggere che ne hanno 1500 \(7 kit\) e quelle pesanti 3000 \(14 kit\).
+Come per il riarmo, la richiesta di kit dalle casse esaurirà le casse stesse. Ogni kit costerà 200 punti, con le casse leggere che ne hanno 1500 (7 kit) e quelle pesanti 3000 (14 kit).
 
 {% note %}
 Richiedere kit da una cassa che non ha abbastanza punti ti fornirà comunque il kit, ma la cassa verrà distrutta nel processo.
@@ -261,14 +261,14 @@ Richiedere kit da una cassa che non ha abbastanza punti ti fornirà comunque il 
 
 La Cassa di Rifornimenti Leggera può essere trasportata da:
 
-* Elicotteri Leggeri come l'Huey, il Lynx e lo Zhi-9B \(Una Cassa\)
-* Camion da Trasporto \(Una Cassa\)
+* Elicotteri Leggeri come l'Huey, il Lynx e lo Zhi-9B (Una Cassa)
+* Camion da Trasporto (Una Cassa)
 
 Mentre la Cassa di Rifornimento Pesante può essere trasportata da:
 
-* Elicotteri da Trasporto a Media Capacità come il Black Hawk, il Mi-17 e l'NH-90 \(Una Cassa\)
-* Elicotteri da Trasporto a Elevata Capacità come il Chinook, lo Zhi-8KA e l'MV-22 \(Due Casse\)
-* Camion Logistici \(Due Casse\)
+* Elicotteri da Trasporto a Media Capacità come il Black Hawk, il Mi-17 e l'NH-90 (Una Cassa)
+* Elicotteri da Trasporto a Elevata Capacità come il Chinook, lo Zhi-8KA e l'MV-22 (Due Casse)
+* Camion Logistici (Due Casse)
 
 L'appartenenza della cassa è indicata dalla bandiera sopra la cassa stessa.
 
@@ -283,12 +283,12 @@ Stazione di Riparazione
 
 ## Punteggi
 
-Il punteggio di un giocatore è diviso in punti di squadra e punti individuali. È ovvio che le attività correlate al lavoro di squadra \(costruzione, guida di veicoli, difesa/attacco di bandiere\) contribuiscono ai primi, mentre le azioni individuali \(uccidere giocatori\) contribuiscono al tuo punteggio personale.
+Il punteggio di un giocatore è diviso in punti di squadra e punti individuali. È ovvio che le attività correlate al lavoro di squadra (costruzione, guida di veicoli, difesa/attacco di bandiere) contribuiscono ai primi, mentre le azioni individuali (uccidere giocatori) contribuiscono al tuo punteggio personale.
 
 Il punteggio totale di un giocatore non può mai scendere sotto lo 0, ma il punteggio di squadra può diventare negativo. Ci sono anche moltiplicatori di punteggio quando sei, ad esempio, in un veicolo o sei un caposquadra. Ecco alcune altre aggiunte e sottrazioni di punteggio. Queste non sono tutte, ma ti danno un'idea:
 
 * Catturare un civile: **+100**
-* Uccidere un civile \(violazione delle ROE\): **-100**
+* Uccidere un civile (violazione delle ROE): **-100**
 * Distruggere il proprio obiettivo: **-100**
 * Distruggere l'obiettivo nemico: **+150**
 
@@ -297,21 +297,21 @@ Il punteggio totale di un giocatore non può mai scendere sotto lo 0, ma il punt
 
 Una postazione fissa di mortaio che può fornire supporto di fuoco indiretto su lunghe distanze. Tutte le fazioni possono sparare proiettili ad alto potenziale esplosivo. Le forze convenzionali e la milizia possono anche utilizzare proiettili a esplosione aerea e fumogeni. I mortai non possono essere costruiti su mappe più piccole di 2 km.
 
-* **Esplosivo ad Alto Potenziale \(HE\)** \(premi **1** per selezionare\): Tipo più comune di proiettile per mortaio. Causa il massimo danno diretto al bersaglio. Ideale per bersagli leggermente corazzati e posizioni fortificate.
-* **Aeree** \(premi **2** per selezionare\): Esplode in aria sopra il terreno. Copre una zona più ampia ma causa meno danni complessivi. Ideale per ingaggiare la fanteria all'interno di edifici e su terreni accidentati.
+* **Esplosivo ad Alto Potenziale (HE)** (premi **1** per selezionare): Tipo più comune di proiettile per mortaio. Causa il massimo danno diretto al bersaglio. Ideale per bersagli leggermente corazzati e posizioni fortificate.
+* **Aeree** (premi **2** per selezionare): Esplode in aria sopra il terreno. Copre una zona più ampia ma causa meno danni complessivi. Ideale per ingaggiare la fanteria all'interno di edifici e su terreni accidentati.
 
-Quando sono necessari i mortai, puoi utilizzare il calcolatore del mortaio \(premi **3** per selezionare\). La distanza dal bersaglio e la differenza di elevazione possono essere inserite nel calcolatore facendo clic sui numeri nei campi **“Range”** e **“Height”**. Per ottenere la distanza, assicurati che il marcatore del caposquadra sia sul bersaglio, quindi apri la mappa e troverai la distanza elencata sotto la mappa. Una volta terminato, fai clic sul pulsante **“Calcola”** per visualizzare l'elevazione del cannone richiesta. L'elevazione può essere regolata con i tasti W e S, mentre la deviazione viene cambiata utilizzando i tasti A e D. Quando entrambi i valori sono impostati, seleziona i proiettili richiesti e spara. Sono disponibili sia proiettili ad esplosione aerea che a impatto che condividono le munizioni.
+Quando sono necessari i mortai, puoi utilizzare il calcolatore del mortaio (premi **3** per selezionare). La distanza dal bersaglio e la differenza di elevazione possono essere inserite nel calcolatore facendo clic sui numeri nei campi **“Range”** e **“Height”**. Per ottenere la distanza, assicurati che il marcatore del caposquadra sia sul bersaglio, quindi apri la mappa e troverai la distanza elencata sotto la mappa. Una volta terminato, fai clic sul pulsante **“Calcola”** per visualizzare l'elevazione del cannone richiesta. L'elevazione può essere regolata con i tasti W e S, mentre la deviazione viene cambiata utilizzando i tasti A e D. Quando entrambi i valori sono impostati, seleziona i proiettili richiesti e spara. Sono disponibili sia proiettili ad esplosione aerea che a impatto che condividono le munizioni.
 
 {% figure "../assets/mortars.png" %}
 Interfaccia del calcolatore del mortaio.
 {% endfigure %}
 
 
-## Ponti di Supporto \(CSB\)
+## Ponti di Supporto (CSB)
 
 In some cases multiple CSBs are required to span the complete distance. In such situations, you're required to drive to the end of the incomplete bridge and deploy a new CSB and repeat untill its finish.
 
-Quando è necessario attraversare piccoli fiumi o ponti danneggiati, le forze convenzionali possono utilizzare i CSB utilizzando i loro camion logistici, che ne trasportano due. In Project Reality, i CSB possono essere utilizzati solo per riempire le buche dei ponti distrutti e in posizioni predefinite identificate da piccoli mucchi di sabbia \(ben visibili\) posizionati su un ostacolo naturale, come un fiume.
+Quando è necessario attraversare piccoli fiumi o ponti danneggiati, le forze convenzionali possono utilizzare i CSB utilizzando i loro camion logistici, che ne trasportano due. In Project Reality, i CSB possono essere utilizzati solo per riempire le buche dei ponti distrutti e in posizioni predefinite identificate da piccoli mucchi di sabbia (ben visibili) posizionati su un ostacolo naturale, come un fiume.
 
 {% note %}
 I CSB sono molto stretti, quindi guida con attenzione quando li attraversi.
@@ -346,7 +346,7 @@ Rispettivamente, marker obiettivo, costruzione, osservazione, difesa, demolizion
    * Se il bersaglio è visivamente allineato con un angolazione numerato sulla tua bussola quando ti trovi in quella direzione, comunica semplicemente quel numero.
    * Ricorda che tutte le tacche grandi della bussola equivalgono a 5 gradi. Se il bersaglio è allineato con una tacca a destra di una tacca etichettata lungo il percorso dei 75°, aggiungi 5 gradi. Quindi il bersaglio è a 80°.![](../assets/compass.png)
    * Sotto le tacche della bussola c'è un triangolo che indica la tua direzione attuale. Se sei in una squadra, l'ultimo/attuale ordine emesso dal caposquadra appare anche come una V. Se allinei la V con il triangolo, stai guardando la posizione del marker dell'ordine.
-3. Le mappe in PR:BF2 contengono **i riferimenti della griglia e sottogriglie delle coordinate**. Le etichette della griglia si trovano sul bordo superiore e sinistro della mappa. La mappa è divisa in 169 quadrati di griglia a partire da A1 nell'angolo superiore sinistro e terminando con M13 nell'angolo inferiore destro. Ogni quadrato di griglia è diviso in 9 sottogriglie. Queste sono etichettate da 1 a 9 nello stesso modo in cui è organizzato il tastierino numerico di un computer. \(Fila superiore da sinistra a destra 7, 8, 9\). Puoi comunicare le posizioni fornendo un riferimento della griglia. Per una posizione approssimativa dici solo il campo principale della griglia \(ad esempio D6\). Per posizioni precise aggiungi anche la posizione della sottogriglia \(ad esempio D6-2\). Le etichette delle griglie vengono principalmente utilizzate per comunicare posizioni tra le squadre. Quando si utilizza Mumble, la prima lettera delle coordinate di solito viene annunciata utilizzando l'alfabeto fonetico NATO. Le parole codice sono Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf, Hotel, India, Juliett, Kilo, Lima, Mike, November, Oscar, Papa, Quebec, Romeo, Sierra, Tango, Uniform, Victor, Whiskey, X-ray, Yankee e Zulu.
+3. Le mappe in PR:BF2 contengono **i riferimenti della griglia e sottogriglie delle coordinate**. Le etichette della griglia si trovano sul bordo superiore e sinistro della mappa. La mappa è divisa in 169 quadrati di griglia a partire da A1 nell'angolo superiore sinistro e terminando con M13 nell'angolo inferiore destro. Ogni quadrato di griglia è diviso in 9 sottogriglie. Queste sono etichettate da 1 a 9 nello stesso modo in cui è organizzato il tastierino numerico di un computer. (Fila superiore da sinistra a destra 7, 8, 9). Puoi comunicare le posizioni fornendo un riferimento della griglia. Per una posizione approssimativa dici solo il campo principale della griglia (ad esempio D6). Per posizioni precise aggiungi anche la posizione della sottogriglia (ad esempio D6-2). Le etichette delle griglie vengono principalmente utilizzate per comunicare posizioni tra le squadre. Quando si utilizza Mumble, la prima lettera delle coordinate di solito viene annunciata utilizzando l'alfabeto fonetico NATO. Le parole codice sono Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf, Hotel, India, Juliett, Kilo, Lima, Mike, November, Oscar, Papa, Quebec, Romeo, Sierra, Tango, Uniform, Victor, Whiskey, X-ray, Yankee e Zulu.
 4. **La scala di ciascun quadrato della griglia** è visualizzata nell'angolo in basso a destra della mappa. Una mappa da 1 km sarà indicata da una griglia da 75 m, 150 m per una mappa da 2 km e 300 m per una mappa da 4 km. Puoi facilmente stimare le distanze sulla mappa utilizzando i quadrati della griglia. La schermata della squadra del caposquadra mostra anche la distanza approssimativa al tuo marcatore di squadra corrente sotto la mappa del campo di battaglia.
 
 {% figure "../assets/grid.png" %}
@@ -355,7 +355,7 @@ Rispettivamente, marker obiettivo, costruzione, osservazione, difesa, demolizion
 
 ## Informazioni di Base sui Veicoli
 
-Molti veicoli si comportano in modo piuttosto diverso rispetto a BF2 e richiedono conoscenze avanzate per essere utilizzati. Poiché hanno anche tempi di spawn molto lunghi \(fino a 20 minuti\), è fondamentale sapere come evitare situazioni problematiche. Questa parte si concentrerà sull'illustrazione dei tipi di veicoli e su come influenzano la squadra. Per ulteriori dettagli sull'uso dei veicoli, consulta ulteriormente in questo manuale la sezione sull'Uso dei Veicoli.
+Molti veicoli si comportano in modo piuttosto diverso rispetto a BF2 e richiedono conoscenze avanzate per essere utilizzati. Poiché hanno anche tempi di spawn molto lunghi (fino a 20 minuti), è fondamentale sapere come evitare situazioni problematiche. Questa parte si concentrerà sull'illustrazione dei tipi di veicoli e su come influenzano la squadra. Per ulteriori dettagli sull'uso dei veicoli, consulta ulteriormente in questo manuale la sezione sull'Uso dei Veicoli.
 
 Ci sono molti tipi di veicoli in PR:BF2 utilizzati come classificazione. Questo non sempre coincide direttamente con il loro corrispettivo nella vita reale per motivi di gioco. L'elenco seguente mostra le principali classi di veicoli in PR:BF2:
 
@@ -365,16 +365,16 @@ Ci sono molti tipi di veicoli in PR:BF2 utilizzati come classificazione. Questo 
 * **Veicoli civili:** le forze degli insorti di PR:BF2 hanno accesso a una serie di auto civili e technical equipaggiati con mitragliatrici, lanciarazzi e cannoni anticarro SPG-9. Hanno anche un camion cassonato con un cannone antiaereo montata, camion bomba e auto bomba nel loro arsenale.
 ![](../assets/civiliancars.png)
 
-* **Camion:** ci sono varianti di trasporto e logistici. La variante di trasporto è in grado di rilasciare 1 cassa di rifornimento leggera e può ospitare un'intera squadra. La variante logistica può ospitare solo 2 soldati e può rilasciare 2 casse di rifornimento pesanti, stazioni di riparazione e ponti di supporto \(ne abbiamo parlato in precedenza\).
+* **Camion:** ci sono varianti di trasporto e logistici. La variante di trasporto è in grado di rilasciare 1 cassa di rifornimento leggera e può ospitare un'intera squadra. La variante logistica può ospitare solo 2 soldati e può rilasciare 2 casse di rifornimento pesanti, stazioni di riparazione e ponti di supporto (ne abbiamo parlato in precedenza).
 ![](../assets/truck.png)
 
-* **Veicolo per trasporto truppe corazzato \(APC\):** grandi veicoli corazzati, spesso armati con armi pesanti. Spesso non hanno la capacità di sconfiggere altri bersagli corazzati pesanti come gli IFV e i carri armati, ma sono i migliori tra tutti i tipi di veicoli nell'assistere la fanteria. Possono ospitare 2 membri dell'equipaggio \(pilota e artigliere\) e fino a 6 soldati passeggeri.
+* **Veicolo per trasporto truppe corazzato (APC):** grandi veicoli corazzati, spesso armati con armi pesanti. Spesso non hanno la capacità di sconfiggere altri bersagli corazzati pesanti come gli IFV e i carri armati, ma sono i migliori tra tutti i tipi di veicoli nell'assistere la fanteria. Possono ospitare 2 membri dell'equipaggio (pilota e artigliere) e fino a 6 soldati passeggeri.
 ![](../assets/apc.png)
 
-* **Veicolo da combattimento contro la fanteria \(IFV\):** Meglio armati e più resistenti rispetto alla maggior parte degli APC, spesso con capacità di sconfiggere bersagli corazzati pesanti con missili anticarro. Non sono sempre in grado di trasportare la fanteria. In questa categoria rientrano spesso anche i veicoli da ricognizione.
+* **Veicolo da combattimento contro la fanteria (IFV):** Meglio armati e più resistenti rispetto alla maggior parte degli APC, spesso con capacità di sconfiggere bersagli corazzati pesanti con missili anticarro. Non sono sempre in grado di trasportare la fanteria. In questa categoria rientrano spesso anche i veicoli da ricognizione.
 ![](../assets/ifv.png)
 
-* **Veicolo con missili anticarro montati \(ATM\):** Il nome parla da sé. Questi sono veicoli armati con missili anticarro per distruggere altri veicoli corazzati. Non possono trasportare la fanteria.
+* **Veicolo con missili anticarro montati (ATM):** Il nome parla da sé. Questi sono veicoli armati con missili anticarro per distruggere altri veicoli corazzati. Non possono trasportare la fanteria.
 ![](../assets/atm.png)
 
 * **Carro armato:** i nostri veicoli corazzati più pesanti. Sono equipaggiati con armamenti AP, HE e COAX.

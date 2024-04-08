@@ -12,7 +12,7 @@ Senjata harus diisi kembali secara manual (default: **R**). Menyimpangnya senjat
 
 > _Kit: Semua kit yang tidak menggunakan senjata utama yang lain atau tidak bersenjata._
 
-![cuserswouterdesktop2.png](../assets/cuserswouterdesktop2.png)**Underbarrel grenade launcher (UGL)** dipasang di bawah senjata dan digunakan untuk mengenai sasaran yang tidak dapat dijangkau dengan tembakan langsung (_direct fire_). UGL juga efektif jika digunakan untuk mengenai kendaran yang tidak memiliki lapis baja dan efektif pada jarak 200 meter dan lebih. Granat juga harus menempuh 28m sebelum granat tersebut dapat meledak, jika tidak granat tidak akan meledak. UGL juga dapat digunakan untuk meluncurkan granat asap (_smoke grenade_) yang dapat digunakan untuk menghalangi pandangan musuh. Jarak peluncur dapat diatur dengan _ladder sight_ yang terpasang pada senjata. Ketika membidik, gunakan tombol radio menu utama (default: Q) dapat digunakan untuk mengatur jarak ke sasaran (lihat Mengubah Jarak Sight). Ketika menembak sasaran yang lebih tinggi atau rendah daripada jarak yang telah ditentukan [\(lihat Mengubah Jarak Sight\)](weapons_and_equipment.md#altering-sighting-range), hal ini sangat penting untuk diperhitungkan terlebih dahulu. Pada map malam (_night map_), grenadier juga mendapatkan amunisi flare (_flare rounds_).
+![cuserswouterdesktop2.png](../assets/cuserswouterdesktop2.png)**Underbarrel grenade launcher (UGL)** dipasang di bawah senjata dan digunakan untuk mengenai sasaran yang tidak dapat dijangkau dengan tembakan langsung (_direct fire_). UGL juga efektif jika digunakan untuk mengenai kendaran yang tidak memiliki lapis baja dan efektif pada jarak 200 meter dan lebih. Granat juga harus menempuh 28m sebelum granat tersebut dapat meledak, jika tidak granat tidak akan meledak. UGL juga dapat digunakan untuk meluncurkan granat asap (_smoke grenade_) yang dapat digunakan untuk menghalangi pandangan musuh. Jarak peluncur dapat diatur dengan _ladder sight_ yang terpasang pada senjata. Ketika membidik, gunakan tombol radio menu utama (default: Q) dapat digunakan untuk mengatur jarak ke sasaran (lihat Mengubah Jarak Sight). Ketika menembak sasaran yang lebih tinggi atau rendah daripada jarak yang telah ditentukan [(lihat Mengubah Jarak Sight)](weapons_and_equipment.md#altering-sighting-range), hal ini sangat penting untuk diperhitungkan terlebih dahulu. Pada map malam (_night map_), grenadier juga mendapatkan amunisi flare (_flare rounds_).
 
 > _Kit: Grenadier_
 
@@ -111,7 +111,7 @@ Senjata harus diisi kembali secara manual (default: **R**). Menyimpangnya senjat
 
 > Kit: Pilot, semua _spawnable kit_ yang digunakan oleh tim dengan _paradrop spawn pilot_
 
-## Back Up Iron Sights \(BUIS\)
+## Back Up Iron Sights (BUIS)
 
 Back Up Iron Sights/Bidikan Besi Cadangan (BUIS) dirancang untuk menyediakan prajurit dengan cara alternatif membidik sasaran tergantung dengan situasi. Senjata yang disediakan BUIS, pemain bisa beralih di antara _sight_ cadangan dan _optic_ menggunakan **tombol Cycle Camera yang sudah ada sebelumnya (C).** Pemain dapat beralih di antara mode _sight,_ dimana ditandai oleh huruf BUIS di pojok kanan bawah, S untuk _Scope,_ B untuk BUIS. Mode BUIS bisa dialihkan kapan saja, baik anda sedang membidik atau tidak, tapi anda harus membidik ulang kembali untuk mengubah diantara mode tersebut.
 

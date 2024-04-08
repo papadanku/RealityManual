@@ -8,7 +8,7 @@ The primary task of the commander is to **coordinate** the team and to give guid
 
 The Commander can **confirm or deny request of area attack**. If a Squad Leader calls in a request for artillery, the commander can right click the icon and accept or deny it. After which the order will be confirmed to the team. The area-attack is available every 30 minutes. For insurgents and their similar mortar strike it is usually 20 minutes between possible strikes. To see when artillery/mortars are available again you can look at the top left in the commander window and see the bar with “**AREA ATTACK**” in it.
 
-To keep the team cohesive it is the commander’s sole focus to **deliver orders** to each squad. He can alternatively assist team members by keeping them well informed of situations outside their area of operations \(AO\) confirming intelligence on the map using a variety of markers by right clicking the map:
+To keep the team cohesive it is the commander’s sole focus to **deliver orders** to each squad. He can alternatively assist team members by keeping them well informed of situations outside their area of operations (AO) confirming intelligence on the map using a variety of markers by right clicking the map:
 
 * **Commands**
   * **Destroy**: Remove friendly FOBs.
@@ -23,7 +23,7 @@ Possible commands, squad orders and icons commander can use.
 {% endfigure %}
 
 * **Squad Orders**
-  * Same markers are available to Squad Leaders. When you select a squad in the left menu you can order them. If they accept \(**PAGE UP**\) it will replace thats squad’s marker. ****
+  * Same markers are available to Squad Leaders. When you select a squad in the left menu you can order them. If they accept (**PAGE UP**) it will replace thats squad’s marker. ****
 
 {% figure "../assets/build.png", "../assets/observe.png", "../assets/defendmarker.png", "../assets/demolish.png", "../assets/move.png" %}
 The build, observe, defend, demolish and move markers, respectively.
@@ -36,11 +36,11 @@ Markers cannot be placed all the time. At the top left there is a bar showing �
 
 If the Squad Leaders believe the Commander is not efficient in his duties, then they have the option to start a **mutiny**. If it succeeds, a new player can take this position.
 
-The **Commander Rally Point** can be used by the entire team. To establish this RP the Commander needs at least 6 players near him \(one of them must be a squad leader\) to place the RP. This RP is not available in the skirmish mode and at least 12 players must be on the commander's team. The RP will stay active as long as the commander is within 100m radius of the rally point. All other rules described in the Squad Leader chapter about rally points also apply for the commander rally point.
+The **Commander Rally Point** can be used by the entire team. To establish this RP the Commander needs at least 6 players near him (one of them must be a squad leader) to place the RP. This RP is not available in the skirmish mode and at least 12 players must be on the commander's team. The RP will stay active as long as the commander is within 100m radius of the rally point. All other rules described in the Squad Leader chapter about rally points also apply for the commander rally point.
 
 ## UAV
 
-The Commander of conventional forces and the militia are able to control an **Unmanned Aerial Vehicle \(UAV\)** from his team's command post or armored command vehicle \(ACV\). The UAV in PR:BF2 does not reveal enemy positions automatically but gives the commander the means to observe the battlefield visually from a bird’s eye point of view. The commander can control the UAV's camera while it cruises at a constant altitude.
+The Commander of conventional forces and the militia are able to control an **Unmanned Aerial Vehicle (UAV)** from his team's command post or armored command vehicle (ACV). The UAV in PR:BF2 does not reveal enemy positions automatically but gives the commander the means to observe the battlefield visually from a bird’s eye point of view. The commander can control the UAV's camera while it cruises at a constant altitude.
 
 The UAV is launched by placing the UAV marker on the command map. This can be done by pressing the UAV icon on the top left of the commander screen or by right clicking on the map and placing the UAV icon. Then to operate it you have to enter the ACV vehicle at the main-base of your team.
 

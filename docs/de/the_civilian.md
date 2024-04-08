@@ -4,7 +4,7 @@ Wenn sie die irakische Aufständischen oder die Hamas-Fraktion spielen, können 
 
 > ![](../assets/civiii.png) Ein Zivilist
 
-Zivilisten sind an bestimmte  **Regeln des Engagements gebunden**   \(ROE \). Koalitionsstreitkräfte können nicht gegen Zivilisten feuern, die sich außerhalb der Regeln des Engagements befinden, und riskieren schwere Bestrafungen. Stattdessen müssen sie sie festnehmen oder warten, bis sie ein legitimes Ziel sind.
+Zivilisten sind an bestimmte  **Regeln des Engagements gebunden**   (ROE ). Koalitionsstreitkräfte können nicht gegen Zivilisten feuern, die sich außerhalb der Regeln des Engagements befinden, und riskieren schwere Bestrafungen. Stattdessen müssen sie sie festnehmen oder warten, bis sie ein legitimes Ziel sind.
 
 Damit ein Spieler einen Zivilisten festnehmen kann, muss er die Rückhalter oder die Schrotflinte mit einer Schrotschuss-Patrone benutzen.
 
@@ -12,7 +12,7 @@ Damit ein Spieler einen Zivilisten festnehmen kann, muss er die Rückhalter oder
 
 Wenn Sie einen Zivilisten außerhalb der ROE erschießen, werden Sie mit mehreren Strafen konfrontiert:
 
-* Nach deinem nächsten Tod wirst du 120 Sekunden später pro Zivilschuss respawnen \(bis zu 5 Minuten zusätzliche Verzögerung \)
+* Nach deinem nächsten Tod wirst du 120 Sekunden später pro Zivilschuss respawnen (bis zu 5 Minuten zusätzliche Verzögerung )
 * Sie können keine Kits für 10 Minuten anfordern
 * Ihre Punktzahl wird auf 0 reduziert und der Kill wird nicht auf der Anzeigetafel angezeigt
 * Dein Team verliert 10 Erkenntnispunkte
@@ -24,7 +24,7 @@ Auf der anderen Seite wird das Schießen eines Zivilisten innerhalb der ROE veru
 
 Das Überfahren von Zivilisten in einem Fahrzeug oder das Töten derselben während des Aufstiegs von Leitern oder Seilen führt ebenfalls zu einer Strafe, wenn dies außerhalb der ROE geschieht.
 
-## Regeln des Engagements \(ROE\)
+## Regeln des Engagements (ROE)
 
 Ein Zivilist wird innerhalb der ROE betrachtet und kann daher getötet werden, wenn eine dieser Bedingungen erfüllt ist:
 
@@ -49,7 +49,7 @@ Ein Fahrzeug gilt als zivil und kann daher nicht zerstört werden, wenn
 * Ist leer
 * Hat keine Waffe
 * War letzte Verwendung vor mehr als 1 Minute
-* Hat keine Feinde in der Nähe \(3 Meter\)
+* Hat keine Feinde in der Nähe (3 Meter)
 
 Die Nichteinhaltung dieser ROE führt zu:
 

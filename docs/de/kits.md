@@ -15,7 +15,7 @@ Es gibt viele verschiedene Ausrüstungen in PR: BF2. Du kannst jedes freundliche
 **Spawn-fähig Unlimited kits:**
 
 * ![](../assets/rifleman.png)Der  **Schütze / Militanter Krieger / Aufständischer**  ist der Standard-Infanteriesoldat jeder Fraktion. Er ist typischerweise mit einem Sturmgewehr, Granaten und Rauch ausgerüstet, je nach Fraktion eine Munitionstasche.
-* ![](../assets/civiicon.png) **Der Zivilist**  ist ein unbewaffneter Aufständischer, der seinem Team bei der Entdeckung von Feinden helfen kann. Da er ein Zivilist ist, gibt es einige spezielle Regeln über ihn, die später in diesem Kapitel ausführlich beschrieben werden. Dieses Set ist nur für Hamas und irakische Aufständische verfügbar. [\(siehe der Zivilist\)](the_civilian.md)
+* ![](../assets/civiicon.png) **Der Zivilist**  ist ein unbewaffneter Aufständischer, der seinem Team bei der Entdeckung von Feinden helfen kann. Da er ein Zivilist ist, gibt es einige spezielle Regeln über ihn, die später in diesem Kapitel ausführlich beschrieben werden. Dieses Set ist nur für Hamas und irakische Aufständische verfügbar. [(siehe der Zivilist)](the_civilian.md)
 * ![](../assets/sapper.png)**Der aufständische Sapper**  setzt Granatenfallen und platziert IEDs. Er ist wichtig, wenn er einen Hinterhalt vorbereitet.
 
 **Spawn-fähig Special kits:**
@@ -26,31 +26,31 @@ Es gibt viele verschiedene Ausrüstungen in PR: BF2. Du kannst jedes freundliche
 **Spawn-fähig Infanterie:**
 
 * ![](../assets/breacher.png)**Der Zugangstechniker / Erkunder**  ist normalerweise der erste in vorderste  Linie für das Squad. Der Pack ist mit einem Enterhaken ausgestattet, der es seinem Team ermöglicht, hohe Hindernisse zu überwinden. Eine Schrotflinte mit Schrotschuss kann dazu verwendet werden, verschlossene Türen zu durchbrechen und Kämpfer zu verhaften. Das Kit ist auch mit kleinen C4-Ladungen ausgestattet, um verschiedene Ziele innerhalb eines Spiels zu zerstören.
-* ![](../assets/ar.png)**Der Leichte MG Schütze  \(AR \)**  bietet dem Squad Unterdrückungsfeuer und ist ideal, um die Fähigkeit des Feindes, sich zu bewegen einzuschränken und das Feuer effektiv zu erwidern.
-* ![](../assets/at.png) **Der Schütze Anti-Panzer  \(AT \)**  ist ein hochgradig tragbares Panzerabwehrsystem, das feindliche ungepanzerte und leicht gepanzerte Fahrzeuge neutralisieren kann.
+* ![](../assets/ar.png)**Der Leichte MG Schütze  (AR )**  bietet dem Squad Unterdrückungsfeuer und ist ideal, um die Fähigkeit des Feindes, sich zu bewegen einzuschränken und das Feuer effektiv zu erwidern.
+* ![](../assets/at.png) **Der Schütze Anti-Panzer  (AT )**  ist ein hochgradig tragbares Panzerabwehrsystem, das feindliche ungepanzerte und leicht gepanzerte Fahrzeuge neutralisieren kann.
 * ![](../assets/grenadier.png) **Der Grenadier**  benutzt einen Granatwerfer, um Gruppen von Feinden oder ungepanzerten Fahrzeugen in Reichweite oder in Gebäuden in schwer erreichbaren Gebieten zu bekämpfen.
 
  **Anfrage möglich unbegrenzt:** 
 
 * ![](../assets/crewman.png) **Der Crewman**  ist die einzige Klasse, der gepanzerte Fahrzeuge bedienen kann. Ausgestattet mit einer kompakten Waffe zur Selbstverteidigung.
 * ![](../assets/pilot.png) **Der Pilot**  ist die einzige Klasse, die Hubschrauber und Starrflügler betreiben kann. Dieses Kit ist mit einer Seitenwaffe für die Verteidigung und einem Fallschirm für Notfälle ausgestattet.
-* ![](../assets/unarmed.png) **Das Unbewaffnete Kit**  kann als Vermittler verwendet werden, wenn Kits mit einem anderen Squad-Mitglied ausgetauscht werden. Wenn ein Aufständischer oder ein Hamas-Spieler das unbewaffnete Set benutzt, wird er als Zivilist behandelt, nachdem er das Set fallen gelassen und ein paar Minuten gewartet hat. [\(siehe der Zivilist\)](the_civilian.md)
+* ![](../assets/unarmed.png) **Das Unbewaffnete Kit**  kann als Vermittler verwendet werden, wenn Kits mit einem anderen Squad-Mitglied ausgetauscht werden. Wenn ein Aufständischer oder ein Hamas-Spieler das unbewaffnete Set benutzt, wird er als Zivilist behandelt, nachdem er das Set fallen gelassen und ein paar Minuten gewartet hat. [(siehe der Zivilist)](the_civilian.md)
 
    **Anfragefähige Spezialkits:** 
 
-* ![](../assets/hay.png) **Der Anti-Panzer  \(HAT \)**  Soldat ist eine hochwirksame Bedrohung gegen alle Arten von Rüstungen und kann Fahrzeuge mit extremen Panzerungen auf große Entfernung zerstören.
+* ![](../assets/hay.png) **Der Anti-Panzer  (HAT )**  Soldat ist eine hochwirksame Bedrohung gegen alle Arten von Rüstungen und kann Fahrzeuge mit extremen Panzerungen auf große Entfernung zerstören.
 * ![](../assets/sniper.png) **Der Sniper**  liefert während der Erkundung Erkenntnis, um das Team über Feindbewegungen auf dem Laufenden zu halten und um auch aus großer Entfernung Ziele von hoher Priorität zu erreichen.
 * ![](../assets/spotter.png)**Der Spotter**  ist eine engagierte Beobachterrolle und ein wichtiger Assistent eines Scharfschützen. Er kann Laserpunkte platzieren und das Team mit Informationen aus dem Schlachtfeld versorgen. Er trägt auch einen Enterhaken, um sich in unerreichbaren Bereichen mit dem hohen visuellen Vorteil zu positionieren.
-* ![](../assets/aa.png)**Der Anti-Aircraft  \(AA \) Soldat**  kann feindliche Flugzeuge angreifen und abschrecken.
+* ![](../assets/aa.png)**Der Anti-Aircraft  (AA ) Soldat**  kann feindliche Flugzeuge angreifen und abschrecken.
 * ![](../assets/combat_engineer.png)  **Der Kampftechniker**  kann Minenfelder legen, feindliche Anlagen abreißen, Sprengsätze abschalten und leichte Fahrzeuge reparieren.
 
  **anfordernde Infanterie:** 
 
-* ![](../assets/ap.png) **Der Kampfschütze Anti-Personal  \(AP \)**  ist mit einer ferngesteuerten Detonations-Antipersonenmine ausgestattet, mit der man Hinterhalte setzen oder defensiv einsetzen kann.
-* ![](../assets/marskman.png)**Der Designated Marksman  \(DMR \)**  sorgt für präzises Präzisionsfeuer für seinen Squad und kann Ziele jenseits der Reichweite des Schützen anvisieren.
-* ![](../assets/mlg.png) **Der Maschinengewehrschütze  \(MMG \)**  bietet während des Einsatzes ein starkes Unterdrückungsfeuer. Er kann eine ganze Mannschaft festsetzen und ist in Reichweite tödlich.
+* ![](../assets/ap.png) **Der Kampfschütze Anti-Personal  (AP )**  ist mit einer ferngesteuerten Detonations-Antipersonenmine ausgestattet, mit der man Hinterhalte setzen oder defensiv einsetzen kann.
+* ![](../assets/marskman.png)**Der Designated Marksman  (DMR )**  sorgt für präzises Präzisionsfeuer für seinen Squad und kann Ziele jenseits der Reichweite des Schützen anvisieren.
+* ![](../assets/mlg.png) **Der Maschinengewehrschütze  (MMG )**  bietet während des Einsatzes ein starkes Unterdrückungsfeuer. Er kann eine ganze Mannschaft festsetzen und ist in Reichweite tödlich.
 
- **Abholung  \(Aufständische \):** 
+ **Abholung  (Aufständische ):** 
 
 * Verschiedene Kits mit verschiedenen Waffentypen sind als Pick Up Kits für die aufständischen Fraktionen erhältlich. Diese variieren in fast allen der oben genannten Klassen.
 
@@ -69,24 +69,24 @@ Je nach Kit-Typ, den Sie anfordern möchten, müssen Sie sich an einem der folge
 
  **Alle anfragefähigen Kits:** 
 
-* Im Lieferdepot  \(oder Befehlspost \)
+* Im Lieferdepot  (oder Befehlspost )
 * In der Vorratskiste oder im Waffen-Cache des Teams
 * Auf der Rückseite eines freundlichen APC oder IFV
 
  **Fahrzeugkits:** 
 
-* Bei einem Fahrzeug, das den angeforderten Kit benötigt, um bedient zu werden  \(Armor, Helicopter, Aircraft \)
+* Bei einem Fahrzeug, das den angeforderten Kit benötigt, um bedient zu werden  (Armor, Helicopter, Aircraft )
 
  **Das unbewaffnete Kit:**  {\#unarmed-kit}
 
 * Anfrage überall möglich
 * Sie können keine Kits anfordern, während Sie in einem Fahrzeug sind. Sie können das unbewaffnete Kit auch 15 Sekunden lang nicht anfordern, nachdem Sie ein Fahrzeug verlassen haben.
 
-Um ein begrenztes Kit an den angegebenen Orten anzufordern, müssen Sie den  **sekundären Funkschlüssel  \(T \)**  gedrückt halten und dann  **REQUEST / DROP KIT**  auswählen. Dies öffnet ein Untermenü mit einer Liste von Kits zur Auswahl. Wenn Ihre Anfrage genehmigt wurde, können Sie das neue Kit direkt zu Ihren Füßen finden und es wird Ihnen eine orangefarbene Nachricht geben:
+Um ein begrenztes Kit an den angegebenen Orten anzufordern, müssen Sie den  **sekundären Funkschlüssel  (T )**  gedrückt halten und dann  **REQUEST / DROP KIT**  auswählen. Dies öffnet ein Untermenü mit einer Liste von Kits zur Auswahl. Wenn Ihre Anfrage genehmigt wurde, können Sie das neue Kit direkt zu Ihren Füßen finden und es wird Ihnen eine orangefarbene Nachricht geben:
 
 > **"Dein Kit wurde zugeteilt und liegt dir zu Füßen"**
 
-Sie müssen die  **Pickup-Taste  \(G \)**  drücken, um es zu nehmen. Wenn deine Anfrage abgelehnt wurde, wirst du eine orangefarbene Nachricht sehen, die erklärt, warum du das Kit nicht erhalten hast:
+Sie müssen die  **Pickup-Taste  (G )**  drücken, um es zu nehmen. Wenn deine Anfrage abgelehnt wurde, wirst du eine orangefarbene Nachricht sehen, die erklärt, warum du das Kit nicht erhalten hast:
 
 > **"Du musst in der Nähe eines freundlichen SUPPLY CRATE oder APC sein, um dieses Kit anzufordern"** 
 >

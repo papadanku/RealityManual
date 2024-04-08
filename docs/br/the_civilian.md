@@ -12,9 +12,9 @@ Para que um jogador prenda um civil, ele deve usar as algemas ou a Escopeta com 
 
 > Civis que decidem cometer suicídio também são contados como presos.
 
-Se você atirar em um civil fora do ROE\(regras de engajamento\), você enfrentará várias penalidades:
+Se você atirar em um civil fora do ROE(regras de engajamento), você enfrentará várias penalidades:
 
-* Após sua próxima morte você irá reaparecer 120 segundos depois por atirar em civil \(acumula até 5 minutos de atraso adicional\)
+* Após sua próxima morte você irá reaparecer 120 segundos depois por atirar em civil (acumula até 5 minutos de atraso adicional)
 * Você não poderá solicitar kits por 10 minutos
 * Sua pontuação é reduzida a 0 e a morte não será listada no placar
 * Sua equipe perde 10 pontos de inteligência
@@ -26,7 +26,7 @@ Por outro lado, atirar em um civil dentro do ROE causará:
 
 Atropelar civis em um veículo ou matá-los enquanto subindo escadas ou cordas também resultará em uma penalidade se feito fora do ROE.
 
-## Rules Of Engagement \(ROE\)
+## Rules Of Engagement (ROE)
 
 Um civil é considerado dentro do ROE e, portanto, pode ser morto se qualquer uma dessas condições forem atendidas:
 
@@ -40,7 +40,7 @@ Um civil é considerado dentro do ROE e, portanto, pode ser morto se qualquer um
 
 ## Se tornando um civil
 
-Para você se tornar um civil, você deve primeiro aparecer como um soldado não-armado ou simplesmente largar seu kit \(Pressione T e depois G\). Em segundo lugar, mencionado na seção anterior, você deve esperar 2 minutos depois de você spawnar ou soltar o seu kit.
+Para você se tornar um civil, você deve primeiro aparecer como um soldado não-armado ou simplesmente largar seu kit (Pressione T e depois G). Em segundo lugar, mencionado na seção anterior, você deve esperar 2 minutos depois de você spawnar ou soltar o seu kit.
 
 ## Veículos Civis
 
@@ -51,7 +51,7 @@ Um veículo é considerado civil e, portanto, não pode ser destruído se:
 * Está vazio
 * Não tem uma arma
 * Foi usado por último há mais de 1 minuto
-* Não tem inimigos por perto \(3 metros \)
+* Não tem inimigos por perto (3 metros )
 
 O não cumprimento deste ROE resultará:
 

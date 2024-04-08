@@ -1,4 +1,6 @@
-site_name: My Docs
+site_name: "Project Reality: Manual"
+copyright: Copyright &copy; 2024 The Project Reality Team
+repo_url: https://github.com/papadanku/RealityManual
 
 theme:
   name: material
@@ -13,10 +15,22 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
   features:
+    - navigation.tabs
     - navigation.path
     - navigation.indexes
 
 extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/realitymod
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/realitymod
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/projectrealitymod/
+    - icon: fontawesome/brands/discord
+      link: https://discord.com/servers/project-reality-190090455973756928
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@ProjectRealityMod
   alternate:
     - name: Brazilian Portuguese (1.6.4)
       link: ./br/index.html
@@ -38,76 +52,82 @@ extra:
       lang: it
 
 nav:
-  - Home: index.md
-  - Brazilian Portuguese (1.7):
-    - br/index.md
-    - Setup: br/setup.md
-    - Basics:
-      - Modos de Jogo: br/game_modes.md
-      - O básico: br/the_basics.md
-      - Armas e Equipamentos: br/weapons_and_equipment.md
-      - Kits: br/kits.md
-      - O Líder de Esquadrão: br/the_squad_leader.md
-      - Operando Veículos: br/operating_vehicles.md
-      - O Comandante: br/commander.md
-      - O Civil: br/the_civilian.md
-  - German (1.5):
-    - de/index.md
-    - Setup: de/setup.md
-    - Basics:
-      - Spielmodi: de/game_modes.md
-      - Die Grundlagen: de/the_basics.md
-      - Waffen & Ausrüstung: de/weapons_and_equipment.md
-      - Ausrüstung: de/kits.md
-      - The Squad Leader: de/the_squad_leader.md
-      - Fahrzeug Betrieboperating vehicles: de/operating_vehicles.md
-      - Commander: de/commander.md
-      - O Civil: de/the_civilian.md
-  - English (1.7):
-    - en/index.md
-    - Setup: en/setup.md
-    - Basics:
-      - Game Modes: en/game_modes.md
-      - The Basics: en/the_basics.md
-      - Weapons & Equipment: en/weapons_and_equipment.md
-      - Kits: en/kits.md
-      - The Squad Leader: en/the_squad_leader.md
-      - Operating Vehicles: en/operating_vehicles.md
-      - The Commander: en/commander.md
-      - The Civilian: en/the_civilian.md
-  - Spanish/Español (1.7):
-    - es/index.md
-    - Setup: es/setup.md
-    - Basics:
-      - Modos de Juego: es/game_modes.md
-      - Conceptos Basicos: es/the_basics.md
-      - Armas y Equipamientos: es/weapons_and_equipment.md
-      - Kits: es/kits.md
-      - El Líder de Escuadrón: es/the_squad_leader.md
-      - Operando Vehículos: es/operating_vehicles.md
-      - EL Comandante: es/commander.md
-      - El Civil: es/the_civilian.md
-  - Indonesian (1.7):
-    - id/index.md
-    - Persiapan Bermain: id/setup.md
-    - Basics:
-      - Game Modes: id/game_modes.md
-      - The Basics: id/the_basics.md
-      - Weapons & Equipment: id/weapons_and_equipment.md
-      - Kits: id/kits.md
-      - The Squad Leader: id/the_squad_leader.md
-      - Operating Vehicles: id/operating_vehicles.md
-      - The Commander: id/commander.md
-      - The Civilian: id/the_civilian.md
-  - Italian (1.7):
-    - it/index.md
-    - Installazione: it/setup.md
-    - Basics:
-      - Modalità di gioco: it/game_modes.md
-      - Le Basi: it/the_basics.md
-      - Armi ed Equipaggiamento: it/weapons_and_equipment.md
-      - Kit: it/kits.md
-      - Il Capo Squadra: it/the_squad_leader.md
-      - Operare i Veicoli: it/operating_vehicles.md
-      - Il Comandante: it/commander.md
-      - Il Civile: it/the_civilian.md
+  - Manual:
+    - Home: index.md
+    - Brazilian Portuguese (1.7):
+      - br/index.md
+      - Setup: br/setup.md
+      - Basics:
+        - Modos de Jogo: br/game_modes.md
+        - O básico: br/the_basics.md
+        - Armas e Equipamentos: br/weapons_and_equipment.md
+        - Kits: br/kits.md
+        - O Líder de Esquadrão: br/the_squad_leader.md
+        - Operando Veículos: br/operating_vehicles.md
+        - O Comandante: br/commander.md
+        - O Civil: br/the_civilian.md
+    - German (1.5):
+      - de/index.md
+      - Setup: de/setup.md
+      - Basics:
+        - Spielmodi: de/game_modes.md
+        - Die Grundlagen: de/the_basics.md
+        - Waffen & Ausrüstung: de/weapons_and_equipment.md
+        - Ausrüstung: de/kits.md
+        - The Squad Leader: de/the_squad_leader.md
+        - Fahrzeug Betrieboperating vehicles: de/operating_vehicles.md
+        - Commander: de/commander.md
+        - O Civil: de/the_civilian.md
+    - English (1.7):
+      - en/index.md
+      - Setup: en/setup.md
+      - Basics:
+        - Game Modes: en/game_modes.md
+        - The Basics: en/the_basics.md
+        - Weapons & Equipment: en/weapons_and_equipment.md
+        - Kits: en/kits.md
+        - The Squad Leader: en/the_squad_leader.md
+        - Operating Vehicles: en/operating_vehicles.md
+        - The Commander: en/commander.md
+        - The Civilian: en/the_civilian.md
+    - Spanish/Español (1.7):
+      - es/index.md
+      - Setup: es/setup.md
+      - Basics:
+        - Modos de Juego: es/game_modes.md
+        - Conceptos Basicos: es/the_basics.md
+        - Armas y Equipamientos: es/weapons_and_equipment.md
+        - Kits: es/kits.md
+        - El Líder de Escuadrón: es/the_squad_leader.md
+        - Operando Vehículos: es/operating_vehicles.md
+        - EL Comandante: es/commander.md
+        - El Civil: es/the_civilian.md
+    - Indonesian (1.7):
+      - id/index.md
+      - Persiapan Bermain: id/setup.md
+      - Basics:
+        - Game Modes: id/game_modes.md
+        - The Basics: id/the_basics.md
+        - Weapons & Equipment: id/weapons_and_equipment.md
+        - Kits: id/kits.md
+        - The Squad Leader: id/the_squad_leader.md
+        - Operating Vehicles: id/operating_vehicles.md
+        - The Commander: id/commander.md
+        - The Civilian: id/the_civilian.md
+    - Italian (1.7):
+      - it/index.md
+      - Installazione: it/setup.md
+      - Basics:
+        - Modalità di gioco: it/game_modes.md
+        - Le Basi: it/the_basics.md
+        - Armi ed Equipaggiamento: it/weapons_and_equipment.md
+        - Kit: it/kits.md
+        - Il Capo Squadra: it/the_squad_leader.md
+        - Operare i Veicoli: it/operating_vehicles.md
+        - Il Comandante: it/commander.md
+        - Il Civile: it/the_civilian.md
+  - Downloads: https://www.realitymod.com/downloads
+  - Forums: https://www.realitymod.com/forum/
+  - Map Gallery: https://www.realitymod.com/mapgallery/
+  - PRSpy: https://www.realitymod.com/prspy/
+  - PRStats: https://prstats.realitymod.com/

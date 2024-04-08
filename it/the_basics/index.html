@@ -1,0 +1,3568 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../game_modes/">
+      
+      
+        <link rel="next" href="../weapons_and_equipment/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.17">
+    
+    
+      
+        <title>Le Basi - Project Reality: Manual</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.bcfcd587.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#le-basi" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Project Reality: Manual" class="md-header__button md-logo" aria-label="Project Reality: Manual" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Project Reality: Manual
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Le Basi
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6zm0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4zM7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+      <div class="md-header__option">
+  <div class="md-select">
+    
+    <button class="md-header__button md-icon" aria-label="Select language">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m12.87 15.07-2.54-2.51.03-.03A17.52 17.52 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11.76-2.04M18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2l-4.5-12m-2.62 7 1.62-4.33L19.12 17h-3.24Z"/></svg>
+    </button>
+    <div class="md-select__inner">
+      <ul class="md-select__list">
+        
+          <li class="md-select__item">
+            <a href="../../br/index.html" hreflang="br" class="md-select__link">
+              Brazilian Portuguese (1.6.4)
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="../../de/index.html" hreflang="de" class="md-select__link">
+              German (1.5)
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="../../en/index.html" hreflang="en" class="md-select__link">
+              English (1.7)
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="../../es/index.html" hreflang="es" class="md-select__link">
+              Spanish/Español (1.7)
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="../../id/index.html" hreflang="id" class="md-select__link">
+              Indonesian (1.7)
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="../index.html" hreflang="it" class="md-select__link">
+              Italian (1.7)
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/papadanku/RealityManual" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../.." class="md-tabs__link">
+          
+  
+    
+  
+  Manual
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="https://www.realitymod.com/downloads" class="md-tabs__link">
+        
+  
+    
+  
+  Downloads
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="https://www.realitymod.com/forum/" class="md-tabs__link">
+        
+  
+    
+  
+  Forums
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="https://www.realitymod.com/mapgallery/" class="md-tabs__link">
+        
+  
+    
+  
+  Map Gallery
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="https://www.realitymod.com/prspy/" class="md-tabs__link">
+        
+  
+    
+  
+  PRSpy
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="https://prstats.realitymod.com/" class="md-tabs__link">
+        
+  
+    
+  
+  PRStats
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Project Reality: Manual" class="md-nav__button md-logo" aria-label="Project Reality: Manual" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    Project Reality: Manual
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/papadanku/RealityManual" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1" checked>
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../.." class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Manual
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_1" id="__nav_1_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            Manual
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_2" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../br/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Brazilian Portuguese (1.7)
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_1_2" id="__nav_1_2_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_1_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_2">
+            <span class="md-nav__icon md-icon"></span>
+            Brazilian Portuguese (1.7)
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../br/setup/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Setup
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_1_2_3" id="__nav_1_2_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Basics
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            Basics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../br/game_modes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Modos de Jogo
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../br/the_basics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    O básico
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../br/weapons_and_equipment/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Armas e Equipamentos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../br/kits/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kits
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../br/the_squad_leader/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    O Líder de Esquadrão
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../br/operating_vehicles/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Operando Veículos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../br/commander/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    O Comandante
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../br/the_civilian/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    O Civil
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_3" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../de/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    German (1.5)
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_1_3" id="__nav_1_3_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_1_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_3">
+            <span class="md-nav__icon md-icon"></span>
+            German (1.5)
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../de/setup/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Setup
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_3_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_1_3_3" id="__nav_1_3_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Basics
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            Basics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../de/game_modes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Spielmodi
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../de/the_basics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Die Grundlagen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../de/weapons_and_equipment/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Waffen & Ausrüstung
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../de/kits/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ausrüstung
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../de/the_squad_leader/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Squad Leader
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../de/operating_vehicles/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Fahrzeug Betrieboperating vehicles
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../de/commander/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Commander
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../de/the_civilian/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    O Civil
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_4" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../en/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    English (1.7)
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_1_4" id="__nav_1_4_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_1_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_4">
+            <span class="md-nav__icon md-icon"></span>
+            English (1.7)
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/setup/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Setup
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_4_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_1_4_3" id="__nav_1_4_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Basics
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_4_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_4_3">
+            <span class="md-nav__icon md-icon"></span>
+            Basics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/game_modes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Game Modes
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/the_basics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Basics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/weapons_and_equipment/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Weapons & Equipment
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/kits/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kits
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/the_squad_leader/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Squad Leader
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/operating_vehicles/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Operating Vehicles
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/commander/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Commander
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/the_civilian/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Civilian
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_5" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../es/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Spanish/Español (1.7)
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_1_5" id="__nav_1_5_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_1_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_5">
+            <span class="md-nav__icon md-icon"></span>
+            Spanish/Español (1.7)
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../es/setup/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Setup
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_5_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_1_5_3" id="__nav_1_5_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Basics
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_5_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_5_3">
+            <span class="md-nav__icon md-icon"></span>
+            Basics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../es/game_modes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Modos de Juego
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../es/the_basics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Conceptos Basicos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../es/weapons_and_equipment/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Armas y Equipamientos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../es/kits/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kits
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../es/the_squad_leader/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    El Líder de Escuadrón
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../es/operating_vehicles/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Operando Vehículos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../es/commander/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    EL Comandante
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../es/the_civilian/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    El Civil
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_6" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../id/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Indonesian (1.7)
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_1_6" id="__nav_1_6_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_1_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_6">
+            <span class="md-nav__icon md-icon"></span>
+            Indonesian (1.7)
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../id/setup/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Persiapan Bermain
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_6_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_1_6_3" id="__nav_1_6_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Basics
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_6_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_6_3">
+            <span class="md-nav__icon md-icon"></span>
+            Basics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../id/game_modes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Game Modes
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../id/the_basics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Basics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../id/weapons_and_equipment/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Weapons & Equipment
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../id/kits/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kits
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../id/the_squad_leader/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Squad Leader
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../id/operating_vehicles/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Operating Vehicles
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../id/commander/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Commander
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../id/the_civilian/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Civilian
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_7" checked>
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Italian (1.7)
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_1_7" id="__nav_1_7_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_1_7_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_1_7">
+            <span class="md-nav__icon md-icon"></span>
+            Italian (1.7)
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../setup/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Installazione
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_7_3" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_1_7_3" id="__nav_1_7_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Basics
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_7_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_1_7_3">
+            <span class="md-nav__icon md-icon"></span>
+            Basics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../game_modes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Modalità di gioco
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Le Basi
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Le Basi
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#selezione-del-kit-e-spawn" class="md-nav__link">
+    <span class="md-ellipsis">
+      Selezione del Kit e spawn
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#interfaccia-di-gioco-hud" class="md-nav__link">
+    <span class="md-ellipsis">
+      Interfaccia di gioco (HUD)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#gestione-della-salute" class="md-nav__link">
+    <span class="md-ellipsis">
+      Gestione della Salute
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Gestione della Salute">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cure" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cure
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rianimazione" class="md-nav__link">
+    <span class="md-ellipsis">
+      Rianimazione
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#morte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Morte
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#re-spawn" class="md-nav__link">
+    <span class="md-ellipsis">
+      Re-spawn
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#logistica" class="md-nav__link">
+    <span class="md-ellipsis">
+      Logistica
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Logistica">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#munizioni" class="md-nav__link">
+    <span class="md-ellipsis">
+      Munizioni
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#casse-di-rifornimenti" class="md-nav__link">
+    <span class="md-ellipsis">
+      Casse di Rifornimenti
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#stazione-di-riparazione" class="md-nav__link">
+    <span class="md-ellipsis">
+      Stazione di Riparazione
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#punteggi" class="md-nav__link">
+    <span class="md-ellipsis">
+      Punteggi
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mortai" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mortai
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ponti-di-supporto-csb" class="md-nav__link">
+    <span class="md-ellipsis">
+      Ponti di Supporto (CSB)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#orientamento-sul-campo" class="md-nav__link">
+    <span class="md-ellipsis">
+      Orientamento sul Campo
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#informazioni-di-base-sui-veicoli" class="md-nav__link">
+    <span class="md-ellipsis">
+      Informazioni di Base sui Veicoli
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../weapons_and_equipment/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Armi ed Equipaggiamento
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../kits/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kit
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../the_squad_leader/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Il Capo Squadra
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../operating_vehicles/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Operare i Veicoli
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../commander/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Il Comandante
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../the_civilian/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Il Civile
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://www.realitymod.com/downloads" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Downloads
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://www.realitymod.com/forum/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Forums
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://www.realitymod.com/mapgallery/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Map Gallery
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://www.realitymod.com/prspy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    PRSpy
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://prstats.realitymod.com/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    PRStats
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#selezione-del-kit-e-spawn" class="md-nav__link">
+    <span class="md-ellipsis">
+      Selezione del Kit e spawn
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#interfaccia-di-gioco-hud" class="md-nav__link">
+    <span class="md-ellipsis">
+      Interfaccia di gioco (HUD)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#gestione-della-salute" class="md-nav__link">
+    <span class="md-ellipsis">
+      Gestione della Salute
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Gestione della Salute">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cure" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cure
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rianimazione" class="md-nav__link">
+    <span class="md-ellipsis">
+      Rianimazione
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#morte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Morte
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#re-spawn" class="md-nav__link">
+    <span class="md-ellipsis">
+      Re-spawn
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#logistica" class="md-nav__link">
+    <span class="md-ellipsis">
+      Logistica
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Logistica">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#munizioni" class="md-nav__link">
+    <span class="md-ellipsis">
+      Munizioni
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#casse-di-rifornimenti" class="md-nav__link">
+    <span class="md-ellipsis">
+      Casse di Rifornimenti
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#stazione-di-riparazione" class="md-nav__link">
+    <span class="md-ellipsis">
+      Stazione di Riparazione
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#punteggi" class="md-nav__link">
+    <span class="md-ellipsis">
+      Punteggi
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mortai" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mortai
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ponti-di-supporto-csb" class="md-nav__link">
+    <span class="md-ellipsis">
+      Ponti di Supporto (CSB)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#orientamento-sul-campo" class="md-nav__link">
+    <span class="md-ellipsis">
+      Orientamento sul Campo
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#informazioni-di-base-sui-veicoli" class="md-nav__link">
+    <span class="md-ellipsis">
+      Informazioni di Base sui Veicoli
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="le-basi">Le Basi</h1>
+<p>Principalmente, <strong>dovresti unirti a una squadra.</strong> Alcuni server addirittura lo richiedono ed espellono i giocatori solitari dopo un periodo di avvertimento. Il gioco è decisamente più divertente quando si gioca in un squadra funzionante. Se hai bisogno di aiuto, chiedi semplicemente <strong>ai giocatori nella tua squadra</strong> cosa fare. Se possibile, usa il Mumble. È comunemente usato in PR. Giocare a PR:BF2 senza un microfono non ti darà l'esperienza completa, quindi è un investimento saggio. Se nessuno risponde, prova a unirti a un altro squadra o usa la chat generale. Ci sono molti membri della comunità disponibili che danno il benvenuto ai nuovi giocatori e li aiutano. Ci aspettiamo che tu abbia una comprensione di base di BF2 quando si tratta di navigare nei menu in gioco, come il punteggio, la mappa e la selezione del kit. Puoi sempre avviare BF2 e fare il tutorial lì per familiarizzare con la sua interfaccia. Questo manuale si concentrerà sulle differenze con BF2.</p>
+<h2 id="selezione-del-kit-e-spawn">Selezione del Kit e spawn</h2>
+<ul>
+<li>Quando inizi a giocare, è consigliabile spawnare solo come fuciliere con un'ottica a tua scelta. In questo modo puoi imparare meglio le basi fondamentali del gameplay.</li>
+<li>Dopo aver imparato le basi della fanteria, puoi chiedere al tuo SL (Capo Squadra) di assegnarti un kit specializzato quando ti senti pronto per la sfida. Se vuoi provare nuove attrezzature o un veicolo, puoi farlo facilmente in modalità cooperativa (co-op) senza arrecare disagio ai membri della tua squadra o mettere a rischio le risorse della tua fazione.</li>
+<li>I kit specializzati e più difficili da utilizzare sono generalmente limitati e possono essere ottenuti solo se vengono soddisfatte determinate condizioni all'interno di un plotone. Questi kit riservati sono a disponibilità limitata per la fazione e dovresti sempre chiedere prima di richiederne uno.</li>
+<li>I kit possono essere richiesti dal menu principale di spawn (come in BF2), da una cassa di rifornimento <a href="./#logistica">(vedi Logistica)</a> o dalla parte posteriore di un APC / IFV. Per avere la possibilità di richiedere un kit da una cassa di rifornimento o da un veicolo, devi far parte di una squadra.</li>
+</ul>
+<p>In PR:BF2 non puoi spawnare presso ogni punto di controllo che la tua fazione controlla. I punti di spawn disponibili in PR:BF2 sono i seguenti:</p>
+<ul>
+<li><strong>Il punto di raduno della tua squadra (RP)</strong> è un cerchio verde che circonda un punto di spawn con il numero della tua squadra adiacente. La durata del punto di raduno della tua squadra dipende dalla sua posizione rispetto alla Base Operativa Avanzata (FOB) della tua fazione. Nota: Se spawni su un punto di raduno di un altra squadra, spawni automaticamente sul tuo punto di raduno o su una qualsiasi FOB nelle vicinanze. Se nessuno di questi è disponibile, sarai spostato alla base principale della tua fazione. Se il punto di raduno della tua fazione viene conquistato dal nemico, scomparirà. I punti di raduno sono disponibili solo per le forze convenzionali. <a href="../the_squad_leader/#strutture-deployable">(vedi Strutture Posizionabili)</a></li>
+</ul>
+<p>{% figure "../assets/rally.png" %}
+  Un punto di raduno.
+{% endfigure %}</p>
+<ul>
+<li><strong>Punti di raduno di fazione specifici della mappa</strong>. Di solito scadono 5 minuti dopo l'inizio del round e possono essere utilizzati da tutta la fazione. Consentono anche a un massimo di 12 persone di spawnare su di essi prima che scompaiano.</li>
+<li><strong>Il punto di raduno del comandante</strong>. Questo RP può essere posizionato solo dal comandante, a condizione che siano presenti più capi squadra nelle vicinanze del CO. Sulla mappa, apparirà come un punto di raduno con una "C" accanto.</li>
+<li><strong>Base operativa avanzata posizionabile (FOB) o nascondigli</strong> possono essere utilizzati da tutta la squadra per spawnare, ma devono essere costruiti prima di diventare operativi. Sulla mappa appariranno come punti di spawn con un triangolo verde. Diventano operativi 90 secondi dopo essere stati costruiti. Diventano inattivi per 30 secondi se è presente 1 nemico entro 10m, 2 nemici entro 50m, 4 nemici entro 100m o 8 nemici entro 150m. <a href="../the_squad_leader/#strutture-deployable">(vedi Strutture Posizionabili)</a></li>
+<li>Nel modalità di gioco "Insurgency", la fazione degli in difesa può spawnare presso le <strong>casse armi</strong> che non sono state rivelate al nemico, questa è chiamata cassa sconosciuta. Questo spawn viene disabilitato anche se il nemico si avvicina troppo, come per le FOB.</li>
+</ul>
+<p>{% figure "../assets/fob.png", "../assets/hideout.png", "../assets/cache-weapon.png" %}
+FOB, Nascondiglio e cassa di armi.
+{% endfigure %}</p>
+<ul>
+<li><strong>Il tuo quartier generale, base principale della tua fazione o FOB permanente.</strong> Questo è l'unico punto di spawn sempre disponibile.</li>
+</ul>
+<p>{% figure "../assets/acv.png" %}
+Veicolo Corazzato del Comando (ACV) si trova solo nelle basi principali.
+{% endfigure %}</p>
+<ul>
+<li>Alcune mappe presentano <strong>spawn con paracadute</strong>, dove viene simulato un assalto aereo. Questi saranno visualizzati tramite marker di spawn in movimento sulla minimappa. Scegli uno di essi e spawnerai con un paracadute che si apre automaticamente.</li>
+</ul>
+<h2 id="interfaccia-di-gioco-hud">Interfaccia di gioco (HUD)</h2>
+<ul>
+<li>Nell'HUD di gioco di PR:BF2, i giocatori ricevono <strong>messaggi specifici per il giocatore</strong> che possono essere visti solo dal giocatore stesso. Sono utilizzati per fornire feedback ai giocatori su diversi eventi in gioco, ad esempio:</li>
+<li>Il motivo per cui al giocatore non è stato assegnato il kit richiesto.</li>
+<li>Il motivo per cui la risorsa posizionabile richiesta dal giocatore non può essere costruita.</li>
+<li>Che il giocatore deve uscire dal veicolo o dal posto attuale per evitare punizioni.</li>
+<li>PR utilizza anche <strong>Notifiche dal Quartier Generale (HQ)</strong>, che vengono visualizzate come grandi testi arancioni nell'angolo in alto a sinistra dello schermo. Queste notifiche forniscono aggiornamenti sugli obiettivi attuali, il progresso della missione e altri messaggi essenziali.</li>
+<li>I messaggi diretti degli amministratori del server e alcuni tipi di notifiche di gioco appariranno in testo arancione vicino al centro dello schermo. Alcuni di questi sono solo informativi, mentre altri, in particolare i messaggi degli amministratori del server, possono richiedere la tua attenzione.</li>
+<li>I <strong>puntatori di tiro</strong> sono stati rimossi dallo schermo. Per sparare con precisione, devi premere il tasto di mira alternativo per puntare con la tua arma, o utilizzare il BUIS per il combattimento in ambienti ravvicinati (vedi il capitolo sulle armi).</li>
+<li><strong>La maggior parte delle icone 3D è stata rimossa</strong> per tutti i giocatori. È fondamentale identificare i tuoi bersagli prima di impegnarli per evitare il fuoco amico. Imparare a distinguere diverse mimetiche, bandiere e la forma del profilo della fanteria delle fazioni ti aiuta a identificare un nemico più velocemente. Ad esempio, per individuare un Caposquadra, cerca un'antenna radio che si estende verso l'alto dal suo zaino.</li>
+<li><strong>Non c'è una barra dello stato di salute</strong> che indica il tuo stato vitale. <a href="./#health-management">(vedi Gestione della Salute)</a></li>
+<li>Il <strong>contatore di munizioni</strong> mostra solo la modalità di fuoco dell'arma e il numero di caricatori rimanenti.</li>
+<li>Per stimare la <strong>quantità di munizioni rimaste</strong> nel tuo caricatore, puoi aprire il menu radiale delle comunicazioni (<strong>Q</strong>) per vedere un indicatore visuale della quantità di munizioni rimaste. <img alt="" src="../../assets/ammo.png" /></li>
+<li>Il <strong>medico</strong> può vedere l'andamento del processo di cura di un soldato nell'HUD nell'angolo in basso a destra. La fanteria può vedere allo stesso modo quanto manca alla fine del processo di costruzione di un oggetto posizionabile.</li>
+<li>Non ci sono <strong>messaggi di uccisione</strong> (ad eccezione del fuoco amico). Anche la schermata del punteggio non mostrerà chi è vivo o morto nella squadra nemica. Se hai bisogno di sapere se qualcuno è morto, dovresti cercare il suo corpo.</li>
+<li>Solo i veicoli aerei utilizzano una <strong>mini-mappa permanente</strong> nell'HUD. La mappa sovrapposta completa è disponibile per tutti.</li>
+<li><strong>La mappa e il livello attuale</strong> possono essere visualizzati nella parte superiore dello schermo quando si apre la mappa con il menu squadra/kit.</li>
+<li>Utilizzando la piccola freccia verrà visualizzata la <strong>schermata delle informazioni attuali della mappa delle risorse</strong> di tutti i veicoli presenti sulla mappa, inclusi i tempi di respawn dei veicoli amichevoli e se spawnano con un ritardo o se respawnano dopo essere stati distrutti. I mortai o l'artiglieria fuori mappa, noti anche come attacchi ad area, sono solitamente limitati a 3 o 4 utilizzi e possono essere utilizzati solo dopo lunghi periodi di attesa.</li>
+</ul>
+<p>{% figure "../assets/assets.png" %}
+Schermata delle informazioni sulle risorse nella mappa attuale.
+{% endfigure %}</p>
+<ul>
+<li><strong>I ticket rimanenti</strong> della tua fazione e il tempo rimasto possono essere visualizzati solo dalla schermata della squadra. I ticket dei nemici non vengono visualizzati.</li>
+<li><strong>La soppressione</strong> avviene quando sei sotto il fuoco ravvicinato di fucili, armi pesanti o esplosioni vicine. Lo schermo apparirà più scuro e diventerà sfocato, come se stesse tremando. Questo effetto simula la capacità ridotta di reagire con un fuoco efficace mentre sei soppresso dal nemico.</li>
+</ul>
+<p>{% figure "../assets/suppresion.png" %}
+Vista normale in gioco (sinistra) ed effetto di soppressione in azione (destra).
+{% endfigure %}
+* Nella parte inferiore sinistra dello schermo si trova una barra della stamina. Correre e saltare ridurranno la stamina disponibile, mentre non correre o saltare la ripristinerà lentamente. Quando la stamina è stata ridotta al 50% o meno, indicato da lampeggio, non sarà più possibile correre, ma sarà ancora possibile saltare.
+* Quando un giocatore è <strong>morto</strong>, non sarà possibile rianimarlo, e verrà visualizzata una schermata nera con un messaggio apposito invece di vedere l'ambiente circostante.
+* La tua arma devierà e diventerà imprecisa a seconda della quantità di movimento che effettui. Quando punti con la mira, comparirà un <strong>indicatore di deviazione</strong> che mostra il livello attuale di deviazione dell'arma. Più ampio è l'indicatore, maggiore è la dispersione; se i due punti si sovrappongono, la tua arma ha raggiunto un livello di deviazione basso, ma potrebbe richiedere ancora uno o due secondi per raggiungere la massima precisione.
+* Il <strong>sistema automatico di individuazione sulla mappa</strong> è stato rimosso per la fanteria. I mezzi aerei possono ancora essere individuati da un veicolo.
+* Gli ufficiali possono inviare un <strong>rapporto di contatto</strong> al comandante o utilizzare la loro radio per posizionare manualmente un marker sulla mappa della fazione. I soldati normali possono solo urlare un avvertimento generico quando individuano unità nemiche.
+* Il <strong>Menu Radiale della Radio (predefinito: Q &amp; T)</strong> contiene elementi con due funzioni. Cliccando con il pulsante sinistro su <strong>"RICARICA / CESSARE IL FUOCO"</strong> comunica alle persone intorno a te che stai cambiando il caricatore, mentre un click destro indica loro di smettere di sparare. Lo stesso principio si applica a <strong>"GO,GO,GO / RITIRATA"</strong> e ad altri elementi del menu simili.</p>
+<p>{% figure "../assets/commorose.png" %}
+Menu radiale di comunicazione quando si preme Q.
+{% endfigure %}
+* Puoi <strong>orientarti sulla mappa</strong> utilizzando l'indicatore di direzione che troverai intorno all'icona del tuo giocatore.
+* Mentre hai equipaggiato determinate armi o equipaggiamenti, il <strong>menu radiale delle comunicazioni della radio principale</strong> viene sostituita da un piccolo menu contestuale. Quando hai in mano una medicazione da campo o il kit di primo soccorso, puoi utilizzare il comando "PRIMO SOCCORSO" per informare i giocatori nelle vicinanze che hai intenzione di fornirgli assistenza medica. Molte equipaggiamenti e alcune armi utilizzano menu contestuali.</p>
+<h2 id="gestione-della-salute">Gestione della Salute</h2>
+<p>Le armi in Project Reality sono estremamente letali ed è solo una questione di tempo prima che tu venga colpito e inizi a sanguinare. Anche se l'HUD in PR non contiene una barra della salute, una volta che la tua salute scende al di sotto del 75%, ci saranno segnali visivi di avvertimento come un'oscuramento periodico dello schermo con effetto di visione a tunnel. Con meno del 25% di HP, sentirai tosse e respirazione affannata, a 10 HP perderai la stamina e non potrai riguadagnarla a meno che non guarisca sopra almeno quei 10 HP. Mentre stai sanguinando, l'effetto di visione a tunnel e l'oscuramento dello schermo diventeranno sempre più intensi, limitando ulteriormente la tua efficacia in combattimento.</p>
+<h3 id="cure">Cure</h3>
+<p>Una volta in stato di sanguinamento, continuerai a perdere punti vita nel tempo fino a quando alla fine perderai i sensi. Per prevenirlo, hai due modi per curarti da solo. Quasi ogni kit include una <strong>medicazione da campo</strong> che viene selezionata premendo il tasto apposito o scorrendo la selezione delle armi. Premendo il tasto di fuoco la lancerai a terra. Nel giro di uno o due secondi, la medicazione da campo scomparirà e il giocatore che sta accanto ad essa recupererà il 25% della sua salute totale. Tuttavia, La medicazione in sé non ferma il sanguinamento. Se, dopo l'applicazione della garza, la tua salute è ancora inferiore al 75%, continuerai a sanguinare e avrai semplicemente guadagnato un po' di tempo, quindi dovrai applicare più medicazioni da campo se disponibili, o cercarle sui corpi dei nemici se necessario.</p>
+<p>La stragrande maggioranza dei kit viene rilasciata con una sola medicazione da campo per l'uso di emergenza; i giocatori fanno grande affidamento sui medici della loro squadra o della loro fazione per guarire completamente. I Medici e i Collaboratori sono gli unici a cui viene fornito un kit di pronto soccorso per trattare gli alleati senza bisogno di medicazioni da campo. Quando sei ferito, utilizza il Mumble o il menu radiale delle comunicazioni ("Q") per richiamare l'attenzione del tuo medico con l'opzione "Medico". Tuttavia, a differenza di BF2, il medico non può semplicemente lanciare il kit di pronto soccorso a terra, ma deve invece tenerlo in mano, essere in contatto con il giocatore da curare e quindi tenere premuto il pulsante sinistro del mouse. Un suono che simula la strappatura delle garze indicherà che il primo soccorso è in fase di applicazione. Per essere completamente curati ci vogliono circa 15 secondi, quindi assicurati di farlo in un luogo sicuro.</p>
+<p>{% figure "../assets/fielddressing.png", "../assets/kit.png", "../assets/epipen.png" %}
+Medicazione da campo, kit di primo soccorso ed epipen.
+{% endfigure %}</p>
+<h3 id="rianimazione">Rianimazione</h3>
+<p>Se non riesci a essere curato in tempo, perderai conoscenza e sullo schermo apparirà il messaggio che sei stato gravemente ferito. Ciò non significa che sei morto! Quando sei gravemente ferito, un medico può ancora rianimarti entro massimo di 5 minuti, salvando i preziosi ticket della tua fazione. Puoi utilizzare il Mumble per guidare il medico verso la tua posizione utilizzando il canale Locale (H) o la <strong>Rete Radio della squadra (0 sul tastierino numerico).</strong> Puoi anche fare clic su <strong>Chiama Medico</strong> per essere temporaneamente contrassegnato sulla mappa di ogni medico della fazione. Per rianimarti, il medico seleziona l'<strong>epipen</strong> dalla selezione delle armi e, con l'epipen in mano, inietta e somministra l'iniezione di epinefrina nella zona centrale del torso del giocatore svenuto cliccando e tenendo premuto il pulsante sinistro del mouse. Il giocatore tornerà quindi cosciente, ma avrà soltanto circa il 10% di salute e avrà comunque bisogno di essere curato. Il medico e il giocatore appena rianimato dovrebbero trovare un'area sicura e continuare il processo di cura lì. Se il giocatore è bloccato su un terreno irregolare o in una posizione non adatta per essere rianimato, è necessario trascinare prima il corpo ferito in una posizione migliore. Per trascinare un corpo come medico, è necessario essere in posizione accovacciata e rimanere in quella posizione. Quindi puoi utilizzare l'arma <strong>trascina</strong> nella selezione delle armi per iniziare a trascinare. Puoi trascinare in tutte le direzioni, anche all'indietro.</p>
+<p>{{ "Video Tutorial - Rianimazione" | youtube("auBgiI8IxWE") }}</p>
+<h3 id="morte">Morte</h3>
+<p>A volte i giocatori non saranno rianimabili, ad esempio quando un giocatore viene ucciso in un veicolo. Se sei stato recentemente rianimato e diventi nuovamente gravemente ferito entro 2 minuti, non sarai rianimabile una seconda volta. Se sei ferito e non sarai rianimato entro 5 minuti, morirai. Se non c'è possibilità di essere rianimato, fai clic su <strong>Give Up</strong> nella schermata di spawn. Ora sullo schermo verrà visualizzato che sei morto e puoi prepararti a respawnare. Il tempo trascorso d'attesa prima di aver fatto clic su "Give Up" conta come parte del tuo tempo totale di respawn.</p>
+<h3 id="re-spawn">Re-spawn</h3>
+<p>Il tempo di respawn di un giocatore è compreso tra 45 e 60 secondi, con la possibilità di applicare penalità temporali aggiuntive. Il tempo trascorso in attesa di un medico viene sottratto da questo periodo. Dopo la morte di un giocatore, è necessario attendere almeno 5 secondi prima di respawnare. Le azioni seguenti influenzano il tempo di respawn:</p>
+<ul>
+<li><strong>Morte del giocatore:</strong> +3 secondi</li>
+<li><strong>Cattura di un CP o distruzione di un obiettivo:</strong> -3 secondi</li>
+<li><strong>Esecuzione di un'azione difensiva:</strong> -1 secondo</li>
+<li><strong>Creazione di un base operativa avanzata:</strong> -10 secondi</li>
+</ul>
+<p>Viene applicata una penalità temporale aggiuntiva al tempo di respawn solo alla successiva morte del giocatore, con un accumulo fino a 5 minuti massimi, a causa delle seguenti azioni:</p>
+<ul>
+<li><strong>Teamkill:</strong> 15 secondi per teamkill</li>
+<li><strong>Suicidio:</strong> 15 secondi</li>
+<li><strong>Arresto subito come civile:</strong> 90 secondi</li>
+<li><strong>Uccisione di un civile violando le ROE:</strong> 120 secondi per ogni civile</li>
+<li><strong>Distruggere la propria cassa di armi:</strong> 300 secondi</li>
+</ul>
+<p>Per selezionare un punto di respawn, apri la mappa dei respawn e seleziona una posizione idonea contrassegnata da un punto bianco. Una volta scelto il punto di respawn ideale, è necessario fare clic sul pulsante <strong>Respawn</strong> nell'angolo inferiore destro della schermata della mappa per respawnare nel gioco.</p>
+<h2 id="logistica">Logistica</h2>
+<p>Se stai esaurendo le munizioni e hai bisogno di rifornirti, vuoi un kit nuovo o semplicemente vuoi costruire delle postazioni, la logistica è essenziale per mantenere in vita la tua squadra.</p>
+<h3 id="munizioni">Munizioni</h3>
+<p>Per poterti rifornire di munizioni, dovrai avvicinarti a una delle diverse fonti di munizioni, che automaticamente riforniranno le tue armi. Queste fonti sono:</p>
+<ul>
+<li><strong>Sacche di munizioni</strong> - Queste si trovano nei kit del fuciliere, del miliziano, del guerrigliero e in alcuni kit degli insorti e devono essere lanciate (click sinistro) a terra, affinché tu o altri soldati possiate rifornirvi, o sulle postazioni (TOW, AA, mortai) per rifornirli.</li>
+<li><strong>Casse di munizioni</strong> - Lasciate cadere da veicoli leggeri da trasporto, APC e IFV.</li>
+<li><strong>Casse di rifornimenti leggere/pesanti</strong> - Maggiori informazioni nella <a href="./#crates">sezione successiva</a></li>
+<li><strong>Casse d'armi</strong> - Disponibili solo per gli insorti.</li>
+<li><strong>Deposito dei veicoli</strong> - Presente in tutte le basi principali, inoltre, ti fornisce anche cure mediche.</li>
+</ul>
+<p>{% figure "../assets/ammobag.png", "../assets/supplycrate.png", "../assets/inscrate.png", "../assets/cacahe.png", "../assets/depott.png" %}
+Sacca di munizioni, Cassa di munizioni delle forze di coalizione, Cassa di munizioni degli insorti, Cassa d'armi e Deposito dei veicoli.
+{% endfigure %}</p>
+<p>Tieni presente che, ad eccezione delle <strong>Cassa d'armi</strong> e del <strong>Deposito dei veicoli</strong>, tutte le altre fonti di munizioni sono <strong>limitate</strong>. Alla fine queste fonti si esauriranno e scompariranno. È anche possibile che le fonti di munizioni si esauriscano prima che tu sia completamente riarmato.</p>
+<p><strong>Sacche di munizioni</strong>, <strong>casse munizioni</strong> e <strong>casse rifornimenti</strong> utilizzano i <strong>punti di rifornimento</strong> per determinare per quanto tempo possono essere utilizzate. Puoi scoprire i punti di rifornimento rimanenti delle <strong>casse di rifornimenti</strong> e delle <strong>casse di munizioni</strong> guardandole per un secondo. Appariranno quindi accanto alla bussola.</p>
+<p>Le varie armi disponibili in PR richiedono quantità diverse di punti di rifornimento per essere rifornite. Gli oggetti utility come il rampino, i flare a inciampo e le medicazioni costano meno da rifornire ad ogni uso rispetto agli ordigni esplosivi come i missili anticarro, le granate a frammentazione e le mine. Consulta le tabelle seguenti per il costo di rifornimento in base alla categoria e al tipo di arma corrispondente:</p>
+<p><strong>Armi da fuoco</strong></p>
+<table>
+<thead>
+<tr>
+<th><strong>Tipo</strong></th>
+<th><strong>Costo in punti di rifornimento</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Pistole a bassa capacità</strong></td>
+<td>15</td>
+</tr>
+<tr>
+<td><strong>Pistole ad alta capacità</strong></td>
+<td>30</td>
+</tr>
+<tr>
+<td><strong>PDW</strong></td>
+<td>30</td>
+</tr>
+<tr>
+<td><strong>SMG</strong></td>
+<td>45</td>
+</tr>
+<tr>
+<td><strong>Fucili a pompa primari</strong></td>
+<td>50</td>
+</tr>
+<tr>
+<td><strong>Fucili a pompa dei breacher</strong></td>
+<td>25</td>
+</tr>
+<tr>
+<td><strong>Fucili</strong></td>
+<td>60</td>
+</tr>
+<tr>
+<td><strong>Cecchini</strong></td>
+<td>40</td>
+</tr>
+<tr>
+<td><strong>LMG</strong></td>
+<td>150</td>
+</tr>
+<tr>
+<td><strong>GPMG</strong></td>
+<td>200</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Lanciagranate/Granate da Fucile</strong></p>
+<table>
+<thead>
+<tr>
+<th><strong>Tipo</strong></th>
+<th><strong>Costo in punti di rifornimento</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Anti-Carro x1</strong></td>
+<td>70</td>
+</tr>
+<tr>
+<td><strong>Anti-Carro x2</strong></td>
+<td>140</td>
+</tr>
+<tr>
+<td><strong>Bengala</strong></td>
+<td>60</td>
+</tr>
+<tr>
+<td><strong>Frammentazione a basso potenziale</strong></td>
+<td>80</td>
+</tr>
+<tr>
+<td><strong>Frammentazione ad alto potenziale</strong></td>
+<td>120</td>
+</tr>
+<tr>
+<td><strong>Fumogene</strong></td>
+<td>60</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Strumenti e Attrezzi</strong></p>
+<table>
+<thead>
+<tr>
+<th><strong>Tipo</strong></th>
+<th><strong>Costo in punti di rifornimento</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Sacca di munizioni</strong></td>
+<td>200</td>
+</tr>
+<tr>
+<td><strong>C4 a basso potenziale</strong></td>
+<td>45</td>
+</tr>
+<tr>
+<td><strong>C4 ad alto potenziale</strong></td>
+<td>75</td>
+</tr>
+<tr>
+<td><strong>flare a inciampo</strong></td>
+<td>20</td>
+</tr>
+<tr>
+<td><strong>Rampino</strong></td>
+<td>40</td>
+</tr>
+<tr>
+<td><strong>Epipen</strong></td>
+<td>60</td>
+</tr>
+<tr>
+<td><strong>Medicazione da campo x1</strong></td>
+<td>30</td>
+</tr>
+<tr>
+<td><strong>Medicazione da campo x3</strong></td>
+<td>75</td>
+</tr>
+<tr>
+<td><strong>Medicazione da campo x6</strong></td>
+<td>120</td>
+</tr>
+<tr>
+<td><strong>Medicazione da campo x12</strong></td>
+<td>180</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Ordigni pesanti e munizioni</strong></p>
+<table>
+<thead>
+<tr>
+<th><strong>Tipo</strong></th>
+<th><strong>Costo in punti di rifornimento</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Granata a frammentazione x1</strong></td>
+<td>60</td>
+</tr>
+<tr>
+<td><strong>Granata a frammentazione x2</strong></td>
+<td>120</td>
+</tr>
+<tr>
+<td><strong>Granata a frammentazione x4</strong></td>
+<td>240</td>
+</tr>
+<tr>
+<td><strong>Granata fumogena a basso potenziale</strong></td>
+<td>40</td>
+</tr>
+<tr>
+<td><strong>Granata fumogena ad alto potenziale</strong></td>
+<td>60</td>
+</tr>
+<tr>
+<td><strong>Granata fumogena di segnalazione</strong></td>
+<td>30</td>
+</tr>
+<tr>
+<td><strong>Mina anti-uomo x2</strong></td>
+<td>140</td>
+</tr>
+<tr>
+<td><strong>Mina anti-uomo x3</strong></td>
+<td>210</td>
+</tr>
+<tr>
+<td><strong>Mina convenzionale</strong></td>
+<td>420</td>
+</tr>
+<tr>
+<td><strong>Mina degli insorti</strong></td>
+<td>160</td>
+</tr>
+<tr>
+<td><strong>IED leggero</strong></td>
+<td>60</td>
+</tr>
+<tr>
+<td><strong>IED pesante</strong></td>
+<td>80</td>
+</tr>
+<tr>
+<td><strong>Missile anti-aereo x1</strong></td>
+<td>100</td>
+</tr>
+<tr>
+<td><strong>Missile anti-aereo x2</strong></td>
+<td>170</td>
+</tr>
+<tr>
+<td><strong>Anti-carro leggero x1</strong></td>
+<td>70</td>
+</tr>
+<tr>
+<td><strong>Anti-carro leggero x2</strong></td>
+<td>140</td>
+</tr>
+<tr>
+<td><strong>Anti-carro leggero x3</strong></td>
+<td>210</td>
+</tr>
+<tr>
+<td><strong>Anti-carro leggero x4</strong></td>
+<td>280</td>
+</tr>
+<tr>
+<td><strong>Anti-carro medio x1</strong></td>
+<td>80</td>
+</tr>
+<tr>
+<td><strong>Anti-carro medio x2</strong></td>
+<td>160</td>
+</tr>
+<tr>
+<td><strong>Anti-carro medio x3</strong></td>
+<td>240</td>
+</tr>
+<tr>
+<td><strong>Anti-carro pesante x1</strong></td>
+<td>90</td>
+</tr>
+<tr>
+<td><strong>Anti-carro pesante x2</strong></td>
+<td>180</td>
+</tr>
+<tr>
+<td><strong>Anti-carro guidato</strong></td>
+<td>120</td>
+</tr>
+</tbody>
+</table>
+<p>Si noti che su un server locale, il sistema di rifornimento non funzionerà come descritto. Ogni slot d'arma richiederà 100 punti di rifornimento per essere ricaricato, indipendentemente dal tipo di oggetto.</p>
+<p>Richiedere un kit costa 200 punti rifornimento. Tieni presente che ricaricare una sacca di munizioni, ad esempio presso una cassa di munizioni o una cassa di rifornimenti leggera/pesante, costerà tanti punti quanti ne fornisce (200).</p>
+<p>La quantità di punti di rifornimento per le diverse fonti di rifornimenti è la seguente:</p>
+<ul>
+<li><strong>Sacche di munizioni</strong>: 200 (conteranno solo come 43 punti di rifornimento quando utilizzate da una postazione, ad esempio come un TOW o un mortaio)</li>
+<li><strong>Casse di munizioni</strong>: 450</li>
+<li><strong>Casse di rifornimenti leggere</strong>: 1500</li>
+<li><strong>Casse di rifornimenti pesanti</strong>: 3000</li>
+</ul>
+<p>{% note %}
+Il rifornimento <strong>non è istantaneo</strong>, ma richiede alcuni secondi, dipende della fonte di munizioni e della quantità di munizioni che devi rifornire.</p>
+<p>Inoltre, se non stai ti stai rifornendo, assicurati che la cassa di rifornimenti leggera o pesante sia effettivamente della tua squadra; non è possibile rifornirsi da <strong>casse di rifornimenti nemiche</strong>.
+{% endnote %}</p>
+<h3 id="casse-di-rifornimenti">Casse di Rifornimenti</h3>
+<p>The ownership of the crate is depicted by the flag display on top of the crate.</p>
+<p>Ci sono due tipi di casse di rifornimenti in PR:BF2 - Cassa di Rifornimenti Leggera e Cassa di Rifornimenti Pesante. Entrambe consentono di rifornire i giocatori e costruire postazioni fisse, ma una Cassa Leggera è equivalente alla metà di una Cassa di Rifornimenti Pesante, il che significa che avrai bisogno di 2 casse leggere dove ne è necessaria solo 1 di tipo pesante. Per saperne di più sulle postazioni fisse, consulta il <a href="../the_squad_leader/#deployable-structures">capitolo sulle Strutture Costruibili.</a></p>
+<p>{% figure "../assets/largecrate.png", "../assets/smallcrate.png" %}
+Qui puoi vedere a sinistra la cassa di rifornimenti pesante e a destra la sua versione leggera.
+{% endfigure %}</p>
+<p>Come per il riarmo, la richiesta di kit dalle casse esaurirà le casse stesse. Ogni kit costerà 200 punti, con le casse leggere che ne hanno 1500 (7 kit) e quelle pesanti 3000 (14 kit).</p>
+<p>{% note %}
+Richiedere kit da una cassa che non ha abbastanza punti ti fornirà comunque il kit, ma la cassa verrà distrutta nel processo.
+{% endnote %}</p>
+<p>La Cassa di Rifornimenti Leggera può essere trasportata da:</p>
+<ul>
+<li>Elicotteri Leggeri come l'Huey, il Lynx e lo Zhi-9B (Una Cassa)</li>
+<li>Camion da Trasporto (Una Cassa)</li>
+</ul>
+<p>Mentre la Cassa di Rifornimento Pesante può essere trasportata da:</p>
+<ul>
+<li>Elicotteri da Trasporto a Media Capacità come il Black Hawk, il Mi-17 e l'NH-90 (Una Cassa)</li>
+<li>Elicotteri da Trasporto a Elevata Capacità come il Chinook, lo Zhi-8KA e l'MV-22 (Due Casse)</li>
+<li>Camion Logistici (Due Casse)</li>
+</ul>
+<p>L'appartenenza della cassa è indicata dalla bandiera sopra la cassa stessa.</p>
+<h3 id="stazione-di-riparazione">Stazione di Riparazione</h3>
+<p>I camion logistici hanno anche la capacità di rilasciare una stazione di riparazione. Queste stazioni sono necessarie per effettuare riparazioni sul campo a veicoli gravemente danneggiati che non possono muoversi.</p>
+<p>{% figure "../assets/reapir.png" %}
+Stazione di Riparazione
+{% endfigure %}</p>
+<h2 id="punteggi">Punteggi</h2>
+<p>Il punteggio di un giocatore è diviso in punti di squadra e punti individuali. È ovvio che le attività correlate al lavoro di squadra (costruzione, guida di veicoli, difesa/attacco di bandiere) contribuiscono ai primi, mentre le azioni individuali (uccidere giocatori) contribuiscono al tuo punteggio personale.</p>
+<p>Il punteggio totale di un giocatore non può mai scendere sotto lo 0, ma il punteggio di squadra può diventare negativo. Ci sono anche moltiplicatori di punteggio quando sei, ad esempio, in un veicolo o sei un caposquadra. Ecco alcune altre aggiunte e sottrazioni di punteggio. Queste non sono tutte, ma ti danno un'idea:</p>
+<ul>
+<li>Catturare un civile: <strong>+100</strong></li>
+<li>Uccidere un civile (violazione delle ROE): <strong>-100</strong></li>
+<li>Distruggere il proprio obiettivo: <strong>-100</strong></li>
+<li>Distruggere l'obiettivo nemico: <strong>+150</strong></li>
+</ul>
+<h2 id="mortai">Mortai</h2>
+<p>Una postazione fissa di mortaio che può fornire supporto di fuoco indiretto su lunghe distanze. Tutte le fazioni possono sparare proiettili ad alto potenziale esplosivo. Le forze convenzionali e la milizia possono anche utilizzare proiettili a esplosione aerea e fumogeni. I mortai non possono essere costruiti su mappe più piccole di 2 km.</p>
+<ul>
+<li><strong>Esplosivo ad Alto Potenziale (HE)</strong> (premi <strong>1</strong> per selezionare): Tipo più comune di proiettile per mortaio. Causa il massimo danno diretto al bersaglio. Ideale per bersagli leggermente corazzati e posizioni fortificate.</li>
+<li><strong>Aeree</strong> (premi <strong>2</strong> per selezionare): Esplode in aria sopra il terreno. Copre una zona più ampia ma causa meno danni complessivi. Ideale per ingaggiare la fanteria all'interno di edifici e su terreni accidentati.</li>
+</ul>
+<p>Quando sono necessari i mortai, puoi utilizzare il calcolatore del mortaio (premi <strong>3</strong> per selezionare). La distanza dal bersaglio e la differenza di elevazione possono essere inserite nel calcolatore facendo clic sui numeri nei campi <strong>“Range”</strong> e <strong>“Height”</strong>. Per ottenere la distanza, assicurati che il marcatore del caposquadra sia sul bersaglio, quindi apri la mappa e troverai la distanza elencata sotto la mappa. Una volta terminato, fai clic sul pulsante <strong>“Calcola”</strong> per visualizzare l'elevazione del cannone richiesta. L'elevazione può essere regolata con i tasti W e S, mentre la deviazione viene cambiata utilizzando i tasti A e D. Quando entrambi i valori sono impostati, seleziona i proiettili richiesti e spara. Sono disponibili sia proiettili ad esplosione aerea che a impatto che condividono le munizioni.</p>
+<p>{% figure "../assets/mortars.png" %}
+Interfaccia del calcolatore del mortaio.
+{% endfigure %}</p>
+<h2 id="ponti-di-supporto-csb">Ponti di Supporto (CSB)</h2>
+<p>In some cases multiple CSBs are required to span the complete distance. In such situations, you're required to drive to the end of the incomplete bridge and deploy a new CSB and repeat untill its finish.</p>
+<p>Quando è necessario attraversare piccoli fiumi o ponti danneggiati, le forze convenzionali possono utilizzare i CSB utilizzando i loro camion logistici, che ne trasportano due. In Project Reality, i CSB possono essere utilizzati solo per riempire le buche dei ponti distrutti e in posizioni predefinite identificate da piccoli mucchi di sabbia (ben visibili) posizionati su un ostacolo naturale, come un fiume.</p>
+<p>{% note %}
+I CSB sono molto stretti, quindi guida con attenzione quando li attraversi.
+{% endnote %}</p>
+<p>Il processo di dispiegamento dei CSB è molto semplice:
+1. Guida un camion logistico nella posizione in cui verrà dispiegato il CSB.
+2. Posiziona la parte anteriore o posteriore del camion il più vicino possibile alla posizione di dispiegamento.
+3. Seleziona il CSB come attrezzatura attiva del camion.
+4. Premi il tasto di fuoco alternativo per dispiegare il ponte.</p>
+<p>{{ "Video Tutorial - Dispiegamento del CSB" | youtube("Vn66KbNrVJA") }}</p>
+<p>{% figure "../assets/csb.png" %}
+CSB che viene dispiegato dal camion.
+{% endfigure %}</p>
+<p>In alcuni casi sono necessari più CSB per coprire l'intera distanza. In tali situazioni, è necessario guidare fino alla fine del ponte incompleto, dispiegare un nuovo CSB e ripetere fino al completamento.</p>
+<h2 id="orientamento-sul-campo">Orientamento sul Campo</h2>
+<p>È piuttosto facile perdersi nelle ampie mappe di PR:BF2. Il ritmo lento e il coordinamento di squadra richiedono ai giocatori di comunicare le posizioni in modo chiaro e conciso. PR:BF2 offre 4 strumenti per aiutare i giocatori in questo:</p>
+<ol>
+<li>I capisquadra possono utilizzare il loro <strong>marker d'ordine di squadra</strong> per comunicare le posizioni ai membri della loro squadra e al comandante. La direzione verso il marker è indicata da una freccia sopra la bussola. Se ti trovi entro 75 metri dal marker, vedrai anche un'icona 3D che mostra la posizione di fronte a te. Il marker sarà anche visibile sulla mappa.</li>
+</ol>
+<p>{% figure "../assets/target.png", "../assets/build.png", "../assets/observe.png", "../assets/defendmarker.png", "../assets/demolish.png", "../assets/move.png" %}
+Rispettivamente, marker obiettivo, costruzione, osservazione, difesa, demolizione e movimento.
+{% endfigure %}</p>
+<ol>
+<li>Una <strong>bussola di precisione graduata</strong> è posizionata nella parte centrale inferiore dello schermo. La bussola può essere utilizzata per fornire l'angolazione esatta degli nemici avvistati nelle vicinanze. <strong>Gli 8 Punti Cardinali</strong> sono chiaramente indicati insieme alle etichette delle angolazioni in gradi che aumentano incrementalmente ogni 15° con divisioni principali ogni 5°. Se desideri comunicare solo una direzione generica, è buona pratica dire il punto cardinale, seguito dall'angolazione in gradi e in alcune situazioni anche la distanza, se corretto. Ad esempio <em><strong>"Nemico avvistato NE 75° a 200 metri, passo"</strong></em><strong>.</strong></li>
+<li>Se il bersaglio è visivamente allineato con un angolazione numerato sulla tua bussola quando ti trovi in quella direzione, comunica semplicemente quel numero.</li>
+<li>Ricorda che tutte le tacche grandi della bussola equivalgono a 5 gradi. Se il bersaglio è allineato con una tacca a destra di una tacca etichettata lungo il percorso dei 75°, aggiungi 5 gradi. Quindi il bersaglio è a 80°.<img alt="" src="../../assets/compass.png" /></li>
+<li>Sotto le tacche della bussola c'è un triangolo che indica la tua direzione attuale. Se sei in una squadra, l'ultimo/attuale ordine emesso dal caposquadra appare anche come una V. Se allinei la V con il triangolo, stai guardando la posizione del marker dell'ordine.</li>
+<li>Le mappe in PR:BF2 contengono <strong>i riferimenti della griglia e sottogriglie delle coordinate</strong>. Le etichette della griglia si trovano sul bordo superiore e sinistro della mappa. La mappa è divisa in 169 quadrati di griglia a partire da A1 nell'angolo superiore sinistro e terminando con M13 nell'angolo inferiore destro. Ogni quadrato di griglia è diviso in 9 sottogriglie. Queste sono etichettate da 1 a 9 nello stesso modo in cui è organizzato il tastierino numerico di un computer. (Fila superiore da sinistra a destra 7, 8, 9). Puoi comunicare le posizioni fornendo un riferimento della griglia. Per una posizione approssimativa dici solo il campo principale della griglia (ad esempio D6). Per posizioni precise aggiungi anche la posizione della sottogriglia (ad esempio D6-2). Le etichette delle griglie vengono principalmente utilizzate per comunicare posizioni tra le squadre. Quando si utilizza Mumble, la prima lettera delle coordinate di solito viene annunciata utilizzando l'alfabeto fonetico NATO. Le parole codice sono Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf, Hotel, India, Juliett, Kilo, Lima, Mike, November, Oscar, Papa, Quebec, Romeo, Sierra, Tango, Uniform, Victor, Whiskey, X-ray, Yankee e Zulu.</li>
+<li><strong>La scala di ciascun quadrato della griglia</strong> è visualizzata nell'angolo in basso a destra della mappa. Una mappa da 1 km sarà indicata da una griglia da 75 m, 150 m per una mappa da 2 km e 300 m per una mappa da 4 km. Puoi facilmente stimare le distanze sulla mappa utilizzando i quadrati della griglia. La schermata della squadra del caposquadra mostra anche la distanza approssimativa al tuo marcatore di squadra corrente sotto la mappa del campo di battaglia.</li>
+</ol>
+<p>{% figure "../assets/grid.png" %}
+{% endfigure %}</p>
+<h2 id="informazioni-di-base-sui-veicoli">Informazioni di Base sui Veicoli</h2>
+<p>Molti veicoli si comportano in modo piuttosto diverso rispetto a BF2 e richiedono conoscenze avanzate per essere utilizzati. Poiché hanno anche tempi di spawn molto lunghi (fino a 20 minuti), è fondamentale sapere come evitare situazioni problematiche. Questa parte si concentrerà sull'illustrazione dei tipi di veicoli e su come influenzano la squadra. Per ulteriori dettagli sull'uso dei veicoli, consulta ulteriormente in questo manuale la sezione sull'Uso dei Veicoli.</p>
+<p>Ci sono molti tipi di veicoli in PR:BF2 utilizzati come classificazione. Questo non sempre coincide direttamente con il loro corrispettivo nella vita reale per motivi di gioco. L'elenco seguente mostra le principali classi di veicoli in PR:BF2:</p>
+<ul>
+<li>
+<p><strong>Jeep:</strong> piccoli veicoli di trasporto che non sempre possono ospitare l'intera squadra. Possono sempre rilasciare piccole casse di munizioni. A volte sono equipaggiati con postazioni di mitragliatrici.
+<img alt="" src="../../assets/jeep.png" /></p>
+</li>
+<li>
+<p><strong>Veicoli civili:</strong> le forze degli insorti di PR:BF2 hanno accesso a una serie di auto civili e technical equipaggiati con mitragliatrici, lanciarazzi e cannoni anticarro SPG-9. Hanno anche un camion cassonato con un cannone antiaereo montata, camion bomba e auto bomba nel loro arsenale.
+<img alt="" src="../../assets/civiliancars.png" /></p>
+</li>
+<li>
+<p><strong>Camion:</strong> ci sono varianti di trasporto e logistici. La variante di trasporto è in grado di rilasciare 1 cassa di rifornimento leggera e può ospitare un'intera squadra. La variante logistica può ospitare solo 2 soldati e può rilasciare 2 casse di rifornimento pesanti, stazioni di riparazione e ponti di supporto (ne abbiamo parlato in precedenza).
+<img alt="" src="../../assets/truck.png" /></p>
+</li>
+<li>
+<p><strong>Veicolo per trasporto truppe corazzato (APC):</strong> grandi veicoli corazzati, spesso armati con armi pesanti. Spesso non hanno la capacità di sconfiggere altri bersagli corazzati pesanti come gli IFV e i carri armati, ma sono i migliori tra tutti i tipi di veicoli nell'assistere la fanteria. Possono ospitare 2 membri dell'equipaggio (pilota e artigliere) e fino a 6 soldati passeggeri.
+<img alt="" src="../../assets/apc.png" /></p>
+</li>
+<li>
+<p><strong>Veicolo da combattimento contro la fanteria (IFV):</strong> Meglio armati e più resistenti rispetto alla maggior parte degli APC, spesso con capacità di sconfiggere bersagli corazzati pesanti con missili anticarro. Non sono sempre in grado di trasportare la fanteria. In questa categoria rientrano spesso anche i veicoli da ricognizione.
+<img alt="" src="../../assets/ifv.png" /></p>
+</li>
+<li>
+<p><strong>Veicolo con missili anticarro montati (ATM):</strong> Il nome parla da sé. Questi sono veicoli armati con missili anticarro per distruggere altri veicoli corazzati. Non possono trasportare la fanteria.
+<img alt="" src="../../assets/atm.png" /></p>
+</li>
+<li>
+<p><strong>Carro armato:</strong> i nostri veicoli corazzati più pesanti. Sono equipaggiati con armamenti AP, HE e COAX.
+<img alt="" src="../../assets/tank.png" /></p>
+</li>
+<li>
+<p><strong>Veicolo antiaereo:</strong> di solito sono veicoli corazzati leggeri con la sola capacità di abbattere aerei nemici ed elicotteri. Possono utilizzare missili e/o armi pesanti.
+<img alt="" src="../../assets/aavehicles.png" /></p>
+</li>
+<li>
+<p><strong>Barche:</strong> PR:BF2 ha una varietà di barche armate e non armate.
+<img alt="" src="../../assets/boats.png" /></p>
+</li>
+<li>
+<p><strong>Elicottero da trasporto:</strong> questi elicotteri di solito sono equipaggiati con mitragliatrici per la fanteria montata. Sono anche in grado di rilasciare casse di rifornimento pesanti. Ci sono elicotteri da trasporto leggeri, medi e pesanti. Consulta la sezione sulle Casse di Rifornimenti per scoprire quali varianti hanno a disposizione quali casse.
+<img alt="" src="../../assets/transheli.png" /></p>
+</li>
+<li>
+<p><strong>Elicotteri da attacco:</strong> questi elicotteri sono equipaggiati con pod di mitragliatrici e una varietà di razzi e missili. Ci sono varianti leggere, medie e pesanti. Gli elicotteri da ricognizione con la capacità di designare i bersagli e utilizzare le telecamere termiche rientrano anche in questa categoria in PR:BF2. Non sono sempre armati.
+<img alt="" src="../../assets/attackhelis.png" /></p>
+</li>
+<li>
+<p><strong>Jet:</strong> PR:BF2 ha una vasta gamma di jet. Ci sono jet d'attacco leggeri e pesanti, jet da caccia, bombardieri e cacciabombardieri.
+<img alt="" src="../../assets/jets.png" /></p>
+</li>
+</ul>
+<p>Tutti i veicoli alleati sono contrassegnati sulla mappa con icone uniche per una facile identificazione.
+<img alt="" src="../../assets/vehicleicons.png" /></p>
+<ul>
+<li>Se un veicolo di squadra viene distrutto, comporta una penalità di ticket:</li>
+<li>Jeep o camion: <strong>2 ticket</strong></li>
+<li>Elicottero da trasporto: <strong>5 ticket</strong></li>
+<li>APC/AAV/RECON: <strong>5 ticket</strong></li>
+<li>Carro armato o IFV: <strong>10 ticket</strong></li>
+<li>Jet o elicottero d'attacco: <strong>10 ticket</strong></li>
+<li>I veicoli sono <strong>limitati alla fazione</strong> e non è possibile operare veicoli nemici di alcun tipo.</li>
+<li>Si può accedere ai veicoli <strong>solo dai portelli appositi</strong> sulla corazza.</li>
+</ul>
+<p>{% figure "../assets/entrypoints.png" %}
+I punti di accesso ai veicoli possono variare da veicolo a veicolo. Cerca i portlli.
+{% endfigure %}</p>
+<ul>
+<li>I soldati normali possono guidare piccoli veicoli non corazzati come jeep, camion e barche senza la necessità di alcun kit specializzato. Se è richiesto <strong>un kit dell'equipaggio o pilota</strong> per operare una posizione del veicolo, riceverai un messaggio di avviso al momento dell'ingresso e lo schermo diventerà nero. Se non esci dalla posizione del veicolo entro pochi secondi, morirai.</li>
+<li>Quando esci da <strong>un veicolo in movimento o in fiamme</strong>, rimarrai ferito e potresti morire. Più veloce è il movimento del veicolo, maggiore è la possibilità di morire.</li>
+<li><strong>La distruzione delle carcasse dei veicoli</strong> non influisce sul punteggio, anche se un messaggio di avviso afferma il contrario quando si sparano le carcasse dei veicoli alleati.</li>
+<li>Mentre si manovrano <strong>armi stazionarie o veicoli</strong>, è necessario un certo tempo di riscaldamento prima che abbiano la capacità di aprire il fuoco:</li>
+<li>Mitragliatrice: <strong>5 secondi</strong></li>
+<li>Missile AA: <strong>5 secondi</strong></li>
+<li>Postazione AT: <strong>10 secondi</strong></li>
+<li>Cannone principale corazzato: <strong>30 secondi</strong></li>
+<li>La maggior parte delle armi AT stazionarie ha ottiche con capacità di zoom fisse. Alcune di esse offrono anche ottiche termiche.</li>
+<li>Uscire dai veicoli in volo e cadere in acqua da alte altitudini ti ferirà e potrebbe causare la morte.</li>
+<li>I giocatori possono <strong>richiedere kit</strong> dalla posizione di ingresso di un APC/IFV.</li>
+<li>I veicoli corazzati sono più vulnerabili quando attaccati lateralmente. La corazza nella parte posteriore del veicolo è la più debole. Un singolo proiettile anticarro ben piazzato può disabilitarli o distruggerli.</li>
+<li>Sui server pubblici (non nelle modalità di gioco in locale) è possibile passare rapidamente al prossimo posto libero disponibile in un veicolo premendo <strong>F8</strong>.</li>
+<li>Quando sei in un veicolo, puoi vedere le informazioni sui posti occupati nell'angolo in basso a sinistra dell'HUD. Mostra solo posti importanti dell'equipaggio come indicatori quadrati. Questo include le posizioni del conducente e dell'artigliere. I posti dei passeggeri non hanno tali indicatori e sono mostrati come un contatore separato.</li>
+</ul>
+<p>{% figure "../assets/seaticons.png" %}
+I membri dell'equipaggio importanti sono mostrati come indicatori quadrati. I passeggeri usano un contatore dei posti totali sopra l'icona del veicolo.
+{% endfigure %}</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2024 The Project Reality Team
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/realitymod" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.facebook.com/realitymod" target="_blank" rel="noopener" title="www.facebook.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M512 256C512 114.6 397.4 0 256 0S0 114.6 0 256c0 120 82.7 220.8 194.2 248.5V334.2h-52.8V256h52.8v-33.7c0-87.1 39.4-127.5 125-127.5 16.2 0 44.2 3.2 55.7 6.4V172c-6-.6-16.5-1-29.6-1-42 0-58.2 15.9-58.2 57.2V256h83.6l-14.4 78.2H287v175.9C413.8 494.8 512 386.9 512 256z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.instagram.com/projectrealitymod/" target="_blank" rel="noopener" title="www.instagram.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://discord.com/servers/project-reality-190090455973756928" target="_blank" rel="noopener" title="discord.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M524.531 69.836a1.5 1.5 0 0 0-.764-.7A485.065 485.065 0 0 0 404.081 32.03a1.816 1.816 0 0 0-1.923.91 337.461 337.461 0 0 0-14.9 30.6 447.848 447.848 0 0 0-134.426 0 309.541 309.541 0 0 0-15.135-30.6 1.89 1.89 0 0 0-1.924-.91 483.689 483.689 0 0 0-119.688 37.107 1.712 1.712 0 0 0-.788.676C39.068 183.651 18.186 294.69 28.43 404.354a2.016 2.016 0 0 0 .765 1.375 487.666 487.666 0 0 0 146.825 74.189 1.9 1.9 0 0 0 2.063-.676A348.2 348.2 0 0 0 208.12 430.4a1.86 1.86 0 0 0-1.019-2.588 321.173 321.173 0 0 1-45.868-21.853 1.885 1.885 0 0 1-.185-3.126 251.047 251.047 0 0 0 9.109-7.137 1.819 1.819 0 0 1 1.9-.256c96.229 43.917 200.41 43.917 295.5 0a1.812 1.812 0 0 1 1.924.233 234.533 234.533 0 0 0 9.132 7.16 1.884 1.884 0 0 1-.162 3.126 301.407 301.407 0 0 1-45.89 21.83 1.875 1.875 0 0 0-1 2.611 391.055 391.055 0 0 0 30.014 48.815 1.864 1.864 0 0 0 2.063.7A486.048 486.048 0 0 0 610.7 405.729a1.882 1.882 0 0 0 .765-1.352c12.264-126.783-20.532-236.912-86.934-334.541ZM222.491 337.58c-28.972 0-52.844-26.587-52.844-59.239s23.409-59.241 52.844-59.241c29.665 0 53.306 26.82 52.843 59.239 0 32.654-23.41 59.241-52.843 59.241Zm195.38 0c-28.971 0-52.843-26.587-52.843-59.239s23.409-59.241 52.843-59.241c29.667 0 53.307 26.82 52.844 59.239 0 32.654-23.177 59.241-52.844 59.241Z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.youtube.com/@ProjectRealityMod" target="_blank" rel="noopener" title="www.youtube.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.path", "navigation.indexes"], "search": "../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.1e8ae164.min.js"></script>
+      
+    
+  </body>
+</html>

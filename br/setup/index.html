@@ -1,0 +1,3166 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../">
+      
+      
+        <link rel="next" href="../game_modes/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.17">
+    
+    
+      
+        <title>Setup - Project Reality: Manual</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.bcfcd587.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#set-up" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Project Reality: Manual" class="md-header__button md-logo" aria-label="Project Reality: Manual" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Project Reality: Manual
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Setup
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6zm0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4zM7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+      <div class="md-header__option">
+  <div class="md-select">
+    
+    <button class="md-header__button md-icon" aria-label="Select language">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m12.87 15.07-2.54-2.51.03-.03A17.52 17.52 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11.76-2.04M18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2l-4.5-12m-2.62 7 1.62-4.33L19.12 17h-3.24Z"/></svg>
+    </button>
+    <div class="md-select__inner">
+      <ul class="md-select__list">
+        
+          <li class="md-select__item">
+            <a href="../index.html" hreflang="br" class="md-select__link">
+              Brazilian Portuguese (1.6.4)
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="../../de/index.html" hreflang="de" class="md-select__link">
+              German (1.5)
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="../../en/index.html" hreflang="en" class="md-select__link">
+              English (1.7)
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="../../es/index.html" hreflang="es" class="md-select__link">
+              Spanish/Español (1.7)
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="../../id/index.html" hreflang="id" class="md-select__link">
+              Indonesian (1.7)
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="../../it/index.html" hreflang="it" class="md-select__link">
+              Italian (1.7)
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/papadanku/RealityManual" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../.." class="md-tabs__link">
+          
+  
+    
+  
+  Manual
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="https://www.realitymod.com/downloads" class="md-tabs__link">
+        
+  
+    
+  
+  Downloads
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="https://www.realitymod.com/forum/" class="md-tabs__link">
+        
+  
+    
+  
+  Forums
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="https://www.realitymod.com/mapgallery/" class="md-tabs__link">
+        
+  
+    
+  
+  Map Gallery
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="https://www.realitymod.com/prspy/" class="md-tabs__link">
+        
+  
+    
+  
+  PRSpy
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="https://prstats.realitymod.com/" class="md-tabs__link">
+        
+  
+    
+  
+  PRStats
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Project Reality: Manual" class="md-nav__button md-logo" aria-label="Project Reality: Manual" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    Project Reality: Manual
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/papadanku/RealityManual" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1" checked>
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../.." class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Manual
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_1" id="__nav_1_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            Manual
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_2" checked>
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Brazilian Portuguese (1.7)
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_1_2" id="__nav_1_2_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_1_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_1_2">
+            <span class="md-nav__icon md-icon"></span>
+            Brazilian Portuguese (1.7)
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Setup
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Setup
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#requisitos-do-sistema" class="md-nav__link">
+    <span class="md-ellipsis">
+      Requisitos do Sistema
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#instalacao-do-jogo" class="md-nav__link">
+    <span class="md-ellipsis">
+      Instalação do Jogo
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#criando-uma-conta" class="md-nav__link">
+    <span class="md-ellipsis">
+      Criando uma conta
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#criando-um-perfil" class="md-nav__link">
+    <span class="md-ellipsis">
+      Criando um Perfil
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#o-launcher-de-pr" class="md-nav__link">
+    <span class="md-ellipsis">
+      O Launcher de PR
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#navegacao-no-menu-no-jogo" class="md-nav__link">
+    <span class="md-ellipsis">
+      Navegação no menu no Jogo
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pr-mumble" class="md-nav__link">
+    <span class="md-ellipsis">
+      PR Mumble
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#solucao-de-problemas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Solução de problemas
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#constroles-padroes-do-jogo" class="md-nav__link">
+    <span class="md-ellipsis">
+      Constroles Padrões do Jogo
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_1_2_3" id="__nav_1_2_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Basics
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            Basics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../game_modes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Modos de Jogo
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../the_basics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    O básico
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../weapons_and_equipment/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Armas e Equipamentos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../kits/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kits
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../the_squad_leader/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    O Líder de Esquadrão
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../operating_vehicles/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Operando Veículos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../commander/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    O Comandante
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../the_civilian/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    O Civil
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_3" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../de/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    German (1.5)
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_1_3" id="__nav_1_3_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_1_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_3">
+            <span class="md-nav__icon md-icon"></span>
+            German (1.5)
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../de/setup/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Setup
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_3_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_1_3_3" id="__nav_1_3_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Basics
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            Basics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../de/game_modes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Spielmodi
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../de/the_basics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Die Grundlagen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../de/weapons_and_equipment/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Waffen & Ausrüstung
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../de/kits/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ausrüstung
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../de/the_squad_leader/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Squad Leader
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../de/operating_vehicles/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Fahrzeug Betrieboperating vehicles
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../de/commander/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Commander
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../de/the_civilian/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    O Civil
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_4" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../en/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    English (1.7)
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_1_4" id="__nav_1_4_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_1_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_4">
+            <span class="md-nav__icon md-icon"></span>
+            English (1.7)
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/setup/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Setup
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_4_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_1_4_3" id="__nav_1_4_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Basics
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_4_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_4_3">
+            <span class="md-nav__icon md-icon"></span>
+            Basics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/game_modes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Game Modes
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/the_basics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Basics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/weapons_and_equipment/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Weapons & Equipment
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/kits/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kits
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/the_squad_leader/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Squad Leader
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/operating_vehicles/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Operating Vehicles
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/commander/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Commander
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/the_civilian/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Civilian
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_5" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../es/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Spanish/Español (1.7)
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_1_5" id="__nav_1_5_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_1_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_5">
+            <span class="md-nav__icon md-icon"></span>
+            Spanish/Español (1.7)
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../es/setup/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Setup
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_5_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_1_5_3" id="__nav_1_5_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Basics
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_5_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_5_3">
+            <span class="md-nav__icon md-icon"></span>
+            Basics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../es/game_modes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Modos de Juego
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../es/the_basics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Conceptos Basicos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../es/weapons_and_equipment/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Armas y Equipamientos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../es/kits/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kits
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../es/the_squad_leader/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    El Líder de Escuadrón
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../es/operating_vehicles/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Operando Vehículos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../es/commander/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    EL Comandante
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../es/the_civilian/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    El Civil
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_6" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../id/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Indonesian (1.7)
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_1_6" id="__nav_1_6_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_1_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_6">
+            <span class="md-nav__icon md-icon"></span>
+            Indonesian (1.7)
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../id/setup/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Persiapan Bermain
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_6_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_1_6_3" id="__nav_1_6_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Basics
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_6_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_6_3">
+            <span class="md-nav__icon md-icon"></span>
+            Basics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../id/game_modes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Game Modes
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../id/the_basics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Basics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../id/weapons_and_equipment/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Weapons & Equipment
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../id/kits/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kits
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../id/the_squad_leader/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Squad Leader
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../id/operating_vehicles/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Operating Vehicles
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../id/commander/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Commander
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../id/the_civilian/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Civilian
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_7" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../it/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Italian (1.7)
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_1_7" id="__nav_1_7_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_1_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_7">
+            <span class="md-nav__icon md-icon"></span>
+            Italian (1.7)
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../it/setup/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Installazione
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_7_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_1_7_3" id="__nav_1_7_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Basics
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_7_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_7_3">
+            <span class="md-nav__icon md-icon"></span>
+            Basics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../it/game_modes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Modalità di gioco
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../it/the_basics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Le Basi
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../it/weapons_and_equipment/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Armi ed Equipaggiamento
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../it/kits/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kit
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../it/the_squad_leader/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Il Capo Squadra
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../it/operating_vehicles/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Operare i Veicoli
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../it/commander/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Il Comandante
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../it/the_civilian/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Il Civile
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://www.realitymod.com/downloads" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Downloads
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://www.realitymod.com/forum/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Forums
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://www.realitymod.com/mapgallery/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Map Gallery
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://www.realitymod.com/prspy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    PRSpy
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://prstats.realitymod.com/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    PRStats
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#requisitos-do-sistema" class="md-nav__link">
+    <span class="md-ellipsis">
+      Requisitos do Sistema
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#instalacao-do-jogo" class="md-nav__link">
+    <span class="md-ellipsis">
+      Instalação do Jogo
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#criando-uma-conta" class="md-nav__link">
+    <span class="md-ellipsis">
+      Criando uma conta
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#criando-um-perfil" class="md-nav__link">
+    <span class="md-ellipsis">
+      Criando um Perfil
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#o-launcher-de-pr" class="md-nav__link">
+    <span class="md-ellipsis">
+      O Launcher de PR
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#navegacao-no-menu-no-jogo" class="md-nav__link">
+    <span class="md-ellipsis">
+      Navegação no menu no Jogo
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pr-mumble" class="md-nav__link">
+    <span class="md-ellipsis">
+      PR Mumble
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#solucao-de-problemas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Solução de problemas
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#constroles-padroes-do-jogo" class="md-nav__link">
+    <span class="md-ellipsis">
+      Constroles Padrões do Jogo
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="set-up">Set-Up</h1>
+<h2 id="requisitos-do-sistema">Requisitos do Sistema</h2>
+<ul>
+<li><strong>Sistema operacional:</strong> Windows 7, 8 ou 10</li>
+<li><strong>Processador:</strong> mínimo de 2.4 Ghz Dual-Core. 3,2 Ghz Recomendado</li>
+<li><strong>Memória:</strong> 3 GB de RAM. 4 GB recomendado</li>
+<li><strong>Disco Rígido:</strong> 10 GB de espaço livre no Disco Rígido</li>
+<li><strong>Adaptador gráfico:</strong> Placa gráfica com 128 MB de RAM. 512 MB recomendados.</li>
+<li><strong>Som:</strong> Dispositivo de som compatível com DirectX 9. Placa de som dedicada com suporte EAX recomendada para melhor experiência.</li>
+<li><strong>Internet:</strong> 256 kbps ou conexão mais rápida necessária para jogar on-line</li>
+<li><strong>Software:</strong> .NET Framework 4</li>
+<li><strong>Entrada:</strong> Mouse, Teclado</li>
+<li><strong>Opcional:</strong> Joystick, fone de ouvido, microfone (altamente recomendado para comunicação de voz )</li>
+</ul>
+<h2 id="instalacao-do-jogo">Instalação do Jogo</h2>
+<p>Com o PR:BF2, <strong>não é mais necessário ter o Battlefield 2</strong> instalado. PR:BF2 v1.3 e além funciona como um jogo standalone. Se você tem uma versão do PR:BF2 instalado, você precisará desinstalá-lo antes de instalar o PR:BF2 v1.7. <strong>Não há patch disponível e versão mais antiga para v1.3!</strong></p>
+<p>Você precisa baixar o instalador completo do PR:BF2 em nosso site. Não será necessário ter o Battlefield 2 instalado.</p>
+<p><a href="http://www.realitymod.com/downloads"><strong>Download Full PR:BF2 v1.7 Installer</strong></a></p>
+<p>Existem 2 métodos de instalação. Você pode usar o <strong>aplicativo Assistente de Download</strong>, o que torna muito mais fácil instalar o PR:BF2 ou você pode baixar e instalar manualmente o Instalador através de um <strong>Torrent</strong>. Com ambos os métodos, existem 2 etapas: Download e instalação:</p>
+<p><strong>1) Download</strong></p>
+<p>O Assistente de Download baixará o Instalador usando o protocolo Torrent. Portanto, verifique se isso não está bloqueado pelo seu provedor. Simplesmente baixe o Download Assistant do nosso <a href="http://www.realitymod.com/downloads">PR:BF2 Download Section</a> e siga as instruções no aplicativo. Se você estiver em uma versão recente do Windows, ele oferecerá um simples botão para iniciar o instalador. Se você estiver em uma versão mais antiga do Windows, não será. Então você será solicitado a ir para a Etapa 2 e seguir as instruções para instalar o PR:BF2.</p>
+<p>Se você baixou a versão Torrent (e agora o Download Assistant ), esta <strong>NÃO</strong> é a instalação completa. Você deve usar o pequeno arquivo .torrent com um client BitTorrent para baixar o arquivo .iso completo. Nós recomendamos <a href="http://www.qbittorrent.org/download.php">qBittorrent</a>. Uma vez que você baixe tudo com o BitTorrent que você escolheu, você será presenteado com um arquivo "ISO" para passar para a etapa 2 depois que o aplicativo terminar o download.</p>
+<p><strong>2) Instalação</strong></p>
+<p>A pasta baixada que você tem agora através do Download Assistant ou do download manual do Torrent agora tem um arquivo setup.exe. Inicie este para iniciar o processo de instalação. O Download Assistant, no entanto, possui um sistema automatizado, portanto, após o download, deve haver um botão para iniciar a instalação automaticamente.</p>
+<p>Mais alguns pontos:</p>
+<p>Com a nova versão standalone, também não é mais necessário instalá-la na pasta Battlefield 2. Sinta-se à vontade para instalar o PR:BF2 em uma unidade e pasta de sua escolha.
+Se você tiver o BF2 instalado, poderá continuar a jogá-lo e jogar outras modificações do BF2 também. PR:BF2 não interfere com elas.
+PR:BF2 possui um <strong>um atualizador automático.</strong> Assim, depois de instalar o PR:BF2, você pode usar o atualizador para atualizar automaticamente seu jogo para versões mais recentes quando elas forem lançadas.
+PR:BF2 inclui PR Mumble em sua instalação. Portanto, não há necessidade de baixá-lo separadamente.
+Se você não quiser usar Torrents, encontrará downloads HTTP diretos em nossos fóruns.</p>
+<h2 id="criando-uma-conta">Criando uma conta</h2>
+<p>Como a DICE e a EA removeram o suporte para BF2 em maio de 2014, agora usamos nosso próprio serviço de contas para PR:BF2. Todas as suas contas do BF2 antigas (antes de PR:BF2 v1.2) não podem mais ser recuperadas. Antes de usar o PR Launcher, você precisará criar uma conta no PR para jogar online. Esta conta é exclusiva para você. Jogar offline não requer uma conta no PR. Usamos serviços de terceiros para conectar e verificar uma conta do PR. Atualmente, só oferecemos suporte ao Steam. Você precisará ter uma conta Steam existente ou <a href="https://steamcommunity.com/">crie uma nova</a> para se conectar à sua conta no PR. Ao iniciar o Project Reality:BF2 pela primeira vez, você verá a seguinte janela:</p>
+<p><img alt="" src="../../assets/creating_profile_1.png" /></p>
+<p>Pressione o botão de login do Steam para abrir uma página onde você precisará fazer login no Steam para continuar.  O navegador solicitará que você permita que o PR Launcher faça o login.  Dependendo do seu navegador, isso será semelhante às imagens abaixo.  Pressione o botão para prosseguir.  Depois, você pode fechar a página da web.</p>
+<p><img alt="" src="../../assets/creating_profile_2.png" /></p>
+<p>Será atribuído a sua conta do PR um nível. Este nível determina o quanto sua conta é considerada legítima e não uma conta descartável (conta fake). Os servidores têm a opção de escolher qual nível mínimo é necessário para jogar em seu servidor. Para determinar seu nível, sua conta Steam precisará ser tornada pública parcialmente. Você pode fazer isso nas <a href="https://steamcommunity.com/my/edit/settings">configurações de privacidade da steam</a>. 
+Certifique-se de que as configurações de <em>detalhes do jogo</em> (game details) sejam públicas.</p>
+<p><img alt="" src="../../assets/creating_profile_3.png" /></p>
+<p><strong>Seu perfil Steam não precisa permanecer público enquanto joga PR:BF2.</strong> Apenas ao calcular o nível da conta PR. Isso é feito uma vez automaticamente no primeiro login e depois apenas ao calcular manualmente. Você pode encontrar nossas notícias sobre privacidade <a href="https://hq.realitymod.com/account/privacy.html">aki</a>. Se o nível da sua conta não for alto o suficiente para jogar na maioria dos servidores online, será mostrado um aviso na tela principal do PR Launcher, que se parece com a imagem abaixo.</p>
+<p><img alt="" src="../../assets/creating_profile_4.png" /></p>
+<p>Para recalcular o nível da sua conta do PR, vá para o menu <strong>SUPORTE</strong> e abra a guia <em>Conta</em>. Lá você pode encontrar um ID exclusivo para sua conta, bem como o nível atual da sua conta e um botão para calculá-lo novamente. Seu nível nunca pode ficar mais baixo após o cálculo. Você sempre manterá o nível que ja possui.</p>
+<p>O nível da sua conta aumentará acumulando XP em alguns indicadores. Estes são, por exemplo, não ter banimento do Steam VAC, ter jogos comprados na loja do Steam em sua biblioteca e ter tempo de jogo nesses jogos. <strong>Doações para a equipe do Project Reality não influenciam o nível da sua conta.</strong></p>
+<p>Se você não deseja criar uma conta no PR para jogar online, você pode escolher jogar offline na tela de login inicial.. </p>
+<h2 id="criando-um-perfil">Criando um Perfil</h2>
+<p>Você tem uma única conta. No entanto, você pode criar vários perfis nesta conta do PR. Cada perfil possui um nome próprio no jogo, bem como configurações e controles separados salvos no seu computador. Você também pode recuperar perfis criados anteriormente. Perfis mais antigos criados após PR:BF2 v1.2 e antes de v1.6 também podem ser recuperados fornecendo o nome do perfil e a senha.</p>
+<p>Você pode acessar as configurações do perfil passando o mouse sobre o botão Jogar no PR Launcher e escolhendo <em>Selecionar perfil</em> e, em seguida, <em>Gerenciar perfis</em>. Você também tem a opção de criar perfis offline. Se você não fez login através de sua conta PR online, você só pode criar e usar perfis offline.</p>
+<p><img alt="" src="../../assets/creating_profile_5.png" /></p>
+<p><img alt="" src="../../assets/creating_profile_6.png" /></p>
+<h2 id="o-launcher-de-pr">O Launcher de PR</h2>
+<p>Após a instalação, um atalho para o Project Reality:BF2 será fornecido na área de trabalho, clique duas vezes neste ícone para abrir o PR Launcher.</p>
+<p><img alt="" src="../../assets/launcher_1.png" /></p>
+<p>Todas as opções principais são exibidas à direita.</p>
+<ul>
+<li><strong>Jogar:</strong> Isso iniciará o jogo. Se você clicar na seta para baixo à direita, terá a opção de verificar atualizações ou selecionar um perfil diferente. Se houver uma atualização, ela será exibida automaticamente se você pressionar o botão de Jogar(Play). Essa atualização será baixada e instalada automaticamente. O progresso da atualização e instalação será exibido enquanto estiver em andamento.</li>
+<li><strong>Opções:</strong> Neste menu você pode editar suas configurações de vídeo, gráficos e áudio. Além disso, outras opções estão disponíveis, além de configurar as teclas do PR Mumble.</li>
+<li><strong>Suporte:</strong> Isso é útil quando você está com problemas. Ele oferece muitas utilidades, como limpar pastas armazenadas em cache ou fornecer uma exibição detalhada das informações do computador. Isso é útil ao entrar em contato com nossa equipe de suporte.</li>
+<li><strong>Créditos:</strong> Aqui você pode ver toda a equipe do PR: BF2 que trabalhou neste mod por muitos anos.</li>
+<li><strong>Doar:</strong> Um link direto para a nossa página de doações on-line.</li>
+<li><strong>Sair:</strong> Use este botão para fechar o PR Launcher e retornar ao Windows</li>
+</ul>
+<p><em>O menu principal do launcher também fornece notícias na parte inferior destacadas em azul com anúncios de eventos futuros, progresso de desenvolvimento e blogs de desenvolvedores da comunidade PR:BF2.</em></p>
+<h2 id="navegacao-no-menu-no-jogo">Navegação no menu no Jogo</h2>
+<ul>
+<li><strong>Cooperativo:</strong> Permite que você jogue PR: BF2 com soldados de IA controlados por computador. Este modo é muito útil para conhecer a mecânica do jogo e o equipamento antes de entrar em batalhas competitivas online.</li>
+<li><strong>Multijogador:</strong> O principal modo de jogo no Project Reality. Aqui você encontrará batalhas intensas com até 100 jogadores.</li>
+<li><strong>Replays:</strong> Este menu dá acesso a replays usando o Battlerecorder.</li>
+<li><strong>Opções:</strong> Aqui você pode configurar as opções de áudio, bem como o layout do teclado. As opções de vídeo devem ser alteradas no PR Launcher.</li>
+<li><strong>Sair:</strong> Use este botão para sair do jogo e retornar ao Windows.</li>
+</ul>
+<h2 id="pr-mumble">PR Mumble</h2>
+<p>No jogo, Mumble é o programa que usamos para nos comunicarmos em PR:BF2, que substitui o Voice-Over-IP(VOIP) do BF2 original. A principal característica exclusiva do PR Mumble é que seu principal método de comunicação é transmitido dentro do espaço 3D, que é baseado em direção e proximidade. Isso é chamado local. O que isto significa é que todos os jogadores da sua equipe podem falar uns com os outros se eles estão por perto, e você pode ouvir em que direção eles estão falando, da mesma forma você pode julgar a que distância eles estão, assim como na vida real.</p>
+<p>Depois de entrar em um esquadrão, você ganha acesso ao Rádio do esquadrão, que permite que você converse com outros jogadores em seu esquadrão, não importa onde você esteja no mapa. Líderes de esquadra também têm acesso a um Rádio adicional que lhes permite se comunicar diretamente com o comandante, globalmente para todos os outros líderes de esquadrão, e diretamente para um líder de esquadrão individual. Ao usar um rádio, uma sugestão de transmissão será ouvida ao ativar e desativar o rádio (que pode ser ativado nas opções de áudio do launcher). As teclas padrões para transmissão de mensagens são as seguintes:</p>
+<ul>
+<li><strong>Rádio Local (H):</strong> você fala com os jogadores no espaço do raio 3D ao seu redor.</li>
+<li><strong>Rádio do Esquadrão (Num 0):</strong> você fala com o seu esquadrão, não importa onde você esteja.</li>
+<li><strong>Rádio do Lider de Esquadrão para outros Lideres de esquadrões (*):</strong> você fala com todos os líderes do esquadrão ao mesmo tempo. Este rádio também está disponível para o comandante usar com o mesmo atalho.</li>
+<li><strong>Rádio Lider de Esquadrão para outro Lider de esquadrão específico 9):</strong> você fala com um líder de esquadrão específico em sua equipe. Esses canais de rádio também estão disponíveis para o comandante usar com o mesmo atalho.</li>
+<li><strong>Rádio Lider de Esquadrão para Commander (/):</strong> você fala com o comandante em particular.</li>
+</ul>
+<p>O PR Mumble vem instalado junto com o PR:BF2. Ele é executado junto da instalação do jogo e faz todas as tarefas do parte do client automaticamente para você, como iniciar e conectar você ao servidor mumble certo. Os jogadores têm a opção de configurar suas configurações de comunicação para sua satisfação, assim como a versão anterior. Isso inclui dispositivos de entrada e saída, volumes e atalhos de teclado. As duas teclas mais importantes são por padrão: canal local (H) e rádio do esquadrão (0 no numpad).As principais teclas podem ser editadas no PR Launcher e também através do menu de opções na aba PR Mumble.</p>
+<p>É recomendável que você também verifique o painel de configurações principais diretamente no aplicativo de mensagens para verificar se tudo está configurado corretamente. Para fazer isso, localize os Dogtags PR na bandeja do sistema ao lado do relógio do sistema Windows. (PR tem que estar em execução), clique no ícone para abrir a interface do mumble e localize as configurações no topo. Depois disso, o painel de configurações aparecerá e você poderá configurar seus dispositivos de áudio de entrada e saída e alterar mais atalhos de teclado e outras configurações.</p>
+<p><img alt="" src="../../assets/mumblelogo.png" /></p>
+<p>O PR Mumble também se integra ao display HUD do BF2. Durante o jogo, você verá os nomes dos jogadores conversando, cada cor representando o canal que eles estão falando, que é exibido no canto inferior esquerdo da tela. No canto inferior direito, mumble também indica sobre o canal que você está conversando com uma cor diferente, dependendo do canal que você está usando. Ele também mostra se seu microfone ou alto-falantes estão sem som e se há problemas de conexão com o cliente mumble.</p>
+<p><img alt="" src="../../assets/mumble_1.png" /></p>
+<p><img alt="" src="../../assets/mumble_2.png" /></p>
+<p>Microfone Ativo / Alto-Falantes Silenciados / Silenciado / Desconectado</p>
+<h2 id="solucao-de-problemas">Solução de problemas</h2>
+<ul>
+<li>PR:BF2 tem sua própria verificação de arquivo antes de você iniciar o jogo. Você não poderá jogar online com arquivos modificados. Você ainda pode usá-los offline.</li>
+<li>PR:BF2 precisa ser iniciado usando o PR Launcher. Iniciar o BF2.EXE ou PRBF2.EXE não funcionará.</li>
+<li>Além da lista de servidores integrada, você pode usar o <a href="http://realitymodfiles.com/geze/prspy/">PRSpy</a> para navegar e entrar em servidores de PR:BF2. O PRSpy também possui uma lista de amigos que facilita muito a localização de seus amigos.</li>
+</ul>
+<p>Link direto para o PRSpy : <a href="http://www.realitymod.com/prspy/">http://www.realitymod.com/prspy/</a></p>
+<ul>
+<li>Se o servidor que você deseja ingressar estiver cheio, agora você tem a opção de usar o Auto Deploy. Selecione o servidor, clique em “SERVER INFO” e depois em “ENTRAR AUTO”. Uma caixa de diálogo será aberta explicando as etapas restantes. Em seguida, simplesmente deite-se e espere para se conectar uma vez que um espaço se abra.</li>
+<li>O menu de suporte no PR Launcher pode ser muito útil. Pode reunir todas as informações do sistema do seu computador para você copiar e colar em nossos fóruns de suporte para quando você precisar de assistência. Ele também pode fornecer o seu CD-Key Hash.</li>
+</ul>
+<p>Aqui estão alguns links de fórum do realitymod.com para usar por vários motivos comuns:</p>
+<ul>
+<li><a href="http://www.realitymod.com/forum/f26-pr-bf2-bugs">PR:BF2 Bugs</a> sub-fórum para reportar bugs.</li>
+<li><a href="http://www.realitymod.com/forum/f252-pr-bf2-feedback">PR:BF2 Feedback</a> sub-fórum para relatar sua experiênciai sobre PR: BF2.</li>
+<li><a href="http://www.realitymod.com/forum/f27-pr-bf2-support">PR:BF2 Support</a> fóruns para todos os seus problemas relativos à execução e instalação do jogo e erros que você está recebendo.</li>
+<li><a href="http://www.realitymod.com/forum/f360-general-technical-support">General Technical Support</a> para todas as suas questões técnicas.</li>
+<li><a href="http://www.realitymod.com/forum/f137-pr-game-tactics-strategies">PR In-Game Tactics and Strategies</a> irá ajudá-lo ainda mais neste manual para dominar todos os elementos do PR: BF2 com guias e tutoriais escritos pela comunidade.</li>
+</ul>
+<h2 id="constroles-padroes-do-jogo">Constroles Padrões do Jogo</h2>
+<p><strong>Controles Gerais</strong></p>
+<table>
+<thead>
+<tr>
+<th>Caps Lock/Home</th>
+<th>Seleção de kit, seleção de esquadrão e menus do mapa</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Tab</strong></td>
+<td>Mostrar placar</td>
+</tr>
+<tr>
+<td><strong>Print Screen</strong></td>
+<td>Tirar captura de tela</td>
+</tr>
+<tr>
+<td><strong>M</strong></td>
+<td>Mostrar / ocultar sobreposição de mapas</td>
+</tr>
+<tr>
+<td><strong>N</strong></td>
+<td>Mudar o nível de zoom do minimap</td>
+</tr>
+<tr>
+<td><strong>Q</strong></td>
+<td>Exibir rádio de atalhos principal</td>
+</tr>
+<tr>
+<td><strong>T</strong></td>
+<td>Exibir rádio de atalhos secundário</td>
+</tr>
+<tr>
+<td><strong>Alt esquerdo</strong></td>
+<td>Mostrar / ocultar marcadores 3D (visível apenas dentro de 50m)</td>
+</tr>
+<tr>
+<td><strong>C</strong></td>
+<td>Alternar câmera BUIS / Alterar câmera</td>
+</tr>
+<tr>
+<td><strong>End/grave</strong></td>
+<td>Console</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Armas</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>G</strong></th>
+<th style="text-align: left;">Pegar / Trocar / Largar um kit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Botão Esquerdo do Mouse</strong></td>
+<td style="text-align: left;">Atirar</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Botão Direito do Mouse</strong></td>
+<td style="text-align: left;">Mirar</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>R</strong></td>
+<td style="text-align: left;">Recarregar</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>F</strong></td>
+<td style="text-align: left;">Mudar para o proximo Armamento</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>1-9</strong></td>
+<td style="text-align: left;">Selecionar Armas</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Movimento</strong></p>
+<table>
+<thead>
+<tr>
+<th><strong>E</strong></th>
+<th>Entrar / Sair de veículo ou Construção</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>WSAD</strong></td>
+<td>Movimentação básica</td>
+</tr>
+<tr>
+<td><strong>Left Ctrl</strong></td>
+<td>Agachar (Segurar)</td>
+</tr>
+<tr>
+<td><strong>Z</strong></td>
+<td>Alternar deitar</td>
+</tr>
+<tr>
+<td><strong>Space</strong></td>
+<td>Pular</td>
+</tr>
+<tr>
+<td><strong>Left Shift</strong></td>
+<td>Correr / Impulsionamento extra do Veículo</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Veículos</strong></p>
+<table>
+<thead>
+<tr>
+<th><strong>F1-F8</strong></th>
+<th>Trocar Posição do Veículo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>X</strong></td>
+<td>Aumentar a ampliação do zoom / flares</td>
+</tr>
+<tr>
+<td><strong>6-9</strong></td>
+<td>Posições da Câmera (helicópteros e Aviões apenas)</td>
+</tr>
+<tr>
+<td><strong>R</strong></td>
+<td>Recarregar</td>
+</tr>
+<tr>
+<td><strong>F</strong></td>
+<td>Mudar para o proximo Armamento</td>
+</tr>
+<tr>
+<td><strong>1-9</strong></td>
+<td>Selecionar Armas</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Comunicação</strong></p>
+<table>
+<thead>
+<tr>
+<th><strong>J</strong></th>
+<th>Bate-papo para todos os jogadores</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>K</strong></td>
+<td>Bate-papo somente para sua equipe</td>
+</tr>
+<tr>
+<td><strong>L</strong></td>
+<td>Bate-papo apenas para o seu esquadrão</td>
+</tr>
+<tr>
+<td><strong>Page Up</strong></td>
+<td>Aceitar pedido</td>
+</tr>
+<tr>
+<td><strong>Page Down</strong></td>
+<td>Negar pedido</td>
+</tr>
+<tr>
+<td><strong>B / H</strong></td>
+<td>PR Mumble Canal de rádio local</td>
+</tr>
+<tr>
+<td><strong>V / 0 (numpad)</strong></td>
+<td>PR Mumble Canal de rádio do Esquadrão</td>
+</tr>
+<tr>
+<td><strong>1-9 (numpad)</strong></td>
+<td>PR Mumble Canal de rádio de um Líder de Esquadrão Individual</td>
+</tr>
+<tr>
+<td><strong>*(numpad)</strong></td>
+<td>PR Mumble Canal para Todos os Lideres de Esquadrão</td>
+</tr>
+<tr>
+<td><strong>/(numpad)</strong></td>
+<td>PR Mumble Canal de rádio Individual com o comandante</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Mumble Atalhos</strong></p>
+<p><img alt="" src="../../assets/mumblekeys.png" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2024 The Project Reality Team
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/realitymod" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.facebook.com/realitymod" target="_blank" rel="noopener" title="www.facebook.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M512 256C512 114.6 397.4 0 256 0S0 114.6 0 256c0 120 82.7 220.8 194.2 248.5V334.2h-52.8V256h52.8v-33.7c0-87.1 39.4-127.5 125-127.5 16.2 0 44.2 3.2 55.7 6.4V172c-6-.6-16.5-1-29.6-1-42 0-58.2 15.9-58.2 57.2V256h83.6l-14.4 78.2H287v175.9C413.8 494.8 512 386.9 512 256z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.instagram.com/projectrealitymod/" target="_blank" rel="noopener" title="www.instagram.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://discord.com/servers/project-reality-190090455973756928" target="_blank" rel="noopener" title="discord.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M524.531 69.836a1.5 1.5 0 0 0-.764-.7A485.065 485.065 0 0 0 404.081 32.03a1.816 1.816 0 0 0-1.923.91 337.461 337.461 0 0 0-14.9 30.6 447.848 447.848 0 0 0-134.426 0 309.541 309.541 0 0 0-15.135-30.6 1.89 1.89 0 0 0-1.924-.91 483.689 483.689 0 0 0-119.688 37.107 1.712 1.712 0 0 0-.788.676C39.068 183.651 18.186 294.69 28.43 404.354a2.016 2.016 0 0 0 .765 1.375 487.666 487.666 0 0 0 146.825 74.189 1.9 1.9 0 0 0 2.063-.676A348.2 348.2 0 0 0 208.12 430.4a1.86 1.86 0 0 0-1.019-2.588 321.173 321.173 0 0 1-45.868-21.853 1.885 1.885 0 0 1-.185-3.126 251.047 251.047 0 0 0 9.109-7.137 1.819 1.819 0 0 1 1.9-.256c96.229 43.917 200.41 43.917 295.5 0a1.812 1.812 0 0 1 1.924.233 234.533 234.533 0 0 0 9.132 7.16 1.884 1.884 0 0 1-.162 3.126 301.407 301.407 0 0 1-45.89 21.83 1.875 1.875 0 0 0-1 2.611 391.055 391.055 0 0 0 30.014 48.815 1.864 1.864 0 0 0 2.063.7A486.048 486.048 0 0 0 610.7 405.729a1.882 1.882 0 0 0 .765-1.352c12.264-126.783-20.532-236.912-86.934-334.541ZM222.491 337.58c-28.972 0-52.844-26.587-52.844-59.239s23.409-59.241 52.844-59.241c29.665 0 53.306 26.82 52.843 59.239 0 32.654-23.41 59.241-52.843 59.241Zm195.38 0c-28.971 0-52.843-26.587-52.843-59.239s23.409-59.241 52.843-59.241c29.667 0 53.307 26.82 52.844 59.239 0 32.654-23.177 59.241-52.844 59.241Z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.youtube.com/@ProjectRealityMod" target="_blank" rel="noopener" title="www.youtube.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.path", "navigation.indexes"], "search": "../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.1e8ae164.min.js"></script>
+      
+    
+  </body>
+</html>
